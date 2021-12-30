@@ -15,7 +15,7 @@ const getHotStocks = () => {
   let hot_list = [];
 
   const f = async () => {
-    if (publishTime && (currentTime - publishTime) > ONE_MONTH) {
+    if (publishTime && (currentTime - publishTime) > (ONE_MONTH * 2)) {
       writeData2File("hot_list.json", hot_list);
       return;
     }
