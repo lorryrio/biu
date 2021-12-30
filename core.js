@@ -83,7 +83,7 @@ const biu = async (hot_list, unit = 2) => {
     item.currentPercent = currentPercent;
   }
 
-  console.log(hot_list.filter(item => item.hotIndex).sort((a, b) => b.hotIndex - a.hotIndex));
+  console.table(hot_list.filter(item => item.hotIndex).sort((a, b) => b.hotIndex - a.hotIndex));
 };
 
 const checkVolume = (items, unit) => {
