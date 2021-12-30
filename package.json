@@ -1,0 +1,15 @@
+{
+  "name": "biu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "biu": "node biu.js",
+    "get_hot_list": "node get_hot_list.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
