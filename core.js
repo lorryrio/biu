@@ -71,13 +71,16 @@ const biu = async (hot_list, unit = 2) => {
       params: query,
       headers: xueqiuHeaders,
     });
+    const length = res.data.items.length;
 
-    if (!res.data.items.length) {
+    if (!length) {
       continue;
     }
+    const currentPercent = res.data.items[length - 1].percent;
     const checkedVolumes = checkVolume(res.data.items, unit);
     const hotIndex = (checkedVolumes.reduce((sum, item) => sum + item.up, 0)).toFixed(2);
     item.hotIndex = Number(hotIndex);
+    item.currentPercent = currentPercent;
   }
 
   console.log(hot_list.filter(item => item.hotIndex).sort((a, b) => b.hotIndex - a.hotIndex));
