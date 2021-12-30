@@ -6,7 +6,7 @@
   "scripts": {
     "biu": "node biu.js",
     "get_hot_list": "node get_hot_list.js",
-    "push": "git add . && git commit -m 'update' && git push"
+    "push": "git add . && git commit -m 'biu' && git push"
   },
   "author": "",
   "license": "ISC",
