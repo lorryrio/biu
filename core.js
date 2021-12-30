@@ -72,15 +72,20 @@ const biu = async (hot_list, unit = 2) => {
       headers: xueqiuHeaders,
     });
     const length = res.data.items.length;
-
     if (!length) {
       continue;
     }
-    const currentPercent = res.data.items[length - 1].percent;
+
+    const currentItem = res.data.items[length - 1];
+    const currentPercent = currentItem.percent;
+    const currentPrice = currentItem.current;
+
     const checkedVolumes = checkVolume(res.data.items, unit);
     const hotIndex = (checkedVolumes.reduce((sum, item) => sum + item.up, 0)).toFixed(2);
+
     item.hotIndex = Number(hotIndex);
     item.currentPercent = currentPercent;
+    item.currentPrice = currentPrice;
   }
 
   console.table(hot_list.filter(item => item.hotIndex).sort((a, b) => b.hotIndex - a.hotIndex));
