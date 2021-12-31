@@ -16,6 +16,7 @@ const getHotStocks = () => {
 
   const f = async () => {
     if (publishTime && (currentTime - publishTime) > (ONE_MONTH * 2)) {
+      console.log(`${hot_list.length} got.`)
       writeData2File("hot_list.json", hot_list);
       return;
     }
@@ -59,6 +60,7 @@ const getHotStocks = () => {
 };
 
 const biu = async (hot_list, unit = 2) => {
+  let index = 0;
   for (item of hot_list) {
     const symbol = item.symbol;
     const query = {
@@ -86,6 +88,8 @@ const biu = async (hot_list, unit = 2) => {
     item.hotIndex = Number(hotIndex);
     item.currentPercent = currentPercent;
     item.currentPrice = currentPrice;
+
+    console.log(`${(++index)}/${hot_list.length} done`)
   }
 
   console.table(hot_list.filter(item => item.hotIndex).sort((a, b) => b.hotIndex - a.hotIndex));
