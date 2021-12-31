@@ -109,7 +109,7 @@ const checkVolume = (items, unit) => {
       const currentPrice = item.current;
       const currentVolume = item.volume;
       const averageVolume = volume_sum / count;
-      const inOrOut = currentPrice > beforePrice ? 1 : -1;
+      const inOrOut = currentPrice > beforePrice ? 1 : (-1 * unit);
 
       if (currentVolume > (unit * averageVolume)) {
         return {
