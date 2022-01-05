@@ -1,8 +1,7 @@
 name: 'Get Hot List Bot'
 
 on:
-  schedule:
-    - cron: '15 * * * *'
+  push:
 
 jobs:
   bot:

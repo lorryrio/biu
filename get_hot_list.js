@@ -6,7 +6,7 @@ const getPath = (path, ns = 'github') => {
   return fullpath;
 };
 
-(async () => {
+setTimeout(async () => {
   try {
     const hot_list = await getHotStocks();
     const gitrows = new Gitrows(projectInfo);
@@ -19,4 +19,4 @@ const getPath = (path, ns = 'github') => {
   } catch (e) {
     console.log(e);
   }
-})()
+}, 1000 * 60 * 5)
