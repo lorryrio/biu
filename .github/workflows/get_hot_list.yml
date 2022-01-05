@@ -1,4 +1,4 @@
-name: 'Get Hot List Bot'
+name: 'Auto Get Hot List'
 
 on:
   schedule:

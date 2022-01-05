@@ -1,7 +1,8 @@
-name: 'Stock Biu Bot'
+name: 'Auto Biu'
 
 on:
-  push:
+  schedule:
+    - cron: '15 * * * *'
 
 jobs:
   bot:
