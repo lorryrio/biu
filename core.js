@@ -2,10 +2,26 @@ const { default: axios } = require("axios");
 const { xueqiuHeaders } = require("./config");
 const fs = require("fs");
 
-const writeData2File = (filePath, data) => {
+const saveData = (filePath, data) => {
   const dataString = JSON.stringify(data);
   fs.writeFileSync(filePath, dataString);
 };
+
+const deduplicate = (data) => {
+  const arr = [];
+  const tmp = [];
+  for (item of data) {
+    const index = tmp.indexOf(item.symbol);
+    if (index === -1) {
+      arr.push({ ...item, repeat: 1 });
+      tmp.push(item.symbol);
+    } else {
+      arr[index].repeat += 1;
+    }
+  }
+
+  return arr;
+}
 
 const getHotStocks = () => {
   let nt = null;
@@ -16,8 +32,9 @@ const getHotStocks = () => {
 
   const f = async () => {
     if (publishTime && (currentTime - publishTime) > ONE_MONTH) {
+      hot_list = deduplicate(hot_list);
       console.log(`${hot_list.length} got.`)
-      writeData2File("hot_list.json", hot_list);
+      saveData("hot_list.json", hot_list);
       return;
     }
 
