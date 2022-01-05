@@ -3,7 +3,7 @@ const projectInfo = {
   owner: 'lorryrio',
   projectName: 'biu',
   csv: { delimiter: ',' },
-  cacheTTL: 10000,
+  cacheTTL: 3000,
   type: 'json',
 };
 
