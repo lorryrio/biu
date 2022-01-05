@@ -11,11 +11,11 @@ const getHotStocks = () => {
   let nt = null;
   let currentTime = new Date().getTime();
   let publishTime = null;
-  const ONE_MONTH = 3 * 24 * 60 * 60 * 1000;
+  const ONE_MONTH = 30 * 24 * 60 * 60 * 1000;
   let hot_list = [];
 
   const f = async () => {
-    if (publishTime && (currentTime - publishTime) > (ONE_MONTH * 2)) {
+    if (publishTime && (currentTime - publishTime) > ONE_MONTH) {
       console.log(`${hot_list.length} got.`)
       writeData2File("hot_list.json", hot_list);
       return;
@@ -37,6 +37,7 @@ const getHotStocks = () => {
     const list = res.data.list;
     const length = list.length;
     publishTime = list[length - 1].publishTime;
+    console.log("publishTime", (new Date(publishTime)).toLocaleDateString());
     nt = res.data.nt;
     const this_list = list.map(article => {
       const title = article.title;
