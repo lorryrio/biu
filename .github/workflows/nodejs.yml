@@ -1,0 +1,20 @@
+name: 'Stock Biu Bot'
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: 'Install node'
+        uses: actions/setup-node@v1
+      - name: 'Install NPM dependencies'
+        run: npm install
+      - name: 'Run code'
+        run: node get_hot_list.js
+        env:
+          API_KEY: ${{ secrets.ACCESS_TOKEN }}
