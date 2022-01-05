@@ -7,7 +7,7 @@
     "test": "node test.js",
     "biu": "node biu.js",
     "get_hot_list": "node get_hot_list.js",
-    "push": "git add . && git commit -m 'biu' && git push"
+    "push": "git pull && git add . && git commit -m 'biu' && git push"
   },
   "author": "",
   "license": "ISC",
