@@ -1,5 +1,5 @@
 const projectInfo = {
-  token: process.env.API_KEY,
+  token: process.env.ACCESS_TOKEN,
   owner: 'lorryrio',
   projectName: 'biu',
   csv: { delimiter: ',' },
