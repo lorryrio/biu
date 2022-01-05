@@ -1,7 +1,6 @@
 name: 'Stock Biu Bot'
 
 on:
-  push:
   schedule:
     - cron: '0 */1 * * *'
 
