@@ -6,17 +6,15 @@ const getPath = (path, ns = 'github') => {
   return fullpath;
 };
 
-setTimeout(async () => {
-  try {
-    const hot_list = await getHotStocks();
-    const gitrows = new Gitrows(projectInfo);
-    const data = await gitrows.replace(
-      getPath('data/hot_list.json'),
-      hot_list
-    );
+try {
+  const hot_list = await getHotStocks();
+  const gitrows = new Gitrows(projectInfo);
+  const data = await gitrows.replace(
+    getPath('data/hot_list.json'),
+    hot_list
+  );
 
-    console.log(data);
-  } catch (e) {
-    console.log(e);
-  }
-}, 1000 * 60 * 5)
+  console.log(data);
+} catch (e) {
+  console.log(e);
+}
