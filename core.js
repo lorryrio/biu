@@ -23,7 +23,7 @@ const deduplicate = (data) => {
   return arr;
 }
 
-const getHotStocks = () => {
+const getHotStocks = async () => {
   let nt = null;
   let currentTime = new Date().getTime();
   let publishTime = null;
@@ -34,8 +34,8 @@ const getHotStocks = () => {
     if (publishTime && (currentTime - publishTime) > ONE_MONTH) {
       hot_list = deduplicate(hot_list);
       console.log(`${hot_list.length} got.`)
-      saveData("hot_list.json", hot_list);
-      return;
+      // saveData("hot_list.json", hot_list);
+      return hot_list;
     }
 
     const query = {
@@ -70,11 +70,11 @@ const getHotStocks = () => {
     hot_list = [...hot_list, ...this_list];
 
     if (nt) {
-      f();
+      return await f();
     }
   };
 
-  f();
+  return await f();
 };
 
 const biu = async (hot_list, unit = 2) => {
@@ -110,7 +110,7 @@ const biu = async (hot_list, unit = 2) => {
     console.log(`${(++index)}/${hot_list.length} done`)
   }
 
-  console.table(hot_list.filter(item => item.hotIndex).sort((a, b) => b.hotIndex - a.hotIndex));
+  return hot_list.filter(item => item.hotIndex).sort((a, b) => b.hotIndex - a.hotIndex)
 };
 
 const checkVolume = (items, unit) => {

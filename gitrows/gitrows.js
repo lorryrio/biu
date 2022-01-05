@@ -23,7 +23,7 @@ module.exports = class Gitrows {
 			ns: 'github',
 			branch: 'main',
 			message: 'GitRowsPack API Post',
-			author: { name: "GitRowsPack", email: "s4nixd@gmail.com" },
+			author: { name: "lorry", email: "lorryrio@foxmail.com" },
 			csv: { delimiter: "," },
 			strict: false,
 			default: null
