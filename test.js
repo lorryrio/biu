@@ -15,9 +15,24 @@ const getPath = (path, ns = 'github') => {
 const gitrows = new Gitrows(projectInfo);
 
 (async () => {
-  const data = await gitrows.get(
-    getPath('data/hot_list.json')
-  );
+  // get all
+  // const data = await gitrows.get(
+  //   getPath('data/hot_list.json')
+  // );
+
+  // filter
+  // const data = await gitrows.get(
+  //   getPath('data/hot_list.json'),
+  //   {
+  //     "symbol":"SZ002460"
+  //   }
+  // );
   
+  const data = await gitrows.put(
+    getPath('data/hot_list.json'),
+    {
+      "symbol":"xxx"
+    }
+  );
   console.log(data);
 })()
