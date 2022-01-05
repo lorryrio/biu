@@ -2,7 +2,7 @@ name: 'Auto Get Hot List'
 
 on:
   schedule:
-    - cron: '15 * * * *'
+    - cron: '* * * * *'
 
 jobs:
   bot:
