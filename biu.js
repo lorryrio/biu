@@ -7,8 +7,6 @@ const getPath = (path, ns = 'github') => {
 };
 
 (async () => {
-  console.log("new Date().getHours()", new Date().getHours());
-  
   try {
     const gitrows = new Gitrows(projectInfo);
     const hot_list = await gitrows.get(
@@ -16,7 +14,8 @@ const getPath = (path, ns = 'github') => {
     );
     const today_result = await biu(hot_list, 3);
     const today = ((new Date()).toLocaleDateString()).replace(/\//g, "_");
-    const jsonPath = `data/result_${today}.json`;
+    const now_hours = new Date().getHours() + 8;
+    const jsonPath = now_hours >= 15 ? `data/result_${today}.json` : `data/result_now.json`;
 
     const today_data = await gitrows.get(
       getPath(jsonPath)
