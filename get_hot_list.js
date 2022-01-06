@@ -6,7 +6,7 @@ const getPath = (path, ns = 'github') => {
   return fullpath;
 };
 
-(() => {
+(async () => {
   try {
     const hot_list = await getHotStocks();
     const gitrows = new Gitrows(projectInfo);
