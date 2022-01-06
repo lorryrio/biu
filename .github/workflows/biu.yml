@@ -1,7 +1,8 @@
 name: 'Auto Biu'
 
 on:
-  push:
+  schedule:
+    - cron: '* * * * *'
 
 jobs:
   bot:
