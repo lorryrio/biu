@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002460",
+    "name": "赣锋锂业",
+    "repeat": 3
+  },
+  {
+    "symbol": "SZ002466",
+    "name": "天齐锂业",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002493",
     "name": "荣盛石化",
     "repeat": 1
@@ -168,11 +178,6 @@
     "symbol": "SH688599",
     "name": "天合光能",
     "repeat": 1
-  },
-  {
-    "symbol": "SZ002460",
-    "name": "赣锋锂业",
-    "repeat": 2
   },
   {
     "symbol": "SZ002756",
@@ -867,16 +872,6 @@
   {
     "symbol": "SH601128",
     "name": "常熟银行",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002232",
-    "name": "启明信息",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002970",
-    "name": "锐明技术",
     "repeat": 1
   }
 ]
