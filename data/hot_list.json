@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300776",
+    "name": "帝尔激光",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688516",
+    "name": "奥 特 维",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002026",
     "name": "山东威达",
     "repeat": 1
@@ -117,7 +127,7 @@
   {
     "symbol": "SZ002532",
     "name": "天山铝业",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300627",
@@ -352,11 +362,6 @@
   {
     "symbol": "SH600660",
     "name": "福耀玻璃",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300776",
-    "name": "帝尔激光",
     "repeat": 1
   },
   {
@@ -597,7 +602,7 @@
   {
     "symbol": "SH600219",
     "name": "南山铝业",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300843",
