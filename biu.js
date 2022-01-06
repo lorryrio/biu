@@ -7,6 +7,8 @@ const getPath = (path, ns = 'github') => {
 };
 
 (async () => {
+  console.log("new Date().getHours()", new Date().getHours());
+  
   try {
     const gitrows = new Gitrows(projectInfo);
     const hot_list = await gitrows.get(
