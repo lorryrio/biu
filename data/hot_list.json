@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002026",
+    "name": "山东威达",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688022",
+    "name": "瀚川智能",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002460",
     "name": "赣锋锂业",
     "repeat": 3
@@ -862,16 +872,6 @@
   {
     "symbol": "SZ300393",
     "name": "中来股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600908",
-    "name": "无锡银行",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601128",
-    "name": "常熟银行",
     "repeat": 1
   }
 ]
