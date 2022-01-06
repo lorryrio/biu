@@ -1,5 +1,35 @@
 [
   {
+    "symbol": "SZ002493",
+    "name": "荣盛石化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600346",
+    "name": "恒力石化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002011",
+    "name": "盾安环境",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ300217",
+    "name": "东方电热",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002438",
+    "name": "江苏神通",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600860",
+    "name": "京城股份",
+    "repeat": 1
+  },
+  {
     "symbol": "BI993933",
     "name": "疫苗",
     "repeat": 1
@@ -692,7 +722,7 @@
   {
     "symbol": "SH600570",
     "name": "恒生电子",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603383",
@@ -815,11 +845,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002011",
-    "name": "盾安环境",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600258",
     "name": "首旅酒店",
     "repeat": 1
@@ -852,21 +877,6 @@
   {
     "symbol": "SZ002970",
     "name": "锐明技术",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002032",
-    "name": "苏 泊 尔",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002705",
-    "name": "新宝股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002212",
-    "name": "天 融 信",
     "repeat": 1
   }
 ]
