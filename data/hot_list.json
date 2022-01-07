@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH688033",
+    "name": "天宜上佳",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688598",
+    "name": "金博股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600549",
     "name": "厦门钨业",
     "repeat": 1
@@ -62,7 +72,7 @@
   {
     "symbol": "SZ002011",
     "name": "盾安环境",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300217",
@@ -587,7 +597,7 @@
   {
     "symbol": "SZ002837",
     "name": "英 维 克",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ300499",
