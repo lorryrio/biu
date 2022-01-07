@@ -13,6 +13,7 @@ const getPath = (path, ns = 'github') => {
       getPath('data/hot_list.json')
     );
     const today_result = await biu(hot_list, 3);
+    console.table(today_result);
     const today = ((new Date()).toLocaleDateString()).replace(/\//g, "_");
     const now_hours = new Date().getHours() + 8;
     const jsonPath = now_hours >= 15 ? `data/result_${today}.json` : `data/result_now.json`;
