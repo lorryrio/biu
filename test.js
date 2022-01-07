@@ -1,5 +1,5 @@
-const today = require("./data/result_1_6_2022.json");
-const yesterday = require("./data/result_1_5_2022.json");
+const today = require("./data/result_now.json");
+const yesterday = require("./data/result_1_6_2022.json");
 
 const arr = [];
 for (today_item of today) {
