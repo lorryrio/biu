@@ -16,7 +16,7 @@ const getPath = (path, ns = 'github') => {
     console.table(today_result);
     const today = ((new Date()).toLocaleDateString()).replace(/\//g, "_");
     const now_hours = new Date().getHours() + 8;
-    const jsonPath = now_hours >= 15 ? `data/result_${today}.json` : `data/result_now.json`;
+    const jsonPath = now_hours >= 16 ? `data/result_${today}.json` : `data/result_now.json`;
 
     const today_data = await gitrows.get(
       getPath(jsonPath)
