@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SH603313",
+    "name": "梦 百 合",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605003",
+    "name": "众望布艺",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000333",
+    "name": "美的集团",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ002705",
+    "name": "新宝股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002352",
     "name": "顺丰控股",
     "repeat": 1
@@ -387,11 +407,6 @@
   {
     "symbol": "SZ300994",
     "name": "久祺股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000333",
-    "name": "美的集团",
     "repeat": 1
   },
   {
@@ -837,26 +852,6 @@
   {
     "symbol": "SH600845",
     "name": "宝信软件",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600298",
-    "name": "安琪酵母",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603027",
-    "name": "千禾味业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000968",
-    "name": "蓝焰控股",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603393",
-    "name": "新天然气",
     "repeat": 1
   }
 ]
