@@ -9,6 +9,7 @@ const getPath = (path, ns = 'github') => {
 (async () => {
   try {
     const hot_list = await getHotStocks();
+    console.table(hot_list);
     const gitrows = new Gitrows(projectInfo);
     const data = await gitrows.replace(
       getPath('data/hot_list.json'),
