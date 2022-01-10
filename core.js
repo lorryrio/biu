@@ -122,7 +122,7 @@ const checkVolume = (items, unit) => {
       // time: (new Date(item.timestamp)).toLocaleString()
     };
 
-    if (index > 0) {
+    if (index > 30) {
       const beforePrice = items[index - 1].current;
       const currentPrice = item.current;
       const currentVolume = item.volume;
