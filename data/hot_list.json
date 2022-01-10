@@ -1,5 +1,55 @@
 [
   {
+    "symbol": "SZ002352",
+    "name": "顺丰控股",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600233",
+    "name": "圆通速递",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600765",
+    "name": "中航重机",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600893",
+    "name": "航发动力",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603259",
+    "name": "药明康德",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603456",
+    "name": "九洲药业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300348",
+    "name": "长亮科技",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ300674",
+    "name": "宇信科技",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600460",
+    "name": "士 兰 微",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688187",
+    "name": "时代电气",
+    "repeat": 1
+  },
+  {
     "symbol": "SH688033",
     "name": "天宜上佳",
     "repeat": 1
@@ -27,16 +77,6 @@
   {
     "symbol": "SH688516",
     "name": "奥 特 维",
-    "repeat": 1
-  },
-  {
-    "symbol": "BI991013",
-    "name": "农副食品",
-    "repeat": 1
-  },
-  {
-    "symbol": "BI994410",
-    "name": "啤酒",
     "repeat": 1
   },
   {
@@ -87,11 +127,6 @@
   {
     "symbol": "SH600860",
     "name": "京城股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300348",
-    "name": "长亮科技",
     "repeat": 1
   },
   {
@@ -247,11 +282,6 @@
   {
     "symbol": "SZ002013",
     "name": "中航机电",
-    "repeat": 2
-  },
-  {
-    "symbol": "SH600765",
-    "name": "中航重机",
     "repeat": 1
   },
   {
@@ -430,11 +460,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH603259",
-    "name": "药明康德",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ300454",
     "name": "深 信 服",
     "repeat": 1
@@ -452,7 +477,7 @@
   {
     "symbol": "SZ002916",
     "name": "深南电路",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000795",
@@ -472,11 +497,6 @@
   {
     "symbol": "SH688589",
     "name": "力 合 微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300674",
-    "name": "宇信科技",
     "repeat": 1
   },
   {
@@ -567,11 +587,6 @@
   {
     "symbol": "SZ002041",
     "name": "登海种业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600893",
-    "name": "航发动力",
     "repeat": 1
   },
   {
@@ -842,46 +857,6 @@
   {
     "symbol": "SH603393",
     "name": "新天然气",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603008",
-    "name": "喜 临 门",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603816",
-    "name": "顾家家居",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002938",
-    "name": "鹏鼎控股",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688026",
-    "name": "洁特生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688105",
-    "name": "诺 唯 赞",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603997",
-    "name": "继峰股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688533",
-    "name": "上声电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600416",
-    "name": "湘电股份",
     "repeat": 1
   }
 ]
