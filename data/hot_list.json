@@ -1,5 +1,35 @@
 [
   {
+    "symbol": "SH688065",
+    "name": "凯赛生物",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688639",
+    "name": "华恒生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI991028",
+    "name": "医疗卫生",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI993933",
+    "name": "疫苗",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603055",
+    "name": "台华新材",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605080",
+    "name": "浙江自然",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603313",
     "name": "梦 百 合",
     "repeat": 1
@@ -627,7 +657,7 @@
   {
     "symbol": "SZ002837",
     "name": "英 维 克",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300499",
@@ -780,11 +810,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH688065",
-    "name": "凯赛生物",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600863",
     "name": "内蒙华电",
     "repeat": 1
@@ -827,31 +852,6 @@
   {
     "symbol": "SH688011",
     "name": "新光光电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000708",
-    "name": "中信特钢",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000932",
-    "name": "华菱钢铁",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000858",
-    "name": "五 粮 液",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600519",
-    "name": "贵州茅台",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600845",
-    "name": "宝信软件",
     "repeat": 1
   }
 ]
