@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603297",
+    "name": "永新光学",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688167",
+    "name": "炬光科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SH688065",
     "name": "凯赛生物",
     "repeat": 2
@@ -842,16 +852,6 @@
   {
     "symbol": "SZ300568",
     "name": "星源材质",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300034",
-    "name": "钢研高纳",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688011",
-    "name": "新光光电",
     "repeat": 1
   }
 ]
