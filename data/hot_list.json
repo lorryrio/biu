@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300957",
+    "name": "贝 泰 妮",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603605",
+    "name": "珀 莱 雅",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603297",
     "name": "永新光学",
     "repeat": 1
@@ -842,16 +852,6 @@
   {
     "symbol": "SH688083",
     "name": "中望软件",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002812",
-    "name": "恩捷股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300568",
-    "name": "星源材质",
     "repeat": 1
   }
 ]
