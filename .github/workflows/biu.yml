@@ -1,8 +1,8 @@
 name: 'Auto Biu'
 
-# on:
-#   schedule:
-#     - cron: '* * * * *'
+on:
+  schedule:
+    - cron: '*/60 * * * *'
 
 jobs:
   bot:
