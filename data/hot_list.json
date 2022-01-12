@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002987",
+    "name": "京 北 方",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300674",
+    "name": "宇信科技",
+    "repeat": 3
+  },
+  {
+    "symbol": "SZ000012",
+    "name": "南  玻Ａ",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601636",
+    "name": "旗滨集团",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600919",
     "name": "江苏银行",
     "repeat": 1
@@ -42,7 +62,7 @@
   {
     "symbol": "SH688065",
     "name": "凯赛生物",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688639",
@@ -112,11 +132,6 @@
   {
     "symbol": "SZ300348",
     "name": "长亮科技",
-    "repeat": 2
-  },
-  {
-    "symbol": "SZ300674",
-    "name": "宇信科技",
     "repeat": 2
   },
   {
@@ -312,7 +327,7 @@
   {
     "symbol": "SH601088",
     "name": "中国神华",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ002271",
@@ -827,16 +842,6 @@
   {
     "symbol": "SZ000811",
     "name": "冰轮环境",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600165",
-    "name": "新日恒力",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600863",
-    "name": "内蒙华电",
     "repeat": 1
   }
 ]
