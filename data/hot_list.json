@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600519",
+    "name": "贵州茅台",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600887",
+    "name": "伊利股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002987",
     "name": "京 北 方",
     "repeat": 1
@@ -62,7 +72,7 @@
   {
     "symbol": "SH688065",
     "name": "凯赛生物",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH688639",
@@ -327,7 +337,7 @@
   {
     "symbol": "SH601088",
     "name": "中国神华",
-    "repeat": 2
+    "repeat": 3
   },
   {
     "symbol": "SZ002271",
@@ -697,7 +707,7 @@
   {
     "symbol": "SZ002837",
     "name": "英 维 克",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SZ300499",
@@ -842,6 +852,76 @@
   {
     "symbol": "SZ000811",
     "name": "冰轮环境",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600165",
+    "name": "新日恒力",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600863",
+    "name": "内蒙华电",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600570",
+    "name": "恒生电子",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603383",
+    "name": "顶点软件",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000066",
+    "name": "中国长城",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688083",
+    "name": "中望软件",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002812",
+    "name": "恩捷股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300568",
+    "name": "星源材质",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300034",
+    "name": "钢研高纳",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688011",
+    "name": "新光光电",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000708",
+    "name": "中信特钢",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000932",
+    "name": "华菱钢铁",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000858",
+    "name": "五 粮 液",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600845",
+    "name": "宝信软件",
     "repeat": 1
   }
 ]
