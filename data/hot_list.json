@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SH600919",
+    "name": "江苏银行",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601166",
+    "name": "兴业银行",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601390",
+    "name": "中国中铁",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601669",
+    "name": "中国电建",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ300957",
     "name": "贝 泰 妮",
     "repeat": 1
@@ -27,16 +47,6 @@
   {
     "symbol": "SH688639",
     "name": "华恒生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "BI991028",
-    "name": "医疗卫生",
-    "repeat": 1
-  },
-  {
-    "symbol": "BI993933",
-    "name": "疫苗",
     "repeat": 1
   },
   {
@@ -308,11 +318,6 @@
     "symbol": "SZ002271",
     "name": "东方雨虹",
     "repeat": 2
-  },
-  {
-    "symbol": "SH601669",
-    "name": "中国电建",
-    "repeat": 1
   },
   {
     "symbol": "SH601012",
@@ -832,26 +837,6 @@
   {
     "symbol": "SH600863",
     "name": "内蒙华电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600570",
-    "name": "恒生电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603383",
-    "name": "顶点软件",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000066",
-    "name": "中国长城",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688083",
-    "name": "中望软件",
     "repeat": 1
   }
 ]
