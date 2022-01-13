@@ -96,14 +96,6 @@
     "currentPrice": 54.46
   },
   {
-    "symbol": "SZ002812",
-    "name": "恩捷股份",
-    "repeat": 1,
-    "hotIndex": 8.04,
-    "currentPercent": 0.41,
-    "currentPrice": 251.95
-  },
-  {
     "symbol": "SZ300347",
     "name": "泰格医药",
     "repeat": 1,
@@ -288,6 +280,14 @@
     "currentPrice": 6.65
   },
   {
+    "symbol": "SZ002472",
+    "name": "双环传动",
+    "repeat": 1,
+    "hotIndex": -2.28,
+    "currentPercent": -2.17,
+    "currentPrice": 27.11
+  },
+  {
     "symbol": "SZ300001",
     "name": "特 锐 德",
     "repeat": 1,
@@ -408,6 +408,14 @@
     "currentPrice": 14.8
   },
   {
+    "symbol": "SZ002594",
+    "name": "比 亚 迪",
+    "repeat": 1,
+    "hotIndex": -10.32,
+    "currentPercent": -0.27,
+    "currentPrice": 255.31
+  },
+  {
     "symbol": "SZ300073",
     "name": "当升科技",
     "repeat": 1,
@@ -438,14 +446,6 @@
     "hotIndex": -11.16,
     "currentPercent": -5.97,
     "currentPrice": 46.64
-  },
-  {
-    "symbol": "SZ300568",
-    "name": "星源材质",
-    "repeat": 1,
-    "hotIndex": -11.97,
-    "currentPercent": 0.88,
-    "currentPrice": 36.8
   },
   {
     "symbol": "SZ002837",
