@@ -72,14 +72,6 @@
     "currentPrice": 131.46
   },
   {
-    "symbol": "SH601208",
-    "name": "东材科技",
-    "repeat": 1,
-    "hotIndex": 21.18,
-    "currentPercent": 0.94,
-    "currentPrice": 16.15
-  },
-  {
     "symbol": "SH688100",
     "name": "威胜信息",
     "repeat": 2,
@@ -106,7 +98,7 @@
   {
     "symbol": "SZ300499",
     "name": "高澜股份",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 18.37,
     "currentPercent": 5.99,
     "currentPrice": 14.51
@@ -166,14 +158,6 @@
     "hotIndex": 14.72,
     "currentPercent": 1.98,
     "currentPrice": 23.17
-  },
-  {
-    "symbol": "SH600237",
-    "name": "铜峰电子",
-    "repeat": 1,
-    "hotIndex": 14.46,
-    "currentPercent": 2.58,
-    "currentPrice": 8.36
   },
   {
     "symbol": "SH601865",
@@ -480,14 +464,6 @@
     "currentPrice": 125.5
   },
   {
-    "symbol": "SZ000811",
-    "name": "冰轮环境",
-    "repeat": 1,
-    "hotIndex": -2.99,
-    "currentPercent": 0.27,
-    "currentPrice": 15.03
-  },
-  {
     "symbol": "SZ002916",
     "name": "深南电路",
     "repeat": 1,
@@ -624,6 +600,14 @@
     "currentPrice": 25.12
   },
   {
+    "symbol": "SH600887",
+    "name": "伊利股份",
+    "repeat": 1,
+    "hotIndex": -10.19,
+    "currentPercent": 0.25,
+    "currentPrice": 39.92
+  },
+  {
     "symbol": "SZ002727",
     "name": "一 心 堂",
     "repeat": 1,
@@ -726,6 +710,14 @@
     "hotIndex": -16.26,
     "currentPercent": 0.86,
     "currentPrice": 24.61
+  },
+  {
+    "symbol": "SH600519",
+    "name": "贵州茅台",
+    "repeat": 1,
+    "hotIndex": -16.44,
+    "currentPercent": 1.36,
+    "currentPrice": 1967
   },
   {
     "symbol": "SH603197",
@@ -1000,6 +992,14 @@
     "currentPrice": 193
   },
   {
+    "symbol": "SZ300394",
+    "name": "天孚通信",
+    "repeat": 1,
+    "hotIndex": -41.95,
+    "currentPercent": -1.7,
+    "currentPrice": 32.91
+  },
+  {
     "symbol": "SZ300957",
     "name": "贝 泰 妮",
     "repeat": 1,
@@ -1150,6 +1150,14 @@
     "hotIndex": -85.39,
     "currentPercent": -2.06,
     "currentPrice": 16.16
+  },
+  {
+    "symbol": "SH688313",
+    "name": "仕佳光子",
+    "repeat": 1,
+    "hotIndex": -91.52,
+    "currentPercent": 0.97,
+    "currentPrice": 12.53
   },
   {
     "symbol": "SH601567",
