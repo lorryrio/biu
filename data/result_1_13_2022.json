@@ -168,6 +168,14 @@
     "currentPrice": 40.55
   },
   {
+    "symbol": "SH603799",
+    "name": "华友钴业",
+    "repeat": 1,
+    "hotIndex": 3.59,
+    "currentPercent": 2.39,
+    "currentPrice": 106.2
+  },
+  {
     "symbol": "SH688127",
     "name": "蓝特光学",
     "repeat": 1,
@@ -190,14 +198,6 @@
     "hotIndex": 3.27,
     "currentPercent": 1.9,
     "currentPrice": 10.73
-  },
-  {
-    "symbol": "SZ300034",
-    "name": "钢研高纳",
-    "repeat": 1,
-    "hotIndex": 3.26,
-    "currentPercent": -0.28,
-    "currentPrice": 46.31
   },
   {
     "symbol": "SZ002746",
@@ -406,6 +406,14 @@
     "hotIndex": -10.05,
     "currentPercent": -1.4,
     "currentPrice": 14.8
+  },
+  {
+    "symbol": "SZ300073",
+    "name": "当升科技",
+    "repeat": 1,
+    "hotIndex": -10.75,
+    "currentPercent": -2.23,
+    "currentPrice": 83.12
   },
   {
     "symbol": "SH688167",
@@ -1422,14 +1430,6 @@
     "hotIndex": -188.5,
     "currentPercent": -3.28,
     "currentPrice": 103.5
-  },
-  {
-    "symbol": "SH688011",
-    "name": "新光光电",
-    "repeat": 1,
-    "hotIndex": -188.56,
-    "currentPercent": -1.12,
-    "currentPrice": 32.69
   },
   {
     "symbol": "SH605003",
