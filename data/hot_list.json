@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300073",
+    "name": "当升科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603799",
+    "name": "华友钴业",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600882",
     "name": "妙可蓝多",
     "repeat": 1
@@ -912,16 +922,6 @@
   {
     "symbol": "SZ300568",
     "name": "星源材质",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300034",
-    "name": "钢研高纳",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688011",
-    "name": "新光光电",
     "repeat": 1
   }
 ]
