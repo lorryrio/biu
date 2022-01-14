@@ -117,7 +117,7 @@
   {
     "symbol": "SH688065",
     "name": "凯赛生物",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688639",
@@ -382,7 +382,7 @@
   {
     "symbol": "SH601088",
     "name": "中国神华",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ002271",
@@ -412,7 +412,7 @@
   {
     "symbol": "SH603501",
     "name": "韦尔股份",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SH603596",
@@ -442,7 +442,7 @@
   {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ300496",
@@ -752,7 +752,7 @@
   {
     "symbol": "SZ300499",
     "name": "高澜股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002079",
@@ -847,81 +847,6 @@
   {
     "symbol": "SZ300355",
     "name": "蒙草生态",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002734",
-    "name": "利民股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600486",
-    "name": "扬农化工",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002284",
-    "name": "亚太股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603005",
-    "name": "晶方科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600588",
-    "name": "用友网络",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688777",
-    "name": "中控技术",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600237",
-    "name": "铜峰电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601208",
-    "name": "东材科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000811",
-    "name": "冰轮环境",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600165",
-    "name": "新日恒力",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600863",
-    "name": "内蒙华电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600570",
-    "name": "恒生电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603383",
-    "name": "顶点软件",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000066",
-    "name": "中国长城",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688083",
-    "name": "中望软件",
     "repeat": 1
   }
 ]
