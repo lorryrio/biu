@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300760",
+    "name": "迈瑞医疗",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688677",
+    "name": "海泰新光",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603518",
     "name": "锦泓集团",
     "repeat": 1
@@ -827,16 +837,6 @@
   {
     "symbol": "SZ300699",
     "name": "光威复材",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000408",
-    "name": "藏格矿业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000893",
-    "name": "亚钾国际",
     "repeat": 1
   }
 ]
