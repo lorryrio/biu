@@ -1,5 +1,10 @@
 [
   {
+    "symbol": "SH688196",
+    "name": "卓越新能",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300760",
     "name": "迈瑞医疗",
     "repeat": 1
@@ -827,16 +832,6 @@
   {
     "symbol": "SH688561",
     "name": "奇 安 信",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002080",
-    "name": "中材科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300699",
-    "name": "光威复材",
     "repeat": 1
   }
 ]
