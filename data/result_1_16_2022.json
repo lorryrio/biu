@@ -458,7 +458,7 @@
   {
     "symbol": "SZ002050",
     "name": "三花智控",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -9.39,
     "currentPercent": -1.59,
     "currentPrice": 24.11
@@ -694,14 +694,6 @@
     "hotIndex": -22.89,
     "currentPercent": -1.14,
     "currentPrice": 19.01
-  },
-  {
-    "symbol": "SZ300360",
-    "name": "炬华科技",
-    "repeat": 1,
-    "hotIndex": -23.5,
-    "currentPercent": 1.11,
-    "currentPrice": 10.89
   },
   {
     "symbol": "SH603501",
@@ -1018,7 +1010,7 @@
   {
     "symbol": "SZ002126",
     "name": "银轮股份",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -55.78,
     "currentPercent": 2.51,
     "currentPrice": 13.09
@@ -1134,14 +1126,6 @@
     "hotIndex": -77.32,
     "currentPercent": -3.9,
     "currentPrice": 7.89
-  },
-  {
-    "symbol": "SH601222",
-    "name": "林洋能源",
-    "repeat": 1,
-    "hotIndex": -79.04,
-    "currentPercent": -0.28,
-    "currentPrice": 10.5
   },
   {
     "symbol": "SH688033",
