@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002050",
+    "name": "三花智控",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ002126",
+    "name": "银轮股份",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ300512",
     "name": "中亚股份",
     "repeat": 1
@@ -740,16 +750,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002050",
-    "name": "三花智控",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002126",
-    "name": "银轮股份",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ000998",
     "name": "隆平高科",
     "repeat": 1
@@ -827,16 +827,6 @@
   {
     "symbol": "SH605333",
     "name": "沪光股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300360",
-    "name": "炬华科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601222",
-    "name": "林洋能源",
     "repeat": 1
   }
 ]
