@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300512",
+    "name": "中亚股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603901",
+    "name": "永创智能",
+    "repeat": 1
+  },
+  {
     "symbol": "SH688196",
     "name": "卓越新能",
     "repeat": 1
@@ -822,16 +832,6 @@
   {
     "symbol": "SH601222",
     "name": "林洋能源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300369",
-    "name": "绿盟科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688561",
-    "name": "奇 安 信",
     "repeat": 1
   }
 ]
