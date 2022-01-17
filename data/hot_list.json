@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002508",
+    "name": "老板电器",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600690",
+    "name": "海尔智家",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ300957",
     "name": "贝 泰 妮",
     "repeat": 2
@@ -595,11 +605,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH600690",
-    "name": "海尔智家",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ002240",
     "name": "盛新锂能",
     "repeat": 1
@@ -827,16 +832,6 @@
   {
     "symbol": "SZ300831",
     "name": "派瑞股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300428",
-    "name": "立中集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600219",
-    "name": "南山铝业",
     "repeat": 1
   }
 ]
