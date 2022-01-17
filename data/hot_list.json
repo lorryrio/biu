@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002594",
+    "name": "比 亚 迪",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH601633",
+    "name": "长城汽车",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300075",
+    "name": "数字政通",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688232",
+    "name": "新点软件",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002050",
     "name": "三花智控",
     "repeat": 2
@@ -47,11 +67,6 @@
   {
     "symbol": "SZ002472",
     "name": "双环传动",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002594",
-    "name": "比 亚 迪",
     "repeat": 1
   },
   {
@@ -672,7 +687,7 @@
   {
     "symbol": "SH688100",
     "name": "威胜信息",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688589",
@@ -727,7 +742,7 @@
   {
     "symbol": "SZ300682",
     "name": "朗新科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000887",
