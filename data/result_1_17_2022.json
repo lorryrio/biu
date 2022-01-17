@@ -520,14 +520,6 @@
     "currentPrice": 73.03
   },
   {
-    "symbol": "SZ300428",
-    "name": "立中集团",
-    "repeat": 1,
-    "hotIndex": -6.28,
-    "currentPercent": 13.38,
-    "currentPrice": 26.19
-  },
-  {
     "symbol": "SH600183",
     "name": "生益科技",
     "repeat": 2,
@@ -776,14 +768,6 @@
     "currentPrice": 64.99
   },
   {
-    "symbol": "SH600219",
-    "name": "南山铝业",
-    "repeat": 1,
-    "hotIndex": -21.73,
-    "currentPercent": -1.65,
-    "currentPrice": 4.78
-  },
-  {
     "symbol": "SZ002493",
     "name": "荣盛石化",
     "repeat": 1,
@@ -914,7 +898,7 @@
   {
     "symbol": "SH600690",
     "name": "海尔智家",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -32.64,
     "currentPercent": -0.53,
     "currentPrice": 28.18
@@ -990,6 +974,14 @@
     "hotIndex": -37.26,
     "currentPercent": 1.33,
     "currentPrice": 53.5
+  },
+  {
+    "symbol": "SZ002508",
+    "name": "老板电器",
+    "repeat": 1,
+    "hotIndex": -37.8,
+    "currentPercent": -1.37,
+    "currentPrice": 35.24
   },
   {
     "symbol": "SZ300602",
