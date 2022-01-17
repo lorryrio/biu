@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300957",
+    "name": "贝 泰 妮",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688363",
+    "name": "华熙生物",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002594",
     "name": "比 亚 迪",
     "repeat": 2
@@ -153,11 +163,6 @@
     "symbol": "SH601669",
     "name": "中国电建",
     "repeat": 2
-  },
-  {
-    "symbol": "SZ300957",
-    "name": "贝 泰 妮",
-    "repeat": 1
   },
   {
     "symbol": "SH603605",
@@ -832,16 +837,6 @@
   {
     "symbol": "SH600219",
     "name": "南山铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300843",
-    "name": "胜蓝股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605333",
-    "name": "沪光股份",
     "repeat": 1
   }
 ]
