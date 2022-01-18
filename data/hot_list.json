@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002049",
+    "name": "紫光国微",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300593",
+    "name": "新 雷 能",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI991045",
+    "name": "技术服务",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI993977",
+    "name": "无人驾驶",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002385",
     "name": "大 北 农",
     "repeat": 1
@@ -822,16 +842,6 @@
   {
     "symbol": "SZ300499",
     "name": "高澜股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002079",
-    "name": "苏州固锝",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002350",
-    "name": "北京科锐",
     "repeat": 1
   }
 ]
