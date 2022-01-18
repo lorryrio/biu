@@ -152,6 +152,14 @@
     "currentPrice": 48.6
   },
   {
+    "symbol": "SZ002049",
+    "name": "紫光国微",
+    "repeat": 1,
+    "hotIndex": 8.66,
+    "currentPercent": 0.34,
+    "currentPrice": 221.06
+  },
+  {
     "symbol": "SH600346",
     "name": "恒力石化",
     "repeat": 1,
@@ -760,14 +768,6 @@
     "currentPrice": 69.52
   },
   {
-    "symbol": "SZ002079",
-    "name": "苏州固锝",
-    "repeat": 1,
-    "hotIndex": -22.98,
-    "currentPercent": -0.62,
-    "currentPrice": 12.8
-  },
-  {
     "symbol": "SH600600",
     "name": "青岛啤酒",
     "repeat": 1,
@@ -934,6 +934,14 @@
     "hotIndex": -39.88,
     "currentPercent": 1.84,
     "currentPrice": 18.85
+  },
+  {
+    "symbol": "SZ300593",
+    "name": "新 雷 能",
+    "repeat": 1,
+    "hotIndex": -40.92,
+    "currentPercent": -2.5,
+    "currentPrice": 53.39
   },
   {
     "symbol": "SZ000301",
@@ -1150,14 +1158,6 @@
     "hotIndex": -84.96,
     "currentPercent": -2.42,
     "currentPrice": 12.92
-  },
-  {
-    "symbol": "SZ002350",
-    "name": "北京科锐",
-    "repeat": 1,
-    "hotIndex": -90.64,
-    "currentPercent": 1.27,
-    "currentPrice": 8
   },
   {
     "symbol": "SZ300731",
