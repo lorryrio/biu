@@ -234,7 +234,7 @@
   {
     "symbol": "SH603267",
     "name": "鸿远电子",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -2.09,
     "currentPercent": -2.11,
     "currentPrice": 164
@@ -504,6 +504,14 @@
     "currentPrice": 24.74
   },
   {
+    "symbol": "SZ300355",
+    "name": "蒙草生态",
+    "repeat": 1,
+    "hotIndex": -18.18,
+    "currentPercent": 1.55,
+    "currentPrice": 5.25
+  },
+  {
     "symbol": "SZ300275",
     "name": "梅 安 森",
     "repeat": 1,
@@ -728,6 +736,14 @@
     "currentPrice": 36.28
   },
   {
+    "symbol": "SH603359",
+    "name": "东珠生态",
+    "repeat": 1,
+    "hotIndex": -35.25,
+    "currentPercent": 0.21,
+    "currentPrice": 14.42
+  },
+  {
     "symbol": "SZ002011",
     "name": "盾安环境",
     "repeat": 1,
@@ -930,7 +946,7 @@
   {
     "symbol": "SH600893",
     "name": "航发动力",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -56.54,
     "currentPercent": -3.26,
     "currentPrice": 52
