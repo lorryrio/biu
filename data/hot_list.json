@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300355",
+    "name": "蒙草生态",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603359",
+    "name": "东珠生态",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002920",
     "name": "德赛西威",
     "repeat": 3
@@ -302,7 +312,7 @@
   {
     "symbol": "SH600893",
     "name": "航发动力",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603259",
@@ -617,7 +627,7 @@
   {
     "symbol": "SH603267",
     "name": "鸿远电子",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300508",
