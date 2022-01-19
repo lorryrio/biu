@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002920",
+    "name": "德赛西威",
+    "repeat": 3
+  },
+  {
+    "symbol": "SZ300496",
+    "name": "中科创达",
+    "repeat": 3
+  },
+  {
     "symbol": "SZ002026",
     "name": "山东威达",
     "repeat": 2
@@ -555,16 +565,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002920",
-    "name": "德赛西威",
-    "repeat": 2
-  },
-  {
-    "symbol": "SZ300496",
-    "name": "中科创达",
-    "repeat": 2
-  },
-  {
     "symbol": "SZ002245",
     "name": "蔚蓝锂芯",
     "repeat": 1
@@ -822,16 +822,6 @@
   {
     "symbol": "SZ002041",
     "name": "登海种业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000301",
-    "name": "东方盛虹",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ003022",
-    "name": "联泓新科",
     "repeat": 1
   }
 ]
