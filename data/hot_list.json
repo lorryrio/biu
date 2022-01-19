@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH688078",
+    "name": "龙软科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688367",
+    "name": "工大高科",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002049",
     "name": "紫光国微",
     "repeat": 1
@@ -832,16 +842,6 @@
   {
     "symbol": "SH600976",
     "name": "健民集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002837",
-    "name": "英 维 克",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300499",
-    "name": "高澜股份",
     "repeat": 1
   }
 ]
