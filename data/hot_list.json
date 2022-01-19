@@ -1,12 +1,22 @@
 [
   {
-    "symbol": "SH688078",
-    "name": "龙软科技",
+    "symbol": "SZ002026",
+    "name": "山东威达",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688022",
+    "name": "瀚川智能",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ000409",
+    "name": "云鼎科技",
     "repeat": 1
   },
   {
-    "symbol": "SH688367",
-    "name": "工大高科",
+    "symbol": "SZ300275",
+    "name": "梅 安 森",
     "repeat": 1
   },
   {
@@ -342,16 +352,6 @@
   {
     "symbol": "SH688516",
     "name": "奥 特 维",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002026",
-    "name": "山东威达",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688022",
-    "name": "瀚川智能",
     "repeat": 1
   },
   {
@@ -832,16 +832,6 @@
   {
     "symbol": "SZ003022",
     "name": "联泓新科",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600285",
-    "name": "羚锐制药",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600976",
-    "name": "健民集团",
     "repeat": 1
   }
 ]
