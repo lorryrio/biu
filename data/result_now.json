@@ -80,6 +80,14 @@
     "currentPrice": 55.17
   },
   {
+    "symbol": "SH688680",
+    "name": "海优新材",
+    "repeat": 1,
+    "hotIndex": 11.25,
+    "currentPercent": -3.79,
+    "currentPrice": 236.09
+  },
+  {
     "symbol": "SZ000552",
     "name": "靖远煤电",
     "repeat": 1,
@@ -94,6 +102,14 @@
     "hotIndex": 10.41,
     "currentPercent": 0.58,
     "currentPrice": 8.73
+  },
+  {
+    "symbol": "SH603806",
+    "name": "福 斯 特",
+    "repeat": 1,
+    "hotIndex": 10.37,
+    "currentPercent": -3.35,
+    "currentPrice": 115.3
   },
   {
     "symbol": "SZ002532",
@@ -234,7 +250,7 @@
   {
     "symbol": "SH603267",
     "name": "鸿远电子",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -2.09,
     "currentPercent": -2.11,
     "currentPrice": 164
@@ -278,14 +294,6 @@
     "hotIndex": -4.99,
     "currentPercent": 10.71,
     "currentPrice": 16.43
-  },
-  {
-    "symbol": "SZ000998",
-    "name": "隆平高科",
-    "repeat": 1,
-    "hotIndex": -5.12,
-    "currentPercent": -0.39,
-    "currentPrice": 20.26
   },
   {
     "symbol": "SZ002013",
@@ -504,6 +512,14 @@
     "currentPrice": 24.74
   },
   {
+    "symbol": "SZ300355",
+    "name": "蒙草生态",
+    "repeat": 1,
+    "hotIndex": -18.18,
+    "currentPercent": 1.55,
+    "currentPrice": 5.25
+  },
+  {
     "symbol": "SZ300275",
     "name": "梅 安 森",
     "repeat": 1,
@@ -664,14 +680,6 @@
     "currentPrice": 292
   },
   {
-    "symbol": "SZ002041",
-    "name": "登海种业",
-    "repeat": 1,
-    "hotIndex": -29.49,
-    "currentPercent": -0.74,
-    "currentPrice": 22.94
-  },
-  {
     "symbol": "SZ000723",
     "name": "美锦能源",
     "repeat": 1,
@@ -726,6 +734,14 @@
     "hotIndex": -34.51,
     "currentPercent": -1.14,
     "currentPrice": 36.28
+  },
+  {
+    "symbol": "SH603359",
+    "name": "东珠生态",
+    "repeat": 1,
+    "hotIndex": -35.25,
+    "currentPercent": 0.21,
+    "currentPrice": 14.42
   },
   {
     "symbol": "SZ002011",
@@ -930,7 +946,7 @@
   {
     "symbol": "SH600893",
     "name": "航发动力",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -56.54,
     "currentPercent": -3.26,
     "currentPrice": 52
