@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002268",
+    "name": "卫 士 通",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300212",
+    "name": "易 华 录",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000922",
     "name": "佳电股份",
     "repeat": 1
@@ -12,12 +22,12 @@
   {
     "symbol": "SH600132",
     "name": "重庆啤酒",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600600",
     "name": "青岛啤酒",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603806",
