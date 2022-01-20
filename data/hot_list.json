@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300979",
+    "name": "华利集团",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603055",
+    "name": "台华新材",
+    "repeat": 2
+  },
+  {
     "symbol": "SH603799",
     "name": "华友钴业",
     "repeat": 2
@@ -297,11 +307,6 @@
   {
     "symbol": "SH688639",
     "name": "华恒生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603055",
-    "name": "台华新材",
     "repeat": 1
   },
   {
@@ -817,16 +822,6 @@
   {
     "symbol": "SZ300540",
     "name": "深冷股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002960",
-    "name": "青鸟消防",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300682",
-    "name": "朗新科技",
     "repeat": 1
   }
 ]
