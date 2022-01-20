@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000922",
+    "name": "佳电股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002438",
+    "name": "江苏神通",
+    "repeat": 2
+  },
+  {
     "symbol": "SH600132",
     "name": "重庆啤酒",
     "repeat": 2
@@ -407,11 +417,6 @@
   {
     "symbol": "SZ300217",
     "name": "东方电热",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002438",
-    "name": "江苏神通",
     "repeat": 1
   },
   {
