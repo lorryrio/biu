@@ -314,7 +314,7 @@
   {
     "symbol": "SH603799",
     "name": "华友钴业",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -3.79,
     "currentPercent": 1.1,
     "currentPrice": 104.16
@@ -608,6 +608,14 @@
     "currentPrice": 12.57
   },
   {
+    "symbol": "SH603993",
+    "name": "洛阳钼业",
+    "repeat": 1,
+    "hotIndex": -26.14,
+    "currentPercent": 1.44,
+    "currentPrice": 5.65
+  },
+  {
     "symbol": "SZ002268",
     "name": "卫 士 通",
     "repeat": 1,
@@ -752,14 +760,6 @@
     "currentPrice": 105.35
   },
   {
-    "symbol": "SZ000887",
-    "name": "中鼎股份",
-    "repeat": 1,
-    "hotIndex": -33.28,
-    "currentPercent": -7.82,
-    "currentPrice": 22.88
-  },
-  {
     "symbol": "SZ300508",
     "name": "维宏股份",
     "repeat": 1,
@@ -782,14 +782,6 @@
     "hotIndex": -35.68,
     "currentPercent": 1.44,
     "currentPrice": 125
-  },
-  {
-    "symbol": "SH603197",
-    "name": "保隆科技",
-    "repeat": 1,
-    "hotIndex": -36.49,
-    "currentPercent": -5.37,
-    "currentPrice": 59.21
   },
   {
     "symbol": "SH603179",
