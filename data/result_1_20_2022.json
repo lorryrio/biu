@@ -152,14 +152,6 @@
     "currentPrice": 6.52
   },
   {
-    "symbol": "SZ300682",
-    "name": "朗新科技",
-    "repeat": 1,
-    "hotIndex": 9.66,
-    "currentPercent": 0.52,
-    "currentPrice": 36.47
-  },
-  {
     "symbol": "SZ000933",
     "name": "神火股份",
     "repeat": 1,
@@ -928,6 +920,14 @@
     "currentPrice": 295.07
   },
   {
+    "symbol": "SZ300979",
+    "name": "华利集团",
+    "repeat": 1,
+    "hotIndex": -53.28,
+    "currentPercent": -0.62,
+    "currentPrice": 83.88
+  },
+  {
     "symbol": "SZ300355",
     "name": "蒙草生态",
     "repeat": 1,
@@ -966,14 +966,6 @@
     "hotIndex": -62.3,
     "currentPercent": -2.34,
     "currentPrice": 14.59
-  },
-  {
-    "symbol": "SZ002960",
-    "name": "青鸟消防",
-    "repeat": 1,
-    "hotIndex": -63.37,
-    "currentPercent": -2.25,
-    "currentPrice": 49.46
   },
   {
     "symbol": "SH603939",
@@ -1250,7 +1242,7 @@
   {
     "symbol": "SH603055",
     "name": "台华新材",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -165.04,
     "currentPercent": -3.96,
     "currentPrice": 16.51
