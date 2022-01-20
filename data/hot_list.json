@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603799",
+    "name": "华友钴业",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603993",
+    "name": "洛阳钼业",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002268",
     "name": "卫 士 通",
     "repeat": 1
@@ -187,11 +197,6 @@
   {
     "symbol": "SZ300073",
     "name": "当升科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603799",
-    "name": "华友钴业",
     "repeat": 1
   },
   {
@@ -822,16 +827,6 @@
   {
     "symbol": "SZ300682",
     "name": "朗新科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000887",
-    "name": "中鼎股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603197",
-    "name": "保隆科技",
     "repeat": 1
   }
 ]
