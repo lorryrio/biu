@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300993",
+    "name": "玉马遮阳",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605155",
+    "name": "西 大 门",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000552",
     "name": "靖远煤电",
     "repeat": 2
@@ -812,16 +822,6 @@
   {
     "symbol": "SH600487",
     "name": "亨通光电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600188",
-    "name": "兖矿能源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601898",
-    "name": "中煤能源",
     "repeat": 1
   }
 ]
