@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600196",
+    "name": "复星医药",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688166",
+    "name": "博瑞医药",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300979",
     "name": "华利集团",
     "repeat": 1
@@ -812,16 +822,6 @@
   {
     "symbol": "SH600405",
     "name": "动 力 源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000723",
-    "name": "美锦能源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300540",
-    "name": "深冷股份",
     "repeat": 1
   }
 ]
