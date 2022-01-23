@@ -402,7 +402,7 @@
   {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 3,
+    "repeat": 4,
     "hotIndex": -13.54,
     "currentPercent": -0.26,
     "currentPrice": 145.81
@@ -938,7 +938,7 @@
   {
     "symbol": "SH603501",
     "name": "韦尔股份",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -62.72,
     "currentPercent": -2.74,
     "currentPrice": 285.22
