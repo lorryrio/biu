@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603233",
+    "name": "大 参 林",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603259",
+    "name": "药明康德",
+    "repeat": 3
+  },
+  {
     "symbol": "SZ300861",
     "name": "美畅股份",
     "repeat": 1
@@ -415,11 +425,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH603259",
-    "name": "药明康德",
-    "repeat": 2
-  },
-  {
     "symbol": "SH603456",
     "name": "九洲药业",
     "repeat": 1
@@ -817,16 +822,6 @@
   {
     "symbol": "SZ300127",
     "name": "银河磁体",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688100",
-    "name": "威胜信息",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688589",
-    "name": "力 合 微",
     "repeat": 1
   }
 ]
