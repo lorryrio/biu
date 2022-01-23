@@ -448,6 +448,14 @@
     "currentPrice": 6.65
   },
   {
+    "symbol": "SH603233",
+    "name": "大 参 林",
+    "repeat": 1,
+    "hotIndex": -16.63,
+    "currentPercent": -4.47,
+    "currentPrice": 39.5
+  },
+  {
     "symbol": "SH600660",
     "name": "福耀玻璃",
     "repeat": 1,
@@ -744,14 +752,6 @@
     "currentPrice": 129.41
   },
   {
-    "symbol": "SH688100",
-    "name": "威胜信息",
-    "repeat": 1,
-    "hotIndex": -42.48,
-    "currentPercent": -4.37,
-    "currentPrice": 28.04
-  },
-  {
     "symbol": "SZ002268",
     "name": "卫 士 通",
     "repeat": 1,
@@ -826,7 +826,7 @@
   {
     "symbol": "SH603259",
     "name": "药明康德",
-    "repeat": 2,
+    "repeat": 3,
     "hotIndex": -48.54,
     "currentPercent": -2.98,
     "currentPrice": 107.69
@@ -1222,14 +1222,6 @@
     "hotIndex": -153.07,
     "currentPercent": 0.31,
     "currentPrice": 6.39
-  },
-  {
-    "symbol": "SH688589",
-    "name": "力 合 微",
-    "repeat": 1,
-    "hotIndex": -166.54,
-    "currentPercent": -4.8,
-    "currentPrice": 48.99
   },
   {
     "symbol": "SZ002916",
