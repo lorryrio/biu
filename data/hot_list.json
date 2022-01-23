@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300861",
+    "name": "美畅股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688598",
+    "name": "金博股份",
+    "repeat": 2
+  },
+  {
     "symbol": "SH600362",
     "name": "江西铜业",
     "repeat": 1
@@ -302,7 +312,7 @@
   {
     "symbol": "SZ300674",
     "name": "宇信科技",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ000012",
@@ -435,11 +445,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH688598",
-    "name": "金博股份",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600549",
     "name": "厦门钨业",
     "repeat": 1
@@ -497,7 +502,7 @@
   {
     "symbol": "SZ300872",
     "name": "天阳科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603228",
