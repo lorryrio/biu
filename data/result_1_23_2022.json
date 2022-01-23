@@ -258,7 +258,7 @@
   {
     "symbol": "SH688598",
     "name": "金博股份",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -3.08,
     "currentPercent": 5.63,
     "currentPrice": 275.7
@@ -922,7 +922,7 @@
   {
     "symbol": "SZ300674",
     "name": "宇信科技",
-    "repeat": 3,
+    "repeat": 2,
     "hotIndex": -59.79,
     "currentPercent": -1.73,
     "currentPrice": 24.96
@@ -930,7 +930,7 @@
   {
     "symbol": "SZ300872",
     "name": "天阳科技",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -61.58,
     "currentPercent": -2.54,
     "currentPrice": 36.09
@@ -1182,6 +1182,14 @@
     "hotIndex": -125.77,
     "currentPercent": 0.91,
     "currentPrice": 62.31
+  },
+  {
+    "symbol": "SZ300861",
+    "name": "美畅股份",
+    "repeat": 1,
+    "hotIndex": -127.07,
+    "currentPercent": -1.9,
+    "currentPrice": 62.93
   },
   {
     "symbol": "SH688167",
