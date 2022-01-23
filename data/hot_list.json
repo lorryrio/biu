@@ -292,7 +292,7 @@
   {
     "symbol": "SZ300674",
     "name": "宇信科技",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ000012",
@@ -397,7 +397,7 @@
   {
     "symbol": "SH603259",
     "name": "药明康德",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603456",
@@ -487,7 +487,7 @@
   {
     "symbol": "SZ300872",
     "name": "天阳科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603228",
@@ -612,7 +612,7 @@
   {
     "symbol": "SH603501",
     "name": "韦尔股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603596",
@@ -652,7 +652,7 @@
   {
     "symbol": "SZ002036",
     "name": "联创电子",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688127",
@@ -747,81 +747,6 @@
   {
     "symbol": "SH688388",
     "name": "嘉元科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300709",
-    "name": "精研科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600552",
-    "name": "凯盛科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600581",
-    "name": "八一钢铁",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601618",
-    "name": "中国中冶",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300347",
-    "name": "泰格医药",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300454",
-    "name": "深 信 服",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601360",
-    "name": "三 六 零",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002436",
-    "name": "兴森科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002916",
-    "name": "深南电路",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000795",
-    "name": "英 洛 华",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300127",
-    "name": "银河磁体",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688100",
-    "name": "威胜信息",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688589",
-    "name": "力 合 微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300502",
-    "name": "新 易 盛",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600487",
-    "name": "亨通光电",
     "repeat": 1
   }
 ]
