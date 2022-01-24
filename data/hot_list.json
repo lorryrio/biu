@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600009",
+    "name": "上海机场",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601111",
+    "name": "中国国航",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002153",
     "name": "石基信息",
     "repeat": 1
@@ -72,11 +82,6 @@
   {
     "symbol": "SH600115",
     "name": "中国东航",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601111",
-    "name": "中国国航",
     "repeat": 1
   },
   {
@@ -812,16 +817,6 @@
   {
     "symbol": "SH601360",
     "name": "三 六 零",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002436",
-    "name": "兴森科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002916",
-    "name": "深南电路",
     "repeat": 1
   }
 ]
