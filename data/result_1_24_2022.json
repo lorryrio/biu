@@ -560,14 +560,6 @@
     "currentPrice": 251.4
   },
   {
-    "symbol": "SZ300454",
-    "name": "深 信 服",
-    "repeat": 1,
-    "hotIndex": -14.55,
-    "currentPercent": 1.24,
-    "currentPrice": 176
-  },
-  {
     "symbol": "SH600887",
     "name": "伊利股份",
     "repeat": 2,
@@ -1150,14 +1142,6 @@
     "hotIndex": -105.06,
     "currentPercent": -4.56,
     "currentPrice": 11.5
-  },
-  {
-    "symbol": "SH601360",
-    "name": "三 六 零",
-    "repeat": 1,
-    "hotIndex": -110.22,
-    "currentPercent": -1.95,
-    "currentPrice": 12.05
   },
   {
     "symbol": "SZ300731",
