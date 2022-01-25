@@ -1,5 +1,35 @@
 [
   {
+    "symbol": "SH600132",
+    "name": "重庆啤酒",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600887",
+    "name": "伊利股份",
+    "repeat": 3
+  },
+  {
+    "symbol": "SZ002049",
+    "name": "紫光国微",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ002475",
+    "name": "立讯精密",
+    "repeat": 2
+  },
+  {
+    "symbol": "BI994516",
+    "name": "空客概念",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI994229",
+    "name": "民用航空",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600009",
     "name": "上海机场",
     "repeat": 1
@@ -37,7 +67,7 @@
   {
     "symbol": "SH603259",
     "name": "药明康德",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ300861",
@@ -135,11 +165,6 @@
     "repeat": 2
   },
   {
-    "symbol": "SH600132",
-    "name": "重庆啤酒",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600600",
     "name": "青岛啤酒",
     "repeat": 1
@@ -187,11 +212,6 @@
   {
     "symbol": "SZ300275",
     "name": "梅 安 森",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002049",
-    "name": "紫光国微",
     "repeat": 1
   },
   {
@@ -303,11 +323,6 @@
     "symbol": "SH600882",
     "name": "妙可蓝多",
     "repeat": 1
-  },
-  {
-    "symbol": "SH600887",
-    "name": "伊利股份",
-    "repeat": 2
   },
   {
     "symbol": "SZ002938",
@@ -615,11 +630,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002475",
-    "name": "立讯精密",
-    "repeat": 1
-  },
-  {
     "symbol": "SH601088",
     "name": "中国神华",
     "repeat": 2
@@ -792,21 +802,6 @@
   {
     "symbol": "SH600552",
     "name": "凯盛科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600581",
-    "name": "八一钢铁",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601618",
-    "name": "中国中冶",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300347",
-    "name": "泰格医药",
     "repeat": 1
   }
 ]
