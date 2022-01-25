@@ -48,6 +48,14 @@
     "currentPrice": 75.28
   },
   {
+    "symbol": "SH603893",
+    "name": "瑞 芯 微",
+    "repeat": 1,
+    "hotIndex": 8.17,
+    "currentPercent": -5.16,
+    "currentPrice": 107.72
+  },
+  {
     "symbol": "SH688022",
     "name": "瀚川智能",
     "repeat": 2,
@@ -118,14 +126,6 @@
     "hotIndex": 1.58,
     "currentPercent": -1.97,
     "currentPrice": 109.7
-  },
-  {
-    "symbol": "SH688388",
-    "name": "嘉元科技",
-    "repeat": 1,
-    "hotIndex": -0.54,
-    "currentPercent": -1.93,
-    "currentPrice": 124.54
   },
   {
     "symbol": "SZ002352",
@@ -856,6 +856,14 @@
     "currentPrice": 184
   },
   {
+    "symbol": "SZ002138",
+    "name": "顺络电子",
+    "repeat": 1,
+    "hotIndex": -63.19,
+    "currentPercent": -2.02,
+    "currentPrice": 35.35
+  },
+  {
     "symbol": "SZ002128",
     "name": "电投能源",
     "repeat": 2,
@@ -1230,13 +1238,5 @@
     "hotIndex": -176.64,
     "currentPercent": -3.48,
     "currentPrice": 24.94
-  },
-  {
-    "symbol": "SZ002203",
-    "name": "海亮股份",
-    "repeat": 1,
-    "hotIndex": -188.9,
-    "currentPercent": -3.67,
-    "currentPrice": 11.56
   }
 ]
