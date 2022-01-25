@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600219",
+    "name": "南山铝业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601677",
+    "name": "明泰铝业",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600132",
     "name": "重庆啤酒",
     "repeat": 2
@@ -792,16 +802,6 @@
   {
     "symbol": "SH688388",
     "name": "嘉元科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300709",
-    "name": "精研科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600552",
-    "name": "凯盛科技",
     "repeat": 1
   }
 ]
