@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002138",
+    "name": "顺络电子",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603893",
+    "name": "瑞 芯 微",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600219",
     "name": "南山铝业",
     "repeat": 1
@@ -792,16 +802,6 @@
   {
     "symbol": "SH600660",
     "name": "福耀玻璃",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002203",
-    "name": "海亮股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688388",
-    "name": "嘉元科技",
     "repeat": 1
   }
 ]
