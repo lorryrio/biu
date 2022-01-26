@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002037",
+    "name": "保利联合",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ003002",
+    "name": "壶化股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300450",
+    "name": "先导智能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688006",
+    "name": "杭可科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SH688533",
     "name": "上声电子",
     "repeat": 1
@@ -792,21 +812,6 @@
   {
     "symbol": "SZ300737",
     "name": "科顺股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300602",
-    "name": "飞 荣 达",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300731",
-    "name": "科创新源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600660",
-    "name": "福耀玻璃",
     "repeat": 1
   }
 ]
