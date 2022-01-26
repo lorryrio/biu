@@ -336,9 +336,17 @@
     "currentPrice": 335.8
   },
   {
+    "symbol": "SH600150",
+    "name": "中国船舶",
+    "repeat": 1,
+    "hotIndex": -7.31,
+    "currentPercent": 0.24,
+    "currentPrice": 21.15
+  },
+  {
     "symbol": "SZ002460",
     "name": "赣锋锂业",
-    "repeat": 3,
+    "repeat": 2,
     "hotIndex": -7.39,
     "currentPercent": 0.54,
     "currentPrice": 138.76
@@ -494,6 +502,14 @@
     "hotIndex": -13.6,
     "currentPercent": 1.2,
     "currentPrice": 24.53
+  },
+  {
+    "symbol": "SH601890",
+    "name": "亚星锚链",
+    "repeat": 1,
+    "hotIndex": -14.15,
+    "currentPercent": -4.14,
+    "currentPrice": 9.27
   },
   {
     "symbol": "SZ002352",
