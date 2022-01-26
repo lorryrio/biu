@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600150",
+    "name": "中国船舶",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601890",
+    "name": "亚星锚链",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002709",
     "name": "天赐材料",
     "repeat": 1
@@ -562,7 +572,7 @@
   {
     "symbol": "SZ002460",
     "name": "赣锋锂业",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ002466",
@@ -812,11 +822,6 @@
   {
     "symbol": "SZ300994",
     "name": "久祺股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002240",
-    "name": "盛新锂能",
     "repeat": 1
   }
 ]
