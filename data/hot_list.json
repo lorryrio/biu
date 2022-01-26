@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002709",
+    "name": "天赐材料",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603026",
+    "name": "石大胜华",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002037",
     "name": "保利联合",
     "repeat": 1
@@ -682,7 +692,7 @@
   {
     "symbol": "SZ002271",
     "name": "东方雨虹",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH601012",
@@ -807,11 +817,6 @@
   {
     "symbol": "SZ002240",
     "name": "盛新锂能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300737",
-    "name": "科顺股份",
     "repeat": 1
   }
 ]
