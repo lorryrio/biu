@@ -1,5 +1,20 @@
 [
   {
+    "symbol": "SH688533",
+    "name": "上声电子",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002487",
+    "name": "大金重工",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002531",
+    "name": "天顺风能",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002138",
     "name": "顺络电子",
     "repeat": 1
@@ -517,7 +532,7 @@
   {
     "symbol": "SZ300776",
     "name": "帝尔激光",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688516",
