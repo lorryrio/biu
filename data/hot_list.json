@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SH603363",
+    "name": "傲农生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603477",
+    "name": "巨星农牧",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603733",
+    "name": "仙鹤股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605377",
+    "name": "华旺科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002459",
     "name": "晶澳科技",
     "repeat": 1
@@ -807,26 +827,6 @@
   {
     "symbol": "SH603267",
     "name": "鸿远电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300508",
-    "name": "维宏股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688188",
-    "name": "柏楚电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002105",
-    "name": "信隆健康",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300994",
-    "name": "久祺股份",
     "repeat": 1
   }
 ]
