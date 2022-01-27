@@ -130,7 +130,7 @@
   {
     "symbol": "SZ002271",
     "name": "东方雨虹",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 6.67,
     "currentPercent": 0.44,
     "currentPrice": 49.72
@@ -280,6 +280,14 @@
     "currentPrice": 287.29
   },
   {
+    "symbol": "SH603026",
+    "name": "石大胜华",
+    "repeat": 1,
+    "hotIndex": -4.83,
+    "currentPercent": 1.8,
+    "currentPrice": 173.88
+  },
+  {
     "symbol": "SH601636",
     "name": "旗滨集团",
     "repeat": 1,
@@ -328,9 +336,17 @@
     "currentPrice": 335.8
   },
   {
+    "symbol": "SH600150",
+    "name": "中国船舶",
+    "repeat": 1,
+    "hotIndex": -7.31,
+    "currentPercent": 0.24,
+    "currentPrice": 21.15
+  },
+  {
     "symbol": "SZ002460",
     "name": "赣锋锂业",
-    "repeat": 3,
+    "repeat": 2,
     "hotIndex": -7.39,
     "currentPercent": 0.54,
     "currentPrice": 138.76
@@ -392,20 +408,20 @@
     "currentPrice": 20.95
   },
   {
-    "symbol": "SZ300737",
-    "name": "科顺股份",
-    "repeat": 1,
-    "hotIndex": -10.68,
-    "currentPercent": 0.74,
-    "currentPrice": 16.37
-  },
-  {
     "symbol": "SZ300872",
     "name": "天阳科技",
     "repeat": 1,
     "hotIndex": -10.79,
     "currentPercent": 0.88,
     "currentPrice": 34.31
+  },
+  {
+    "symbol": "SZ002709",
+    "name": "天赐材料",
+    "repeat": 1,
+    "hotIndex": -10.85,
+    "currentPercent": -0.79,
+    "currentPrice": 98.08
   },
   {
     "symbol": "SH603799",
@@ -486,6 +502,14 @@
     "hotIndex": -13.6,
     "currentPercent": 1.2,
     "currentPrice": 24.53
+  },
+  {
+    "symbol": "SH601890",
+    "name": "亚星锚链",
+    "repeat": 1,
+    "hotIndex": -14.15,
+    "currentPercent": -4.14,
+    "currentPrice": 9.27
   },
   {
     "symbol": "SZ002352",
