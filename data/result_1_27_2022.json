@@ -80,6 +80,14 @@
     "currentPrice": 1965
   },
   {
+    "symbol": "SH603306",
+    "name": "华懋科技",
+    "repeat": 1,
+    "hotIndex": 5.85,
+    "currentPercent": 1.92,
+    "currentPrice": 30.78
+  },
+  {
     "symbol": "SZ002487",
     "name": "大金重工",
     "repeat": 1,
@@ -458,7 +466,7 @@
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -21.91,
     "currentPercent": 0.06,
     "currentPrice": 188.92
@@ -614,14 +622,6 @@
     "hotIndex": -32.93,
     "currentPercent": -2.85,
     "currentPrice": 198.39
-  },
-  {
-    "symbol": "SH603267",
-    "name": "鸿远电子",
-    "repeat": 1,
-    "hotIndex": -33.12,
-    "currentPercent": -1.24,
-    "currentPrice": 160.48
   },
   {
     "symbol": "SZ002705",
@@ -952,14 +952,6 @@
     "currentPrice": 6.24
   },
   {
-    "symbol": "SZ002783",
-    "name": "凯龙股份",
-    "repeat": 1,
-    "hotIndex": -68.48,
-    "currentPercent": -4.64,
-    "currentPrice": 9.46
-  },
-  {
     "symbol": "SH600460",
     "name": "士 兰 微",
     "repeat": 1,
@@ -1090,7 +1082,7 @@
   {
     "symbol": "SH603297",
     "name": "永新光学",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -85.07,
     "currentPercent": -3.06,
     "currentPrice": 124.95
@@ -1150,6 +1142,14 @@
     "hotIndex": -91.29,
     "currentPercent": -4.16,
     "currentPrice": 51.61
+  },
+  {
+    "symbol": "SZ300576",
+    "name": "容大感光",
+    "repeat": 1,
+    "hotIndex": -94.71,
+    "currentPercent": -4.42,
+    "currentPrice": 29.01
   },
   {
     "symbol": "SH688313",
