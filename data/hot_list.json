@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002459",
+    "name": "晶澳科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688599",
+    "name": "天合光能",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600346",
+    "name": "恒力石化",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600426",
+    "name": "华鲁恒升",
+    "repeat": 2
+  },
+  {
     "symbol": "SH600150",
     "name": "中国船舶",
     "repeat": 1
@@ -122,7 +142,7 @@
   {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 4
+    "repeat": 3
   },
   {
     "symbol": "SH603233",
@@ -257,7 +277,7 @@
   {
     "symbol": "SZ300496",
     "name": "中科创达",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ002026",
@@ -302,7 +322,7 @@
   {
     "symbol": "SH600690",
     "name": "海尔智家",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300957",
@@ -497,7 +517,7 @@
   {
     "symbol": "SZ000333",
     "name": "美的集团",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002705",
@@ -582,11 +602,6 @@
   {
     "symbol": "SZ002493",
     "name": "荣盛石化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600346",
-    "name": "恒力石化",
     "repeat": 1
   },
   {
@@ -685,11 +700,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH600426",
-    "name": "华鲁恒升",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ002241",
     "name": "歌尔股份",
     "repeat": 1
@@ -707,11 +717,6 @@
   {
     "symbol": "SH601012",
     "name": "隆基股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688599",
-    "name": "天合光能",
     "repeat": 1
   },
   {
