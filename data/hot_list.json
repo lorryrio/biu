@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002532",
+    "name": "天山铝业",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600219",
+    "name": "南山铝业",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002009",
     "name": "天奇股份",
     "repeat": 1
@@ -145,11 +155,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH600219",
-    "name": "南山铝业",
-    "repeat": 1
-  },
-  {
     "symbol": "SH601677",
     "name": "明泰铝业",
     "repeat": 1
@@ -247,7 +252,7 @@
   {
     "symbol": "SZ002128",
     "name": "电投能源",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600115",
@@ -725,11 +730,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002532",
-    "name": "天山铝业",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ300627",
     "name": "华测导航",
     "repeat": 1
@@ -747,7 +747,7 @@
   {
     "symbol": "SH601088",
     "name": "中国神华",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002271",
