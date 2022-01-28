@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300327",
+    "name": "中颖电子",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688981",
+    "name": "中芯国际",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002532",
     "name": "天山铝业",
     "repeat": 2
@@ -197,7 +207,7 @@
   {
     "symbol": "SZ002036",
     "name": "联创电子",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002920",
@@ -807,11 +817,6 @@
   {
     "symbol": "SH688519",
     "name": "南亚新材",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688127",
-    "name": "蓝特光学",
     "repeat": 1
   }
 ]
