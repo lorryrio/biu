@@ -3,952 +3,1016 @@
     "symbol": "SZ300979",
     "name": "华利集团",
     "repeat": 1,
-    "hotIndex": 20.35,
-    "currentPercent": 4.93,
-    "currentPrice": 87.72
-  },
-  {
-    "symbol": "SH601567",
-    "name": "三星医疗",
-    "repeat": 1,
-    "hotIndex": 18.79,
-    "currentPercent": 2.09,
-    "currentPrice": 14.14
-  },
-  {
-    "symbol": "SH605080",
-    "name": "浙江自然",
-    "repeat": 1,
-    "hotIndex": 14.74,
-    "currentPercent": 3.48,
-    "currentPrice": 68.66
-  },
-  {
-    "symbol": "SZ300217",
-    "name": "东方电热",
-    "repeat": 1,
-    "hotIndex": 11.27,
-    "currentPercent": 4.04,
-    "currentPrice": 5.15
-  },
-  {
-    "symbol": "SH603518",
-    "name": "锦泓集团",
-    "repeat": 1,
-    "hotIndex": 11.23,
-    "currentPercent": 3.49,
-    "currentPrice": 10.38
-  },
-  {
-    "symbol": "SZ300275",
-    "name": "梅 安 森",
-    "repeat": 1,
-    "hotIndex": 11.03,
-    "currentPercent": 2.38,
-    "currentPrice": 12.9
-  },
-  {
-    "symbol": "SZ002487",
-    "name": "大金重工",
-    "repeat": 1,
-    "hotIndex": 10.29,
-    "currentPercent": 10,
-    "currentPrice": 39.59
-  },
-  {
-    "symbol": "SH603477",
-    "name": "巨星农牧",
-    "repeat": 1,
-    "hotIndex": 9.8,
-    "currentPercent": 2.32,
-    "currentPrice": 17.63
-  },
-  {
-    "symbol": "SZ002438",
-    "name": "江苏神通",
-    "repeat": 2,
-    "hotIndex": 7.47,
-    "currentPercent": 4.35,
-    "currentPrice": 17.74
-  },
-  {
-    "symbol": "SZ002987",
-    "name": "京 北 方",
-    "repeat": 1,
-    "hotIndex": 7.42,
-    "currentPercent": 7.5,
-    "currentPrice": 40.86
-  },
-  {
-    "symbol": "SH688363",
-    "name": "华熙生物",
-    "repeat": 1,
-    "hotIndex": 6.93,
-    "currentPercent": 1.44,
-    "currentPrice": 121.51
-  },
-  {
-    "symbol": "SH605003",
-    "name": "众望布艺",
-    "repeat": 1,
-    "hotIndex": 6.86,
-    "currentPercent": 2.36,
-    "currentPrice": 25.2
+    "hotIndex": 22.14,
+    "currentPercent": 5.19,
+    "currentPrice": 87.94
   },
   {
     "symbol": "SZ002531",
     "name": "天顺风能",
     "repeat": 1,
-    "hotIndex": 6.59,
-    "currentPercent": 9.22,
-    "currentPrice": 19.79
-  },
-  {
-    "symbol": "SH603306",
-    "name": "华懋科技",
-    "repeat": 1,
-    "hotIndex": 5.82,
-    "currentPercent": 5.91,
-    "currentPrice": 32.6
-  },
-  {
-    "symbol": "SH603893",
-    "name": "瑞 芯 微",
-    "repeat": 1,
-    "hotIndex": 5.75,
-    "currentPercent": 1.4,
-    "currentPrice": 108.87
-  },
-  {
-    "symbol": "SZ002472",
-    "name": "双环传动",
-    "repeat": 1,
-    "hotIndex": 5.25,
-    "currentPercent": 6.44,
-    "currentPrice": 25.29
-  },
-  {
-    "symbol": "SZ002385",
-    "name": "大 北 农",
-    "repeat": 1,
-    "hotIndex": 5.09,
-    "currentPercent": 1.89,
-    "currentPrice": 9.16
-  },
-  {
-    "symbol": "SZ300348",
-    "name": "长亮科技",
-    "repeat": 2,
-    "hotIndex": 5,
-    "currentPercent": 4.47,
-    "currentPrice": 14.73
-  },
-  {
-    "symbol": "SH601111",
-    "name": "中国国航",
-    "repeat": 2,
-    "hotIndex": 4.95,
-    "currentPercent": -0.41,
-    "currentPrice": 9.76
+    "hotIndex": 22.12,
+    "currentPercent": 9.99,
+    "currentPrice": 19.93
   },
   {
     "symbol": "SH688677",
     "name": "海泰新光",
     "repeat": 1,
-    "hotIndex": 4.33,
-    "currentPercent": 1.51,
-    "currentPrice": 72.78
+    "hotIndex": 21.24,
+    "currentPercent": 4,
+    "currentPrice": 74.57
   },
   {
-    "symbol": "SH601890",
-    "name": "亚星锚链",
+    "symbol": "SH603518",
+    "name": "锦泓集团",
     "repeat": 1,
-    "hotIndex": 4.23,
-    "currentPercent": 3.71,
-    "currentPrice": 8.67
+    "hotIndex": 18.92,
+    "currentPercent": 4.79,
+    "currentPrice": 10.51
   },
   {
-    "symbol": "SH600009",
-    "name": "上海机场",
+    "symbol": "SH605080",
+    "name": "浙江自然",
     "repeat": 1,
-    "hotIndex": 4.07,
-    "currentPercent": 0.44,
-    "currentPrice": 50
+    "hotIndex": 18.83,
+    "currentPercent": 2.85,
+    "currentPrice": 68.24
   },
   {
-    "symbol": "SZ300450",
-    "name": "先导智能",
+    "symbol": "SZ300217",
+    "name": "东方电热",
     "repeat": 1,
-    "hotIndex": 3.75,
-    "currentPercent": 0.54,
-    "currentPrice": 72.66
+    "hotIndex": 18.25,
+    "currentPercent": 3.64,
+    "currentPrice": 5.13
   },
   {
-    "symbol": "SZ300872",
-    "name": "天阳科技",
+    "symbol": "SZ300275",
+    "name": "梅 安 森",
     "repeat": 1,
-    "hotIndex": 3.75,
-    "currentPercent": 3.45,
-    "currentPrice": 32.68
+    "hotIndex": 11.91,
+    "currentPercent": 3.81,
+    "currentPrice": 13.08
   },
   {
-    "symbol": "SZ002990",
-    "name": "盛视科技",
+    "symbol": "SZ002487",
+    "name": "大金重工",
     "repeat": 1,
-    "hotIndex": 3.68,
-    "currentPercent": 1.38,
-    "currentPrice": 30.79
+    "hotIndex": 11.09,
+    "currentPercent": 10,
+    "currentPrice": 39.59
   },
   {
-    "symbol": "SH601952",
-    "name": "苏垦农发",
+    "symbol": "SH601567",
+    "name": "三星医疗",
     "repeat": 1,
-    "hotIndex": 3.6,
-    "currentPercent": 1.64,
-    "currentPrice": 10.56
+    "hotIndex": 10.56,
+    "currentPercent": 2.38,
+    "currentPrice": 14.18
   },
   {
-    "symbol": "SZ300674",
-    "name": "宇信科技",
-    "repeat": 2,
-    "hotIndex": 3.59,
-    "currentPercent": 4.1,
-    "currentPrice": 23.61
-  },
-  {
-    "symbol": "SH603920",
-    "name": "世运电路",
+    "symbol": "SZ002987",
+    "name": "京 北 方",
     "repeat": 1,
-    "hotIndex": 3.53,
-    "currentPercent": -0.13,
-    "currentPrice": 22.51
-  },
-  {
-    "symbol": "SZ300212",
-    "name": "易 华 录",
-    "repeat": 1,
-    "hotIndex": 3.52,
-    "currentPercent": -2.81,
-    "currentPrice": 28.06
-  },
-  {
-    "symbol": "SH601677",
-    "name": "明泰铝业",
-    "repeat": 1,
-    "hotIndex": 3.47,
-    "currentPercent": 5.01,
-    "currentPrice": 41.9
-  },
-  {
-    "symbol": "SH603806",
-    "name": "福 斯 特",
-    "repeat": 1,
-    "hotIndex": 3.33,
-    "currentPercent": -0.65,
-    "currentPrice": 115.72
-  },
-  {
-    "symbol": "SZ002938",
-    "name": "鹏鼎控股",
-    "repeat": 1,
-    "hotIndex": 3.31,
-    "currentPercent": 2.02,
-    "currentPrice": 37.31
-  },
-  {
-    "symbol": "SH603596",
-    "name": "伯 特 利",
-    "repeat": 1,
-    "hotIndex": 3.31,
-    "currentPercent": 3.51,
-    "currentPrice": 80.31
-  },
-  {
-    "symbol": "SH600346",
-    "name": "恒力石化",
-    "repeat": 2,
-    "hotIndex": 3.26,
-    "currentPercent": 3.6,
-    "currentPrice": 23.62
-  },
-  {
-    "symbol": "SZ002026",
-    "name": "山东威达",
-    "repeat": 2,
-    "hotIndex": 3.16,
-    "currentPercent": -0.62,
-    "currentPrice": 17.58
-  },
-  {
-    "symbol": "SZ300512",
-    "name": "中亚股份",
-    "repeat": 1,
-    "hotIndex": 3.13,
-    "currentPercent": 3.08,
-    "currentPrice": 14.74
+    "hotIndex": 10.52,
+    "currentPercent": 8.71,
+    "currentPrice": 41.32
   },
   {
     "symbol": "SZ300576",
     "name": "容大感光",
     "repeat": 1,
-    "hotIndex": 3.01,
-    "currentPercent": 2.07,
-    "currentPrice": 29.61
+    "hotIndex": 10.46,
+    "currentPercent": 2.48,
+    "currentPrice": 29.73
   },
   {
-    "symbol": "SH688232",
-    "name": "新点软件",
+    "symbol": "SH603477",
+    "name": "巨星农牧",
     "repeat": 1,
-    "hotIndex": 1.74,
-    "currentPercent": 6.72,
-    "currentPrice": 55.08
+    "hotIndex": 10.41,
+    "currentPercent": 3.37,
+    "currentPrice": 17.81
   },
   {
-    "symbol": "SZ002011",
-    "name": "盾安环境",
+    "symbol": "SH605003",
+    "name": "众望布艺",
     "repeat": 1,
-    "hotIndex": -1.45,
-    "currentPercent": -1.11,
-    "currentPrice": 11.53
+    "hotIndex": 9.34,
+    "currentPercent": 4.26,
+    "currentPrice": 25.67
   },
   {
-    "symbol": "SH603901",
-    "name": "永创智能",
-    "repeat": 1,
-    "hotIndex": -1.65,
-    "currentPercent": 4.97,
-    "currentPrice": 14.15
-  },
-  {
-    "symbol": "SH603233",
-    "name": "大 参 林",
-    "repeat": 1,
-    "hotIndex": -3.05,
-    "currentPercent": 0.68,
-    "currentPrice": 38.31
-  },
-  {
-    "symbol": "SZ300993",
-    "name": "玉马遮阳",
-    "repeat": 1,
-    "hotIndex": -3.24,
-    "currentPercent": 3.9,
-    "currentPrice": 26.92
-  },
-  {
-    "symbol": "SH688071",
-    "name": "华依科技",
-    "repeat": 1,
-    "hotIndex": -3.7,
-    "currentPercent": 1.46,
-    "currentPrice": 51.34
-  },
-  {
-    "symbol": "SH603055",
-    "name": "台华新材",
+    "symbol": "SH600346",
+    "name": "恒力石化",
     "repeat": 2,
-    "hotIndex": -4.28,
-    "currentPercent": -2.48,
-    "currentPrice": 14.54
+    "hotIndex": 8.25,
+    "currentPercent": 4.96,
+    "currentPrice": 23.93
   },
   {
-    "symbol": "SH603501",
-    "name": "韦尔股份",
+    "symbol": "SH688363",
+    "name": "华熙生物",
     "repeat": 1,
-    "hotIndex": -5,
-    "currentPercent": -1.99,
-    "currentPrice": 257.28
+    "hotIndex": 7.35,
+    "currentPercent": 1.25,
+    "currentPrice": 121.28
   },
   {
-    "symbol": "SH688187",
-    "name": "时代电气",
+    "symbol": "SH601890",
+    "name": "亚星锚链",
     "repeat": 1,
-    "hotIndex": -5.12,
-    "currentPercent": -0.18,
-    "currentPrice": 65.4
+    "hotIndex": 7.3,
+    "currentPercent": 5.02,
+    "currentPrice": 8.78
   },
   {
-    "symbol": "SZ300861",
-    "name": "美畅股份",
+    "symbol": "SZ002385",
+    "name": "大 北 农",
     "repeat": 1,
-    "hotIndex": -6.08,
-    "currentPercent": -2.2,
-    "currentPrice": 61.65
+    "hotIndex": 5.22,
+    "currentPercent": 2.22,
+    "currentPrice": 9.19
   },
   {
-    "symbol": "SZ002920",
-    "name": "德赛西威",
-    "repeat": 3,
-    "hotIndex": -6.54,
-    "currentPercent": -0.76,
-    "currentPrice": 139.73
-  },
-  {
-    "symbol": "SH600233",
-    "name": "圆通速递",
-    "repeat": 1,
-    "hotIndex": -6.68,
-    "currentPercent": 0.5,
-    "currentPrice": 16.13
-  },
-  {
-    "symbol": "SZ002271",
-    "name": "东方雨虹",
-    "repeat": 1,
-    "hotIndex": -7.06,
-    "currentPercent": 2.7,
-    "currentPrice": 49.81
-  },
-  {
-    "symbol": "SZ002268",
-    "name": "卫 士 通",
-    "repeat": 1,
-    "hotIndex": -7.3,
-    "currentPercent": -0.49,
-    "currentPrice": 40.94
-  },
-  {
-    "symbol": "SZ002128",
-    "name": "电投能源",
+    "symbol": "SH601111",
+    "name": "中国国航",
     "repeat": 2,
-    "hotIndex": -7.38,
-    "currentPercent": -0.88,
-    "currentPrice": 14.63
+    "hotIndex": 5.21,
+    "currentPercent": 0.82,
+    "currentPrice": 9.88
   },
   {
-    "symbol": "SZ300776",
-    "name": "帝尔激光",
+    "symbol": "SZ002472",
+    "name": "双环传动",
     "repeat": 1,
-    "hotIndex": -8.09,
-    "currentPercent": 2.28,
-    "currentPrice": 244.47
+    "hotIndex": 5.2,
+    "currentPercent": 6.52,
+    "currentPrice": 25.31
   },
   {
-    "symbol": "SH688599",
-    "name": "天合光能",
+    "symbol": "SH600009",
+    "name": "上海机场",
+    "repeat": 1,
+    "hotIndex": 4.03,
+    "currentPercent": 2.17,
+    "currentPrice": 50.86
+  },
+  {
+    "symbol": "SZ300872",
+    "name": "天阳科技",
+    "repeat": 1,
+    "hotIndex": 4,
+    "currentPercent": 3.42,
+    "currentPrice": 32.67
+  },
+  {
+    "symbol": "SZ300355",
+    "name": "蒙草生态",
+    "repeat": 1,
+    "hotIndex": 3.97,
+    "currentPercent": 2.83,
+    "currentPrice": 4.72
+  },
+  {
+    "symbol": "SZ300450",
+    "name": "先导智能",
+    "repeat": 1,
+    "hotIndex": 3.86,
+    "currentPercent": 0.69,
+    "currentPrice": 72.77
+  },
+  {
+    "symbol": "SZ300674",
+    "name": "宇信科技",
     "repeat": 2,
-    "hotIndex": -8.74,
-    "currentPercent": -1.37,
-    "currentPrice": 67.56
+    "hotIndex": 3.77,
+    "currentPercent": 3.57,
+    "currentPrice": 23.49
+  },
+  {
+    "symbol": "SH601952",
+    "name": "苏垦农发",
+    "repeat": 1,
+    "hotIndex": 3.76,
+    "currentPercent": 2.12,
+    "currentPrice": 10.61
+  },
+  {
+    "symbol": "SH601677",
+    "name": "明泰铝业",
+    "repeat": 1,
+    "hotIndex": 3.68,
+    "currentPercent": 5.14,
+    "currentPrice": 41.95
   },
   {
     "symbol": "SZ300394",
     "name": "天孚通信",
     "repeat": 1,
-    "hotIndex": -9,
-    "currentPercent": 3.27,
-    "currentPrice": 34.38
+    "hotIndex": 3.66,
+    "currentPercent": 3,
+    "currentPrice": 34.29
   },
   {
-    "symbol": "SZ002245",
-    "name": "蔚蓝锂芯",
+    "symbol": "SZ300512",
+    "name": "中亚股份",
     "repeat": 1,
-    "hotIndex": -9.24,
-    "currentPercent": -1.55,
-    "currentPrice": 24.75
+    "hotIndex": 3.41,
+    "currentPercent": 3.22,
+    "currentPrice": 14.76
   },
   {
-    "symbol": "SH601689",
-    "name": "拓普集团",
+    "symbol": "SH603456",
+    "name": "九洲药业",
     "repeat": 1,
-    "hotIndex": -9.33,
-    "currentPercent": -0.8,
-    "currentPrice": 55.56
+    "hotIndex": 3.38,
+    "currentPercent": 0.75,
+    "currentPrice": 43.22
   },
   {
-    "symbol": "SH603179",
-    "name": "新泉股份",
+    "symbol": "SH603806",
+    "name": "福 斯 特",
     "repeat": 1,
-    "hotIndex": -9.45,
-    "currentPercent": -1.77,
-    "currentPrice": 39.86
+    "hotIndex": 3.37,
+    "currentPercent": 0.09,
+    "currentPrice": 116.59
   },
   {
-    "symbol": "SH603733",
-    "name": "仙鹤股份",
+    "symbol": "SZ002938",
+    "name": "鹏鼎控股",
     "repeat": 1,
-    "hotIndex": -9.53,
-    "currentPercent": 0.6,
-    "currentPrice": 35.01
+    "hotIndex": 3.36,
+    "currentPercent": 0.77,
+    "currentPrice": 36.85
   },
   {
-    "symbol": "SH688006",
-    "name": "杭可科技",
+    "symbol": "SH603596",
+    "name": "伯 特 利",
     "repeat": 1,
-    "hotIndex": -9.87,
-    "currentPercent": -1.38,
-    "currentPrice": 87.63
+    "hotIndex": 3.34,
+    "currentPercent": 0.64,
+    "currentPrice": 78.09
   },
   {
-    "symbol": "SH603290",
-    "name": "斯达半导",
+    "symbol": "SZ002026",
+    "name": "山东威达",
+    "repeat": 2,
+    "hotIndex": 3.32,
+    "currentPercent": -0.06,
+    "currentPrice": 17.68
+  },
+  {
+    "symbol": "SH688232",
+    "name": "新点软件",
     "repeat": 1,
-    "hotIndex": -9.87,
-    "currentPercent": -1.44,
-    "currentPrice": 327.23
+    "hotIndex": 1.82,
+    "currentPercent": 5.66,
+    "currentPrice": 54.53
   },
   {
     "symbol": "SH603363",
     "name": "傲农生物",
     "repeat": 1,
-    "hotIndex": -9.93,
-    "currentPercent": 0.98,
-    "currentPrice": 16.46
+    "hotIndex": 0.03,
+    "currentPercent": 2.7,
+    "currentPrice": 16.74
+  },
+  {
+    "symbol": "SH603893",
+    "name": "瑞 芯 微",
+    "repeat": 1,
+    "hotIndex": -0.23,
+    "currentPercent": 0.72,
+    "currentPrice": 108.14
+  },
+  {
+    "symbol": "SZ300348",
+    "name": "长亮科技",
+    "repeat": 2,
+    "hotIndex": -1.07,
+    "currentPercent": 3.62,
+    "currentPrice": 14.61
+  },
+  {
+    "symbol": "SZ002011",
+    "name": "盾安环境",
+    "repeat": 1,
+    "hotIndex": -1.54,
+    "currentPercent": -1.72,
+    "currentPrice": 11.46
+  },
+  {
+    "symbol": "SH603901",
+    "name": "永创智能",
+    "repeat": 1,
+    "hotIndex": -1.7,
+    "currentPercent": 4.53,
+    "currentPrice": 14.09
+  },
+  {
+    "symbol": "SH603233",
+    "name": "大 参 林",
+    "repeat": 1,
+    "hotIndex": -3.23,
+    "currentPercent": 0.42,
+    "currentPrice": 38.21
+  },
+  {
+    "symbol": "SZ300993",
+    "name": "玉马遮阳",
+    "repeat": 1,
+    "hotIndex": -3.37,
+    "currentPercent": 3.36,
+    "currentPrice": 26.78
+  },
+  {
+    "symbol": "SH603055",
+    "name": "台华新材",
+    "repeat": 2,
+    "hotIndex": -4.53,
+    "currentPercent": -2.75,
+    "currentPrice": 14.5
+  },
+  {
+    "symbol": "SH603501",
+    "name": "韦尔股份",
+    "repeat": 1,
+    "hotIndex": -5.19,
+    "currentPercent": -0.89,
+    "currentPrice": 260.17
+  },
+  {
+    "symbol": "SZ300776",
+    "name": "帝尔激光",
+    "repeat": 1,
+    "hotIndex": -5.61,
+    "currentPercent": 2,
+    "currentPrice": 243.8
+  },
+  {
+    "symbol": "SZ300212",
+    "name": "易 华 录",
+    "repeat": 1,
+    "hotIndex": -5.68,
+    "currentPercent": -3.01,
+    "currentPrice": 28
+  },
+  {
+    "symbol": "SH603920",
+    "name": "世运电路",
+    "repeat": 1,
+    "hotIndex": -5.74,
+    "currentPercent": -1.15,
+    "currentPrice": 22.28
+  },
+  {
+    "symbol": "SZ002727",
+    "name": "一 心 堂",
+    "repeat": 1,
+    "hotIndex": -6.12,
+    "currentPercent": 3.1,
+    "currentPrice": 30.3
+  },
+  {
+    "symbol": "SZ002460",
+    "name": "赣锋锂业",
+    "repeat": 2,
+    "hotIndex": -6.22,
+    "currentPercent": -0.29,
+    "currentPrice": 135.81
+  },
+  {
+    "symbol": "SH600233",
+    "name": "圆通速递",
+    "repeat": 1,
+    "hotIndex": -6.77,
+    "currentPercent": 1.37,
+    "currentPrice": 16.27
+  },
+  {
+    "symbol": "SZ002920",
+    "name": "德赛西威",
+    "repeat": 3,
+    "hotIndex": -6.94,
+    "currentPercent": -0.37,
+    "currentPrice": 140.28
+  },
+  {
+    "symbol": "SH601689",
+    "name": "拓普集团",
+    "repeat": 1,
+    "hotIndex": -6.99,
+    "currentPercent": -0.68,
+    "currentPrice": 55.63
+  },
+  {
+    "symbol": "SZ002271",
+    "name": "东方雨虹",
+    "repeat": 1,
+    "hotIndex": -7.09,
+    "currentPercent": 3.15,
+    "currentPrice": 50.03
+  },
+  {
+    "symbol": "SZ002128",
+    "name": "电投能源",
+    "repeat": 1,
+    "hotIndex": -7.47,
+    "currentPercent": 0.41,
+    "currentPrice": 14.82
+  },
+  {
+    "symbol": "SZ002268",
+    "name": "卫 士 通",
+    "repeat": 1,
+    "hotIndex": -7.81,
+    "currentPercent": -0.1,
+    "currentPrice": 41.1
   },
   {
     "symbol": "SH600893",
     "name": "航发动力",
     "repeat": 1,
-    "hotIndex": -10.77,
-    "currentPercent": 1.29,
-    "currentPrice": 49.5
+    "hotIndex": -8.13,
+    "currentPercent": 1.78,
+    "currentPrice": 49.74
   },
   {
-    "symbol": "SH600219",
-    "name": "南山铝业",
+    "symbol": "SZ002990",
+    "name": "盛视科技",
     "repeat": 1,
-    "hotIndex": -10.92,
-    "currentPercent": -1.61,
-    "currentPrice": 4.29
+    "hotIndex": -8.69,
+    "currentPercent": 1.28,
+    "currentPrice": 30.76
   },
   {
-    "symbol": "SH600887",
-    "name": "伊利股份",
-    "repeat": 3,
-    "hotIndex": -11.04,
-    "currentPercent": 1.42,
-    "currentPrice": 38.66
-  },
-  {
-    "symbol": "SZ300073",
-    "name": "当升科技",
-    "repeat": 1,
-    "hotIndex": -11.07,
-    "currentPercent": 1.79,
-    "currentPrice": 86.43
-  },
-  {
-    "symbol": "SZ002009",
-    "name": "天奇股份",
-    "repeat": 1,
-    "hotIndex": -11.19,
-    "currentPercent": 2.39,
-    "currentPrice": 16.7
+    "symbol": "SH688599",
+    "name": "天合光能",
+    "repeat": 2,
+    "hotIndex": -9.08,
+    "currentPercent": -1.02,
+    "currentPrice": 67.8
   },
   {
     "symbol": "SH600132",
     "name": "重庆啤酒",
     "repeat": 2,
-    "hotIndex": -11.7,
-    "currentPercent": -0.48,
-    "currentPrice": 134.75
+    "hotIndex": -9.27,
+    "currentPercent": -0.69,
+    "currentPrice": 134.47
   },
   {
-    "symbol": "SZ300745",
-    "name": "欣锐科技",
+    "symbol": "SH601633",
+    "name": "长城汽车",
     "repeat": 1,
-    "hotIndex": -12.42,
-    "currentPercent": -0.86,
-    "currentPrice": 55.2
+    "hotIndex": -9.33,
+    "currentPercent": 0.12,
+    "currentPrice": 40.5
   },
   {
-    "symbol": "SH603359",
-    "name": "东珠生态",
+    "symbol": "SH601636",
+    "name": "旗滨集团",
     "repeat": 1,
-    "hotIndex": -13.66,
-    "currentPercent": 0.47,
-    "currentPrice": 12.93
+    "hotIndex": -9.39,
+    "currentPercent": -4.35,
+    "currentPrice": 15.82
   },
   {
-    "symbol": "SZ000552",
-    "name": "靖远煤电",
+    "symbol": "SZ002438",
+    "name": "江苏神通",
     "repeat": 2,
-    "hotIndex": -14.04,
-    "currentPercent": -1.42,
-    "currentPrice": 3.46
+    "hotIndex": -9.52,
+    "currentPercent": 5.94,
+    "currentPrice": 18.01
   },
   {
-    "symbol": "SH600549",
-    "name": "厦门钨业",
+    "symbol": "SZ002245",
+    "name": "蔚蓝锂芯",
     "repeat": 1,
-    "hotIndex": -14.89,
-    "currentPercent": 1.08,
-    "currentPrice": 19.6
+    "hotIndex": -9.69,
+    "currentPercent": -1.79,
+    "currentPrice": 24.69
   },
   {
-    "symbol": "SH600362",
-    "name": "江西铜业",
+    "symbol": "SZ002705",
+    "name": "新宝股份",
     "repeat": 1,
-    "hotIndex": -15.09,
-    "currentPercent": 0.05,
-    "currentPrice": 20.25
+    "hotIndex": -9.99,
+    "currentPercent": 1.02,
+    "currentPrice": 20.88
   },
   {
-    "symbol": "SH601899",
-    "name": "紫金矿业",
+    "symbol": "SH603733",
+    "name": "仙鹤股份",
     "repeat": 1,
-    "hotIndex": -15.15,
-    "currentPercent": -1.11,
-    "currentPrice": 9.8
+    "hotIndex": -10.01,
+    "currentPercent": 0.43,
+    "currentPrice": 34.95
   },
   {
-    "symbol": "SZ002037",
-    "name": "保利联合",
+    "symbol": "SH688006",
+    "name": "杭可科技",
     "repeat": 1,
-    "hotIndex": -15.75,
-    "currentPercent": 9.97,
-    "currentPrice": 11.14
+    "hotIndex": -10.44,
+    "currentPercent": -0.51,
+    "currentPrice": 88.41
   },
   {
-    "symbol": "SH600150",
-    "name": "中国船舶",
+    "symbol": "SH603290",
+    "name": "斯达半导",
     "repeat": 1,
-    "hotIndex": -15.84,
-    "currentPercent": 0,
-    "currentPrice": 20.55
+    "hotIndex": -10.62,
+    "currentPercent": -0.88,
+    "currentPrice": 329.1
   },
   {
     "symbol": "SH688077",
     "name": "大 地 熊",
     "repeat": 1,
-    "hotIndex": -15.87,
-    "currentPercent": 0.41,
-    "currentPrice": 60.63
+    "hotIndex": -10.74,
+    "currentPercent": -0.22,
+    "currentPrice": 60.25
   },
   {
-    "symbol": "SH688680",
-    "name": "海优新材",
+    "symbol": "SZ002153",
+    "name": "石基信息",
     "repeat": 1,
-    "hotIndex": -17.26,
-    "currentPercent": 2.93,
-    "currentPrice": 221.78
-  },
-  {
-    "symbol": "SH688313",
-    "name": "仕佳光子",
-    "repeat": 1,
-    "hotIndex": -17.5,
-    "currentPercent": 2.48,
-    "currentPrice": 11.16
-  },
-  {
-    "symbol": "SZ002508",
-    "name": "老板电器",
-    "repeat": 1,
-    "hotIndex": -17.91,
-    "currentPercent": -0.23,
-    "currentPrice": 34.74
-  },
-  {
-    "symbol": "SH605155",
-    "name": "西 大 门",
-    "repeat": 1,
-    "hotIndex": -18.46,
-    "currentPercent": 3.79,
-    "currentPrice": 21.08
-  },
-  {
-    "symbol": "SZ002013",
-    "name": "中航机电",
-    "repeat": 1,
-    "hotIndex": -19.23,
-    "currentPercent": 0.91,
-    "currentPrice": 12.22
-  },
-  {
-    "symbol": "SH600426",
-    "name": "华鲁恒升",
-    "repeat": 2,
-    "hotIndex": -20.31,
-    "currentPercent": -0.92,
-    "currentPrice": 30.32
+    "hotIndex": -10.8,
+    "currentPercent": 1.01,
+    "currentPrice": 31.89
   },
   {
     "symbol": "SH600765",
     "name": "中航重机",
     "repeat": 2,
-    "hotIndex": -20.43,
-    "currentPercent": 1.46,
-    "currentPrice": 42.39
+    "hotIndex": -11.1,
+    "currentPercent": 3.52,
+    "currentPrice": 43.25
   },
   {
-    "symbol": "SZ300593",
-    "name": "新 雷 能",
-    "repeat": 1,
-    "hotIndex": -20.61,
-    "currentPercent": -1.82,
-    "currentPrice": 49.7
+    "symbol": "SH600887",
+    "name": "伊利股份",
+    "repeat": 3,
+    "hotIndex": -11.25,
+    "currentPercent": 1.1,
+    "currentPrice": 38.54
   },
   {
-    "symbol": "SH601865",
-    "name": "福 莱 特",
+    "symbol": "SH600219",
+    "name": "南山铝业",
+    "repeat": 2,
+    "hotIndex": -11.28,
+    "currentPercent": -1.38,
+    "currentPrice": 4.3
+  },
+  {
+    "symbol": "SZ002009",
+    "name": "天奇股份",
     "repeat": 1,
-    "hotIndex": -20.94,
-    "currentPercent": -0.61,
-    "currentPrice": 50.47
+    "hotIndex": -11.76,
+    "currentPercent": 2.02,
+    "currentPrice": 16.64
+  },
+  {
+    "symbol": "SZ300073",
+    "name": "当升科技",
+    "repeat": 1,
+    "hotIndex": -11.91,
+    "currentPercent": 1.75,
+    "currentPrice": 86.4
+  },
+  {
+    "symbol": "SH688071",
+    "name": "华依科技",
+    "repeat": 1,
+    "hotIndex": -13.05,
+    "currentPercent": 1.82,
+    "currentPrice": 51.52
+  },
+  {
+    "symbol": "SH688680",
+    "name": "海优新材",
+    "repeat": 1,
+    "hotIndex": -13.26,
+    "currentPercent": 3.44,
+    "currentPrice": 222.88
+  },
+  {
+    "symbol": "SH688187",
+    "name": "时代电气",
+    "repeat": 1,
+    "hotIndex": -14.63,
+    "currentPercent": 0.4,
+    "currentPrice": 65.78
+  },
+  {
+    "symbol": "SZ000552",
+    "name": "靖远煤电",
+    "repeat": 2,
+    "hotIndex": -14.82,
+    "currentPercent": -0.85,
+    "currentPrice": 3.48
+  },
+  {
+    "symbol": "SH603306",
+    "name": "华懋科技",
+    "repeat": 1,
+    "hotIndex": -14.9,
+    "currentPercent": 4.65,
+    "currentPrice": 32.21
+  },
+  {
+    "symbol": "SZ300861",
+    "name": "美畅股份",
+    "repeat": 1,
+    "hotIndex": -15.56,
+    "currentPercent": -1.17,
+    "currentPrice": 62.3
+  },
+  {
+    "symbol": "SH600549",
+    "name": "厦门钨业",
+    "repeat": 1,
+    "hotIndex": -15.99,
+    "currentPercent": 1.24,
+    "currentPrice": 19.63
+  },
+  {
+    "symbol": "SH601899",
+    "name": "紫金矿业",
+    "repeat": 1,
+    "hotIndex": -16.14,
+    "currentPercent": -1.11,
+    "currentPrice": 9.8
+  },
+  {
+    "symbol": "SH600362",
+    "name": "江西铜业",
+    "repeat": 1,
+    "hotIndex": -16.17,
+    "currentPercent": 0.3,
+    "currentPrice": 20.3
+  },
+  {
+    "symbol": "SZ002037",
+    "name": "保利联合",
+    "repeat": 1,
+    "hotIndex": -17.19,
+    "currentPercent": 9.97,
+    "currentPrice": 11.14
+  },
+  {
+    "symbol": "SH688313",
+    "name": "仕佳光子",
+    "repeat": 1,
+    "hotIndex": -18.44,
+    "currentPercent": 1.93,
+    "currentPrice": 11.1
+  },
+  {
+    "symbol": "SZ002508",
+    "name": "老板电器",
+    "repeat": 1,
+    "hotIndex": -18.87,
+    "currentPercent": -0.29,
+    "currentPrice": 34.72
+  },
+  {
+    "symbol": "SH605155",
+    "name": "西 大 门",
+    "repeat": 1,
+    "hotIndex": -19.42,
+    "currentPercent": 4.04,
+    "currentPrice": 21.13
+  },
+  {
+    "symbol": "SZ002013",
+    "name": "中航机电",
+    "repeat": 1,
+    "hotIndex": -19.47,
+    "currentPercent": 1.73,
+    "currentPrice": 12.32
   },
   {
     "symbol": "SZ300627",
     "name": "华测导航",
     "repeat": 1,
-    "hotIndex": -21.43,
-    "currentPercent": 1.54,
-    "currentPrice": 39.6
+    "hotIndex": -19.89,
+    "currentPercent": 0.62,
+    "currentPrice": 39.24
+  },
+  {
+    "symbol": "SH603359",
+    "name": "东珠生态",
+    "repeat": 1,
+    "hotIndex": -19.94,
+    "currentPercent": 0.7,
+    "currentPrice": 12.96
+  },
+  {
+    "symbol": "SH600426",
+    "name": "华鲁恒升",
+    "repeat": 2,
+    "hotIndex": -21.69,
+    "currentPercent": -0.88,
+    "currentPrice": 30.33
+  },
+  {
+    "symbol": "SH601088",
+    "name": "中国神华",
+    "repeat": 1,
+    "hotIndex": -22.35,
+    "currentPercent": -3.45,
+    "currentPrice": 22.67
+  },
+  {
+    "symbol": "SZ300593",
+    "name": "新 雷 能",
+    "repeat": 1,
+    "hotIndex": -22.38,
+    "currentPercent": -1.74,
+    "currentPrice": 49.74
+  },
+  {
+    "symbol": "SH601865",
+    "name": "福 莱 特",
+    "repeat": 1,
+    "hotIndex": -22.47,
+    "currentPercent": -1.69,
+    "currentPrice": 49.92
   },
   {
     "symbol": "SH603026",
     "name": "石大胜华",
     "repeat": 1,
-    "hotIndex": -22.11,
-    "currentPercent": -2.59,
-    "currentPrice": 165.6
-  },
-  {
-    "symbol": "SH601088",
-    "name": "中国神华",
-    "repeat": 2,
-    "hotIndex": -22.14,
-    "currentPercent": -2.77,
-    "currentPrice": 22.83
-  },
-  {
-    "symbol": "SZ002532",
-    "name": "天山铝业",
-    "repeat": 1,
-    "hotIndex": -22.97,
-    "currentPercent": -3.63,
-    "currentPrice": 8.24
-  },
-  {
-    "symbol": "SH600460",
-    "name": "士 兰 微",
-    "repeat": 1,
-    "hotIndex": -22.99,
-    "currentPercent": -0.04,
-    "currentPrice": 52.08
-  },
-  {
-    "symbol": "SH603297",
-    "name": "永新光学",
-    "repeat": 2,
     "hotIndex": -23.58,
-    "currentPercent": -2.07,
-    "currentPrice": 122.36
-  },
-  {
-    "symbol": "SH600196",
-    "name": "复星医药",
-    "repeat": 1,
-    "hotIndex": -23.65,
-    "currentPercent": -0.05,
-    "currentPrice": 43.39
-  },
-  {
-    "symbol": "SH688196",
-    "name": "卓越新能",
-    "repeat": 1,
-    "hotIndex": -24.68,
-    "currentPercent": 1.32,
-    "currentPrice": 73.15
-  },
-  {
-    "symbol": "SH688580",
-    "name": "伟思医疗",
-    "repeat": 1,
-    "hotIndex": -24.86,
-    "currentPercent": 1.75,
-    "currentPrice": 92.8
-  },
-  {
-    "symbol": "SH600600",
-    "name": "青岛啤酒",
-    "repeat": 1,
-    "hotIndex": -24.9,
-    "currentPercent": 1,
-    "currentPrice": 93.9
+    "currentPercent": -2.35,
+    "currentPrice": 166
   },
   {
     "symbol": "SH688639",
     "name": "华恒生物",
     "repeat": 1,
-    "hotIndex": -25.23,
-    "currentPercent": 0.87,
-    "currentPrice": 120.02
+    "hotIndex": -23.73,
+    "currentPercent": 0.83,
+    "currentPrice": 119.98
   },
   {
-    "symbol": "SZ002036",
-    "name": "联创电子",
+    "symbol": "SZ002532",
+    "name": "天山铝业",
     "repeat": 2,
-    "hotIndex": -25.35,
-    "currentPercent": -6.59,
-    "currentPrice": 19.14
+    "hotIndex": -23.89,
+    "currentPercent": -3.51,
+    "currentPrice": 8.25
+  },
+  {
+    "symbol": "SH600460",
+    "name": "士 兰 微",
+    "repeat": 1,
+    "hotIndex": -24.37,
+    "currentPercent": 0.31,
+    "currentPrice": 52.26
+  },
+  {
+    "symbol": "SZ300745",
+    "name": "欣锐科技",
+    "repeat": 1,
+    "hotIndex": -24.65,
+    "currentPercent": -0.22,
+    "currentPrice": 55.56
+  },
+  {
+    "symbol": "SH603297",
+    "name": "永新光学",
+    "repeat": 2,
+    "hotIndex": -25.05,
+    "currentPercent": -2.23,
+    "currentPrice": 122.16
+  },
+  {
+    "symbol": "SH600196",
+    "name": "复星医药",
+    "repeat": 1,
+    "hotIndex": -25.1,
+    "currentPercent": 0,
+    "currentPrice": 43.41
+  },
+  {
+    "symbol": "SH600150",
+    "name": "中国船舶",
+    "repeat": 1,
+    "hotIndex": -25.89,
+    "currentPercent": 0.1,
+    "currentPrice": 20.57
+  },
+  {
+    "symbol": "SH600600",
+    "name": "青岛啤酒",
+    "repeat": 1,
+    "hotIndex": -25.97,
+    "currentPercent": 1.22,
+    "currentPrice": 94.1
+  },
+  {
+    "symbol": "SH688580",
+    "name": "伟思医疗",
+    "repeat": 1,
+    "hotIndex": -26.38,
+    "currentPercent": 1.74,
+    "currentPrice": 92.79
   },
   {
     "symbol": "SH603605",
     "name": "珀 莱 雅",
     "repeat": 1,
-    "hotIndex": -25.86,
-    "currentPercent": 0.06,
-    "currentPrice": 170.42
+    "hotIndex": -27.16,
+    "currentPercent": -0.14,
+    "currentPrice": 170.08
+  },
+  {
+    "symbol": "SH603179",
+    "name": "新泉股份",
+    "repeat": 1,
+    "hotIndex": -27.24,
+    "currentPercent": -1.55,
+    "currentPrice": 39.95
   },
   {
     "symbol": "SH601012",
     "name": "隆基股份",
     "repeat": 1,
-    "hotIndex": -26.56,
-    "currentPercent": -3.86,
-    "currentPrice": 71.56
-  },
-  {
-    "symbol": "SH688167",
-    "name": "炬光科技",
-    "repeat": 2,
-    "hotIndex": -26.96,
-    "currentPercent": 2.21,
-    "currentPrice": 193.1
+    "hotIndex": -28.55,
+    "currentPercent": -5.09,
+    "currentPrice": 70.64
   },
   {
     "symbol": "SZ000012",
     "name": "南  玻Ａ",
     "repeat": 1,
-    "hotIndex": -28.08,
-    "currentPercent": -0.34,
-    "currentPrice": 8.83
+    "hotIndex": -29.16,
+    "currentPercent": -0.11,
+    "currentPrice": 8.85
   },
   {
     "symbol": "SZ000922",
     "name": "佳电股份",
     "repeat": 1,
-    "hotIndex": -28.23,
+    "hotIndex": -29.82,
     "currentPercent": 1.24,
     "currentPrice": 10.63
-  },
-  {
-    "symbol": "SH600919",
-    "name": "江苏银行",
-    "repeat": 1,
-    "hotIndex": -28.96,
-    "currentPercent": -0.89,
-    "currentPrice": 6.65
-  },
-  {
-    "symbol": "SH603993",
-    "name": "洛阳钼业",
-    "repeat": 1,
-    "hotIndex": -31.08,
-    "currentPercent": -0.19,
-    "currentPrice": 5.16
-  },
-  {
-    "symbol": "SH688022",
-    "name": "瀚川智能",
-    "repeat": 2,
-    "hotIndex": -34.11,
-    "currentPercent": -0.24,
-    "currentPrice": 61.94
   },
   {
     "symbol": "SH603786",
     "name": "科 博 达",
     "repeat": 1,
-    "hotIndex": -34.82,
-    "currentPercent": 0.34,
-    "currentPrice": 79.17
+    "hotIndex": -31.23,
+    "currentPercent": 0.25,
+    "currentPrice": 79.1
+  },
+  {
+    "symbol": "SH688167",
+    "name": "炬光科技",
+    "repeat": 2,
+    "hotIndex": -32.35,
+    "currentPercent": 1.89,
+    "currentPrice": 192.49
+  },
+  {
+    "symbol": "SZ002036",
+    "name": "联创电子",
+    "repeat": 2,
+    "hotIndex": -36.45,
+    "currentPercent": -6.44,
+    "currentPrice": 19.17
   },
   {
     "symbol": "SZ002493",
     "name": "荣盛石化",
     "repeat": 1,
-    "hotIndex": -34.94,
-    "currentPercent": 1.58,
-    "currentPrice": 18
-  },
-  {
-    "symbol": "SH688598",
-    "name": "金博股份",
-    "repeat": 2,
-    "hotIndex": -35.02,
-    "currentPercent": -0.35,
-    "currentPrice": 277.01
-  },
-  {
-    "symbol": "SH603228",
-    "name": "景旺电子",
-    "repeat": 1,
-    "hotIndex": -36.18,
-    "currentPercent": -0.49,
-    "currentPrice": 34.26
-  },
-  {
-    "symbol": "SH605377",
-    "name": "华旺科技",
-    "repeat": 1,
-    "hotIndex": -39.18,
-    "currentPercent": 2.32,
-    "currentPrice": 18.93
+    "hotIndex": -36.63,
+    "currentPercent": 1.98,
+    "currentPrice": 18.07
   },
   {
     "symbol": "SH688065",
     "name": "凯赛生物",
     "repeat": 1,
-    "hotIndex": -39.97,
-    "currentPercent": 1.4,
-    "currentPrice": 157.77
+    "hotIndex": -36.88,
+    "currentPercent": 1.84,
+    "currentPrice": 158.46
   },
   {
-    "symbol": "SH688127",
-    "name": "蓝特光学",
-    "repeat": 1,
-    "hotIndex": -41.73,
-    "currentPercent": -3.55,
-    "currentPrice": 22.79
+    "symbol": "SH688598",
+    "name": "金博股份",
+    "repeat": 2,
+    "hotIndex": -37.52,
+    "currentPercent": 0.37,
+    "currentPrice": 279
   },
   {
     "symbol": "SZ300614",
     "name": "百川畅银",
     "repeat": 1,
-    "hotIndex": -42.85,
-    "currentPercent": 1.45,
-    "currentPrice": 39.08
+    "hotIndex": -38.91,
+    "currentPercent": 1.97,
+    "currentPrice": 39.28
+  },
+  {
+    "symbol": "SH603993",
+    "name": "洛阳钼业",
+    "repeat": 1,
+    "hotIndex": -39.32,
+    "currentPercent": 0.19,
+    "currentPrice": 5.18
+  },
+  {
+    "symbol": "SH688022",
+    "name": "瀚川智能",
+    "repeat": 2,
+    "hotIndex": -41.39,
+    "currentPercent": -1.9,
+    "currentPrice": 60.91
   },
   {
     "symbol": "SH603313",
     "name": "梦 百 合",
     "repeat": 1,
-    "hotIndex": -46.24,
-    "currentPercent": 0.55,
-    "currentPrice": 16.47
-  },
-  {
-    "symbol": "SZ002126",
-    "name": "银轮股份",
-    "repeat": 1,
-    "hotIndex": -46.61,
-    "currentPercent": -0.09,
-    "currentPrice": 10.66
+    "hotIndex": -46.42,
+    "currentPercent": 0.37,
+    "currentPrice": 16.44
   },
   {
     "symbol": "SZ000933",
     "name": "神火股份",
     "repeat": 1,
-    "hotIndex": -46.65,
-    "currentPercent": -3.87,
-    "currentPrice": 10.69
+    "hotIndex": -47.19,
+    "currentPercent": -3.51,
+    "currentPrice": 10.73
+  },
+  {
+    "symbol": "SH603228",
+    "name": "景旺电子",
+    "repeat": 1,
+    "hotIndex": -48.53,
+    "currentPercent": -1.07,
+    "currentPrice": 34.06
+  },
+  {
+    "symbol": "SH600919",
+    "name": "江苏银行",
+    "repeat": 1,
+    "hotIndex": -50.57,
+    "currentPercent": -1.19,
+    "currentPrice": 6.63
+  },
+  {
+    "symbol": "SH605377",
+    "name": "华旺科技",
+    "repeat": 1,
+    "hotIndex": -54.77,
+    "currentPercent": 3.14,
+    "currentPrice": 19.08
+  },
+  {
+    "symbol": "SH688196",
+    "name": "卓越新能",
+    "repeat": 1,
+    "hotIndex": -58.31,
+    "currentPercent": 0.66,
+    "currentPrice": 72.68
+  },
+  {
+    "symbol": "SZ002126",
+    "name": "银轮股份",
+    "repeat": 1,
+    "hotIndex": -58.83,
+    "currentPercent": -0.75,
+    "currentPrice": 10.59
   },
   {
     "symbol": "SH600207",
     "name": "安彩高科",
     "repeat": 1,
-    "hotIndex": -57.42,
-    "currentPercent": -2.88,
-    "currentPrice": 6.06
+    "hotIndex": -61.26,
+    "currentPercent": -2.56,
+    "currentPrice": 6.08
+  },
+  {
+    "symbol": "SH688127",
+    "name": "蓝特光学",
+    "repeat": 1,
+    "hotIndex": -64.03,
+    "currentPercent": -4.32,
+    "currentPrice": 22.61
   },
   {
     "symbol": "SH688519",
     "name": "南亚新材",
     "repeat": 1,
-    "hotIndex": -94.54,
-    "currentPercent": 1.39,
-    "currentPrice": 42.18
+    "hotIndex": -101.44,
+    "currentPercent": 0.55,
+    "currentPrice": 41.83
   }
 ]
