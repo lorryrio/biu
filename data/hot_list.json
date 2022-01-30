@@ -87,7 +87,7 @@
   {
     "symbol": "SH688599",
     "name": "天合光能",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600346",
@@ -212,7 +212,7 @@
   {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SH603233",
@@ -347,7 +347,7 @@
   {
     "symbol": "SZ300496",
     "name": "中科创达",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002026",
@@ -487,7 +487,7 @@
   {
     "symbol": "SH600183",
     "name": "生益科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300394",
@@ -597,7 +597,7 @@
   {
     "symbol": "SH600765",
     "name": "中航重机",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600893",
@@ -652,7 +652,7 @@
   {
     "symbol": "SZ002460",
     "name": "赣锋锂业",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002466",
@@ -762,61 +762,6 @@
   {
     "symbol": "SZ002271",
     "name": "东方雨虹",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601012",
-    "name": "隆基股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002756",
-    "name": "永兴材料",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300661",
-    "name": "圣邦股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603501",
-    "name": "韦尔股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603596",
-    "name": "伯 特 利",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603786",
-    "name": "科 博 达",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002013",
-    "name": "中航机电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300745",
-    "name": "欣锐科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603290",
-    "name": "斯达半导",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002245",
-    "name": "蔚蓝锂芯",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688519",
-    "name": "南亚新材",
     "repeat": 1
   }
 ]
