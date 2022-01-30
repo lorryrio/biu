@@ -146,7 +146,7 @@
   {
     "symbol": "SH688599",
     "name": "天合光能",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -3.9,
     "currentPercent": -2.82,
     "currentPrice": 66.57
@@ -238,14 +238,6 @@
     "hotIndex": -6.18,
     "currentPercent": 2.24,
     "currentPrice": 10.02
-  },
-  {
-    "symbol": "SH603501",
-    "name": "韦尔股份",
-    "repeat": 1,
-    "hotIndex": -6.19,
-    "currentPercent": -3.16,
-    "currentPrice": 254.2
   },
   {
     "symbol": "SH601890",
@@ -400,14 +392,6 @@
     "currentPrice": 49.22
   },
   {
-    "symbol": "SH603596",
-    "name": "伯 特 利",
-    "repeat": 1,
-    "hotIndex": -15.14,
-    "currentPercent": -0.7,
-    "currentPrice": 77.05
-  },
-  {
     "symbol": "SZ002352",
     "name": "顺丰控股",
     "repeat": 1,
@@ -456,28 +440,12 @@
     "currentPrice": 40.42
   },
   {
-    "symbol": "SZ300661",
-    "name": "圣邦股份",
-    "repeat": 1,
-    "hotIndex": -19.44,
-    "currentPercent": -2.55,
-    "currentPrice": 275.19
-  },
-  {
     "symbol": "SH600549",
     "name": "厦门钨业",
     "repeat": 1,
     "hotIndex": -19.49,
     "currentPercent": 0.57,
     "currentPrice": 19.5
-  },
-  {
-    "symbol": "SZ002756",
-    "name": "永兴材料",
-    "repeat": 1,
-    "hotIndex": -19.62,
-    "currentPercent": 0.3,
-    "currentPrice": 119.37
   },
   {
     "symbol": "SH601689",
@@ -546,7 +514,7 @@
   {
     "symbol": "SZ300496",
     "name": "中科创达",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -24.21,
     "currentPercent": -3.56,
     "currentPrice": 138
@@ -594,7 +562,7 @@
   {
     "symbol": "SH600765",
     "name": "中航重机",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -26.59,
     "currentPercent": 2.85,
     "currentPrice": 42.97
@@ -650,7 +618,7 @@
   {
     "symbol": "SZ002460",
     "name": "赣锋锂业",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -29.19,
     "currentPercent": -1.65,
     "currentPrice": 133.95
@@ -704,28 +672,12 @@
     "currentPrice": 86
   },
   {
-    "symbol": "SZ002013",
-    "name": "中航机电",
-    "repeat": 1,
-    "hotIndex": -32.09,
-    "currentPercent": 0.08,
-    "currentPrice": 12.12
-  },
-  {
     "symbol": "SH600132",
     "name": "重庆啤酒",
     "repeat": 2,
     "hotIndex": -32.7,
     "currentPercent": -1.48,
     "currentPrice": 133.4
-  },
-  {
-    "symbol": "SH603290",
-    "name": "斯达半导",
-    "repeat": 1,
-    "hotIndex": -32.7,
-    "currentPercent": -3.47,
-    "currentPrice": 320.5
   },
   {
     "symbol": "SH600426",
@@ -736,17 +688,9 @@
     "currentPrice": 30.21
   },
   {
-    "symbol": "SZ002245",
-    "name": "蔚蓝锂芯",
-    "repeat": 1,
-    "hotIndex": -36.39,
-    "currentPercent": -3.74,
-    "currentPrice": 24.2
-  },
-  {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 3,
+    "repeat": 2,
     "hotIndex": -37.08,
     "currentPercent": -2.7,
     "currentPrice": 137
@@ -794,7 +738,7 @@
   {
     "symbol": "SH600183",
     "name": "生益科技",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -38.95,
     "currentPercent": -0.86,
     "currentPrice": 19.55
@@ -1000,14 +944,6 @@
     "currentPrice": 39.41
   },
   {
-    "symbol": "SH601012",
-    "name": "隆基股份",
-    "repeat": 1,
-    "hotIndex": -60.12,
-    "currentPercent": -5.8,
-    "currentPrice": 70.11
-  },
-  {
     "symbol": "SH688033",
     "name": "天宜上佳",
     "repeat": 1,
@@ -1160,14 +1096,6 @@
     "currentPrice": 188.45
   },
   {
-    "symbol": "SZ300745",
-    "name": "欣锐科技",
-    "repeat": 1,
-    "hotIndex": -81.25,
-    "currentPercent": -1.74,
-    "currentPrice": 54.71
-  },
-  {
     "symbol": "SH605003",
     "name": "众望布艺",
     "repeat": 1,
@@ -1192,14 +1120,6 @@
     "currentPrice": 276.61
   },
   {
-    "symbol": "SH603786",
-    "name": "科 博 达",
-    "repeat": 1,
-    "hotIndex": -88.85,
-    "currentPercent": -0.25,
-    "currentPrice": 78.7
-  },
-  {
     "symbol": "SH603993",
     "name": "洛阳钼业",
     "repeat": 1,
@@ -1222,14 +1142,6 @@
     "hotIndex": -104.41,
     "currentPercent": -1.94,
     "currentPrice": 6.58
-  },
-  {
-    "symbol": "SH688519",
-    "name": "南亚新材",
-    "repeat": 1,
-    "hotIndex": -104.88,
-    "currentPercent": -0.72,
-    "currentPrice": 41.3
   },
   {
     "symbol": "SH603313",
