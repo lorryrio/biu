@@ -12,7 +12,7 @@
   {
     "symbol": "SZ002532",
     "name": "天山铝业",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600219",
@@ -32,12 +32,12 @@
   {
     "symbol": "SZ002241",
     "name": "歌尔股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002475",
     "name": "立讯精密",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SH603297",
@@ -97,7 +97,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600150",
@@ -257,7 +257,7 @@
   {
     "symbol": "SZ000552",
     "name": "靖远煤电",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002128",
@@ -542,7 +542,7 @@
   {
     "symbol": "SH601669",
     "name": "中国电建",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603605",
@@ -702,66 +702,6 @@
   {
     "symbol": "SH603939",
     "name": "益丰药房",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600207",
-    "name": "安彩高科",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601865",
-    "name": "福 莱 特",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601567",
-    "name": "三星医疗",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688580",
-    "name": "伟思医疗",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601689",
-    "name": "拓普集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603179",
-    "name": "新泉股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000933",
-    "name": "神火股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300627",
-    "name": "华测导航",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688071",
-    "name": "华依科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000731",
-    "name": "四川美丰",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601088",
-    "name": "中国神华",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002271",
-    "name": "东方雨虹",
     "repeat": 1
   }
 ]
