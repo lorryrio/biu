@@ -92,7 +92,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600426",
@@ -317,7 +317,7 @@
   {
     "symbol": "SZ002438",
     "name": "江苏神通",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600600",
@@ -352,12 +352,12 @@
   {
     "symbol": "SZ002026",
     "name": "山东威达",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688022",
     "name": "瀚川智能",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000409",
@@ -612,7 +612,7 @@
   {
     "symbol": "SZ300348",
     "name": "长亮科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600460",
@@ -647,61 +647,6 @@
   {
     "symbol": "SH688516",
     "name": "奥 特 维",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002460",
-    "name": "赣锋锂业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002466",
-    "name": "天齐锂业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002493",
-    "name": "荣盛石化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002011",
-    "name": "盾安环境",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300217",
-    "name": "东方电热",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600860",
-    "name": "京城股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300872",
-    "name": "天阳科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603228",
-    "name": "景旺电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603920",
-    "name": "世运电路",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002727",
-    "name": "一 心 堂",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603939",
-    "name": "益丰药房",
     "repeat": 1
   }
 ]
