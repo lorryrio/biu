@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ000725",
+    "name": "京东方Ａ",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300232",
+    "name": "洲明科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002906",
+    "name": "华阳集团",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688533",
+    "name": "上声电子",
+    "repeat": 2
+  },
+  {
     "symbol": "BI994173",
     "name": "新能源车",
     "repeat": 1
@@ -147,11 +167,6 @@
   {
     "symbol": "SH688006",
     "name": "杭可科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688533",
-    "name": "上声电子",
     "repeat": 1
   },
   {
@@ -637,16 +652,6 @@
   {
     "symbol": "SH688033",
     "name": "天宜上佳",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600549",
-    "name": "厦门钨业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688077",
-    "name": "大 地 熊",
     "repeat": 1
   }
 ]
