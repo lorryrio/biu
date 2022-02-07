@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH601669",
+    "name": "中国电建",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603018",
+    "name": "华设集团",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
     "repeat": 1
@@ -585,11 +595,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH601669",
-    "name": "中国电建",
-    "repeat": 1
-  },
-  {
     "symbol": "SH603605",
     "name": "珀 莱 雅",
     "repeat": 1
@@ -707,16 +712,6 @@
   {
     "symbol": "SZ002493",
     "name": "荣盛石化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002011",
-    "name": "盾安环境",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300217",
-    "name": "东方电热",
     "repeat": 1
   }
 ]
