@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002353",
+    "name": "杰瑞股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600871",
+    "name": "石化油服",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002714",
     "name": "牧原股份",
     "repeat": 1
@@ -352,7 +362,7 @@
   {
     "symbol": "SZ002438",
     "name": "江苏神通",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600600",
@@ -707,11 +717,6 @@
   {
     "symbol": "SZ300217",
     "name": "东方电热",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600860",
-    "name": "京城股份",
     "repeat": 1
   }
 ]
