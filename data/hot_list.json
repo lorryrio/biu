@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002714",
+    "name": "牧原股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300498",
+    "name": "温氏股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000725",
     "name": "京东方Ａ",
     "repeat": 1
@@ -122,7 +132,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH600426",
@@ -342,7 +352,7 @@
   {
     "symbol": "SZ002438",
     "name": "江苏神通",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH600600",
@@ -377,12 +387,12 @@
   {
     "symbol": "SZ002026",
     "name": "山东威达",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH688022",
     "name": "瀚川智能",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SZ000409",
@@ -652,6 +662,56 @@
   {
     "symbol": "SH688033",
     "name": "天宜上佳",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600549",
+    "name": "厦门钨业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688077",
+    "name": "大 地 熊",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300776",
+    "name": "帝尔激光",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688516",
+    "name": "奥 特 维",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002460",
+    "name": "赣锋锂业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002466",
+    "name": "天齐锂业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002493",
+    "name": "荣盛石化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002011",
+    "name": "盾安环境",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300217",
+    "name": "东方电热",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600860",
+    "name": "京城股份",
     "repeat": 1
   }
 ]
