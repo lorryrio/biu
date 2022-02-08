@@ -1,5 +1,20 @@
 [
   {
+    "symbol": "SH688196",
+    "name": "卓越新能",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ000998",
+    "name": "隆平高科",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002041",
+    "name": "登海种业",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000591",
     "name": "太 阳 能",
     "repeat": 1
@@ -407,12 +422,12 @@
   {
     "symbol": "SZ002026",
     "name": "山东威达",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688022",
     "name": "瀚川智能",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000409",
@@ -497,11 +512,6 @@
   {
     "symbol": "SH603901",
     "name": "永创智能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688196",
-    "name": "卓越新能",
     "repeat": 1
   },
   {
@@ -697,16 +707,6 @@
   {
     "symbol": "SH688516",
     "name": "奥 特 维",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002460",
-    "name": "赣锋锂业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002466",
-    "name": "天齐锂业",
     "repeat": 1
   }
 ]
