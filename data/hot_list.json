@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH688033",
+    "name": "天宜上佳",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688598",
+    "name": "金博股份",
+    "repeat": 3
+  },
+  {
     "symbol": "SZ301009",
     "name": "可靠股份",
     "repeat": 1
@@ -313,11 +323,6 @@
     "symbol": "SZ300861",
     "name": "美畅股份",
     "repeat": 1
-  },
-  {
-    "symbol": "SH688598",
-    "name": "金博股份",
-    "repeat": 2
   },
   {
     "symbol": "SH600362",
@@ -700,11 +705,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH688033",
-    "name": "天宜上佳",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600549",
     "name": "厦门钨业",
     "repeat": 1
@@ -712,16 +712,6 @@
   {
     "symbol": "SH688077",
     "name": "大 地 熊",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300776",
-    "name": "帝尔激光",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688516",
-    "name": "奥 特 维",
     "repeat": 1
   }
 ]
