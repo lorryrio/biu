@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000672",
+    "name": "上峰水泥",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600585",
+    "name": "海螺水泥",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600941",
     "name": "中国移动",
     "repeat": 1
@@ -712,16 +722,6 @@
   {
     "symbol": "SH688187",
     "name": "时代电气",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600549",
-    "name": "厦门钨业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688077",
-    "name": "大 地 熊",
     "repeat": 1
   }
 ]
