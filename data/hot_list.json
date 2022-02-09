@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ000983",
+    "name": "山西焦煤",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601666",
+    "name": "平煤股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000807",
+    "name": "云铝股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000933",
+    "name": "神火股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000672",
     "name": "上峰水泥",
     "repeat": 1
@@ -22,12 +42,12 @@
   {
     "symbol": "SH688033",
     "name": "天宜上佳",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688598",
     "name": "金博股份",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ301009",
@@ -712,16 +732,6 @@
   {
     "symbol": "SZ300348",
     "name": "长亮科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600460",
-    "name": "士 兰 微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688187",
-    "name": "时代电气",
     "repeat": 1
   }
 ]
