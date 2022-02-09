@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603956",
+    "name": "威 派 格",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688296",
+    "name": "和达科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000983",
     "name": "山西焦煤",
     "repeat": 1
@@ -637,7 +647,7 @@
   {
     "symbol": "SZ300674",
     "name": "宇信科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000012",
@@ -727,11 +737,6 @@
   {
     "symbol": "SH603456",
     "name": "九洲药业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300348",
-    "name": "长亮科技",
     "repeat": 1
   }
 ]
