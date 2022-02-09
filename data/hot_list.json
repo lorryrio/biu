@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH605358",
+    "name": "立 昂 微",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688126",
+    "name": "沪硅产业",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603956",
     "name": "威 派 格",
     "repeat": 1
@@ -362,7 +372,7 @@
   {
     "symbol": "SH603259",
     "name": "药明康德",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300861",
@@ -727,11 +737,6 @@
   {
     "symbol": "SH600893",
     "name": "航发动力",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603456",
-    "name": "九洲药业",
     "repeat": 1
   }
 ]
