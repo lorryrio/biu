@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002603",
+    "name": "以岭药业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300026",
+    "name": "红日药业",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000768",
     "name": "中航西飞",
     "repeat": 1
@@ -727,16 +737,6 @@
   {
     "symbol": "SZ002705",
     "name": "新宝股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002352",
-    "name": "顺丰控股",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600233",
-    "name": "圆通速递",
     "repeat": 1
   }
 ]
