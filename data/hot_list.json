@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ301062",
+    "name": "上海艾录",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603008",
+    "name": "喜 临 门",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600461",
     "name": "洪城环境",
     "repeat": 1
@@ -472,7 +482,7 @@
   {
     "symbol": "SH603055",
     "name": "台华新材",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603799",
@@ -732,11 +742,6 @@
   {
     "symbol": "SH688639",
     "name": "华恒生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605080",
-    "name": "浙江自然",
     "repeat": 1
   }
 ]
