@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SH600461",
+    "name": "洪城环境",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601158",
+    "name": "重庆水务",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002368",
+    "name": "太极股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300663",
+    "name": "科蓝软件",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002603",
     "name": "以岭药业",
     "repeat": 1
@@ -717,26 +737,6 @@
   {
     "symbol": "SH605080",
     "name": "浙江自然",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603313",
-    "name": "梦 百 合",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605003",
-    "name": "众望布艺",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000333",
-    "name": "美的集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002705",
-    "name": "新宝股份",
     "repeat": 1
   }
 ]
