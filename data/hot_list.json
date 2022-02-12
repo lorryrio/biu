@@ -7,7 +7,7 @@
   {
     "symbol": "SH601166",
     "name": "兴业银行",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH601225",
@@ -177,7 +177,7 @@
   {
     "symbol": "SH601669",
     "name": "中国电建",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603018",
@@ -267,12 +267,12 @@
   {
     "symbol": "SH603297",
     "name": "永新光学",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300576",
@@ -397,7 +397,7 @@
   {
     "symbol": "SH600887",
     "name": "伊利股份",
-    "repeat": 3
+    "repeat": 1
   },
   {
     "symbol": "SZ002049",
@@ -612,7 +612,7 @@
   {
     "symbol": "SZ300957",
     "name": "贝 泰 妮",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688363",
@@ -682,71 +682,6 @@
   {
     "symbol": "SZ300073",
     "name": "当升科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600882",
-    "name": "妙可蓝多",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002938",
-    "name": "鹏鼎控股",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600183",
-    "name": "生益科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300394",
-    "name": "天孚通信",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688313",
-    "name": "仕佳光子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600519",
-    "name": "贵州茅台",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002987",
-    "name": "京 北 方",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300674",
-    "name": "宇信科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000012",
-    "name": "南  玻Ａ",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601636",
-    "name": "旗滨集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600919",
-    "name": "江苏银行",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601390",
-    "name": "中国中铁",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603605",
-    "name": "珀 莱 雅",
     "repeat": 1
   }
 ]
