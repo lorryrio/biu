@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002353",
+    "name": "杰瑞股份",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600028",
+    "name": "中国石化",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600036",
     "name": "招商银行",
     "repeat": 1
@@ -182,11 +192,6 @@
   {
     "symbol": "SH603018",
     "name": "华设集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002353",
-    "name": "杰瑞股份",
     "repeat": 1
   },
   {
@@ -507,7 +512,7 @@
   {
     "symbol": "SH603799",
     "name": "华友钴业",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603993",
@@ -677,11 +682,6 @@
   {
     "symbol": "SZ002472",
     "name": "双环传动",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300073",
-    "name": "当升科技",
     "repeat": 1
   }
 ]
