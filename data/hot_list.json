@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ003022",
+    "name": "联泓新科",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688065",
+    "name": "凯赛生物",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
     "repeat": 2
@@ -627,7 +637,7 @@
   {
     "symbol": "SZ002594",
     "name": "比 亚 迪",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH601633",
@@ -677,11 +687,6 @@
   {
     "symbol": "SH603518",
     "name": "锦泓集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002472",
-    "name": "双环传动",
     "repeat": 1
   }
 ]
