@@ -352,14 +352,6 @@
     "currentPrice": 62
   },
   {
-    "symbol": "SZ002472",
-    "name": "双环传动",
-    "repeat": 1,
-    "hotIndex": -12.76,
-    "currentPercent": -0.78,
-    "currentPrice": 22.91
-  },
-  {
     "symbol": "SH600009",
     "name": "上海机场",
     "repeat": 1,
@@ -648,6 +640,14 @@
     "currentPrice": 6.97
   },
   {
+    "symbol": "SH688065",
+    "name": "凯赛生物",
+    "repeat": 1,
+    "hotIndex": -48.6,
+    "currentPercent": -3.74,
+    "currentPrice": 143.58
+  },
+  {
     "symbol": "SZ002368",
     "name": "太极股份",
     "repeat": 1,
@@ -754,7 +754,7 @@
   {
     "symbol": "SZ002594",
     "name": "比 亚 迪",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -59.86,
     "currentPercent": -4.14,
     "currentPrice": 230.19
@@ -870,6 +870,14 @@
     "hotIndex": -76.95,
     "currentPercent": -4.28,
     "currentPrice": 40.06
+  },
+  {
+    "symbol": "SZ003022",
+    "name": "联泓新科",
+    "repeat": 1,
+    "hotIndex": -77.55,
+    "currentPercent": -3.81,
+    "currentPrice": 27.24
   },
   {
     "symbol": "SZ000591",
