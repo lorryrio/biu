@@ -1,5 +1,10 @@
 [
   {
+    "symbol": "SH600660",
+    "name": "福耀玻璃",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002436",
     "name": "兴森科技",
     "repeat": 1
@@ -432,7 +437,7 @@
   {
     "symbol": "SH600887",
     "name": "伊利股份",
-    "repeat": 1
+    "repeat": 3
   },
   {
     "symbol": "SZ002049",
@@ -542,7 +547,7 @@
   {
     "symbol": "SH603799",
     "name": "华友钴业",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH603993",
@@ -657,7 +662,7 @@
   {
     "symbol": "SZ002594",
     "name": "比 亚 迪",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH601633",
@@ -702,6 +707,61 @@
   {
     "symbol": "SH688677",
     "name": "海泰新光",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603518",
+    "name": "锦泓集团",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002472",
+    "name": "双环传动",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300073",
+    "name": "当升科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600882",
+    "name": "妙可蓝多",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002938",
+    "name": "鹏鼎控股",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600183",
+    "name": "生益科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300394",
+    "name": "天孚通信",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688313",
+    "name": "仕佳光子",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600519",
+    "name": "贵州茅台",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002987",
+    "name": "京 北 方",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300674",
+    "name": "宇信科技",
     "repeat": 1
   }
 ]
