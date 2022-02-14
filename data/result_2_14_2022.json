@@ -24,6 +24,14 @@
     "currentPrice": 35.08
   },
   {
+    "symbol": "SZ300648",
+    "name": "星云股份",
+    "repeat": 1,
+    "hotIndex": 11.25,
+    "currentPercent": 0.72,
+    "currentPrice": 44.72
+  },
+  {
     "symbol": "SZ300496",
     "name": "中科创达",
     "repeat": 1,
@@ -46,14 +54,6 @@
     "hotIndex": 9.63,
     "currentPercent": 5.4,
     "currentPrice": 42.17
-  },
-  {
-    "symbol": "SH600519",
-    "name": "贵州茅台",
-    "repeat": 1,
-    "hotIndex": 9.1,
-    "currentPercent": 1.01,
-    "currentPrice": 1868.67
   },
   {
     "symbol": "SH605358",
@@ -224,6 +224,14 @@
     "currentPrice": 57.78
   },
   {
+    "symbol": "SH600596",
+    "name": "新安股份",
+    "repeat": 1,
+    "hotIndex": -6.32,
+    "currentPercent": 2.24,
+    "currentPrice": 24.14
+  },
+  {
     "symbol": "SH601899",
     "name": "紫金矿业",
     "repeat": 1,
@@ -318,14 +326,6 @@
     "hotIndex": -9.63,
     "currentPercent": -3.51,
     "currentPrice": 188.81
-  },
-  {
-    "symbol": "SZ300674",
-    "name": "宇信科技",
-    "repeat": 1,
-    "hotIndex": -9.69,
-    "currentPercent": -3.8,
-    "currentPrice": 23.06
   },
   {
     "symbol": "SH603055",
@@ -514,7 +514,7 @@
   {
     "symbol": "SH600887",
     "name": "伊利股份",
-    "repeat": 3,
+    "repeat": 2,
     "hotIndex": -20.94,
     "currentPercent": 0.43,
     "currentPrice": 40
@@ -542,6 +542,14 @@
     "hotIndex": -22.3,
     "currentPercent": -2.32,
     "currentPrice": 6.75
+  },
+  {
+    "symbol": "SH600486",
+    "name": "扬农化工",
+    "repeat": 1,
+    "hotIndex": -22.58,
+    "currentPercent": 3.69,
+    "currentPrice": 123.49
   },
   {
     "symbol": "SH600585",
