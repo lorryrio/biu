@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ300014",
+    "name": "亿纬锂能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300648",
+    "name": "星云股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600486",
+    "name": "扬农化工",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600596",
+    "name": "新安股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600660",
     "name": "福耀玻璃",
     "repeat": 1
@@ -442,7 +462,7 @@
   {
     "symbol": "SH600887",
     "name": "伊利股份",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ002049",
@@ -752,21 +772,6 @@
   {
     "symbol": "SH688313",
     "name": "仕佳光子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600519",
-    "name": "贵州茅台",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002987",
-    "name": "京 北 方",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300674",
-    "name": "宇信科技",
     "repeat": 1
   }
 ]
