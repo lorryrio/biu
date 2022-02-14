@@ -1,5 +1,13 @@
 [
   {
+    "symbol": "SH600309",
+    "name": "万华化学",
+    "repeat": 1,
+    "hotIndex": 31.79,
+    "currentPercent": 1.59,
+    "currentPrice": 98.14
+  },
+  {
     "symbol": "SH600461",
     "name": "洪城环境",
     "repeat": 1,
@@ -42,7 +50,7 @@
   {
     "symbol": "SH603799",
     "name": "华友钴业",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 10.53,
     "currentPercent": 0.03,
     "currentPrice": 100.67
@@ -200,6 +208,14 @@
     "currentPrice": 52.96
   },
   {
+    "symbol": "SH600230",
+    "name": "沧州大化",
+    "repeat": 1,
+    "hotIndex": -2.77,
+    "currentPercent": 3.62,
+    "currentPrice": 20.33
+  },
+  {
     "symbol": "SZ000672",
     "name": "上峰水泥",
     "repeat": 1,
@@ -350,14 +366,6 @@
     "hotIndex": -12.5,
     "currentPercent": -3.8,
     "currentPrice": 62
-  },
-  {
-    "symbol": "SZ002472",
-    "name": "双环传动",
-    "repeat": 1,
-    "hotIndex": -12.76,
-    "currentPercent": -0.78,
-    "currentPrice": 22.91
   },
   {
     "symbol": "SH600009",
@@ -568,6 +576,14 @@
     "currentPrice": 16.83
   },
   {
+    "symbol": "SH600028",
+    "name": "中国石化",
+    "repeat": 1,
+    "hotIndex": -35.66,
+    "currentPercent": 1.12,
+    "currentPrice": 4.5
+  },
+  {
     "symbol": "SZ300593",
     "name": "新 雷 能",
     "repeat": 1,
@@ -640,6 +656,14 @@
     "currentPrice": 6.97
   },
   {
+    "symbol": "SH688065",
+    "name": "凯赛生物",
+    "repeat": 1,
+    "hotIndex": -48.6,
+    "currentPercent": -3.74,
+    "currentPrice": 143.58
+  },
+  {
     "symbol": "SZ002368",
     "name": "太极股份",
     "repeat": 1,
@@ -706,7 +730,7 @@
   {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -53.99,
     "currentPercent": -1.14,
     "currentPrice": 46.02
@@ -746,7 +770,7 @@
   {
     "symbol": "SZ002594",
     "name": "比 亚 迪",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -59.86,
     "currentPercent": -4.14,
     "currentPrice": 230.19
@@ -864,6 +888,14 @@
     "currentPrice": 40.06
   },
   {
+    "symbol": "SZ003022",
+    "name": "联泓新科",
+    "repeat": 1,
+    "hotIndex": -77.55,
+    "currentPercent": -3.81,
+    "currentPrice": 27.24
+  },
+  {
     "symbol": "SZ000591",
     "name": "太 阳 能",
     "repeat": 1,
@@ -878,14 +910,6 @@
     "hotIndex": -88.02,
     "currentPercent": -3.02,
     "currentPrice": 26.96
-  },
-  {
-    "symbol": "SH603518",
-    "name": "锦泓集团",
-    "repeat": 1,
-    "hotIndex": -90.34,
-    "currentPercent": -3.46,
-    "currentPrice": 10.6
   },
   {
     "symbol": "SH605009",
