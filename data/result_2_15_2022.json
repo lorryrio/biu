@@ -96,14 +96,6 @@
     "currentPrice": 42.27
   },
   {
-    "symbol": "SZ300073",
-    "name": "当升科技",
-    "repeat": 1,
-    "hotIndex": 19.89,
-    "currentPercent": 4.93,
-    "currentPrice": 79.25
-  },
-  {
     "symbol": "SZ002036",
     "name": "联创电子",
     "repeat": 1,
@@ -266,7 +258,7 @@
   {
     "symbol": "SH603799",
     "name": "华友钴业",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 3.38,
     "currentPercent": 6.93,
     "currentPrice": 108
@@ -286,6 +278,22 @@
     "hotIndex": 3.06,
     "currentPercent": 5,
     "currentPrice": 79.38
+  },
+  {
+    "symbol": "SH600172",
+    "name": "黄河旋风",
+    "repeat": 1,
+    "hotIndex": 2.89,
+    "currentPercent": 2.93,
+    "currentPrice": 8.43
+  },
+  {
+    "symbol": "SZ000519",
+    "name": "中兵红箭",
+    "repeat": 1,
+    "hotIndex": 1.86,
+    "currentPercent": 8.3,
+    "currentPrice": 19.58
   },
   {
     "symbol": "SH688126",
