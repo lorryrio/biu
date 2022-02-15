@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300638",
+    "name": "广 和 通",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603236",
+    "name": "移远通信",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002987",
     "name": "京 北 方",
     "repeat": 1
@@ -482,7 +492,7 @@
   {
     "symbol": "SH600887",
     "name": "伊利股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002049",
@@ -767,11 +777,6 @@
   {
     "symbol": "SZ300073",
     "name": "当升科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600882",
-    "name": "妙可蓝多",
     "repeat": 1
   }
 ]
