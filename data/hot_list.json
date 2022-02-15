@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002987",
+    "name": "京 北 方",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300773",
+    "name": "拉 卡 拉",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600141",
     "name": "兴发集团",
     "repeat": 1
@@ -762,16 +772,6 @@
   {
     "symbol": "SH600882",
     "name": "妙可蓝多",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002938",
-    "name": "鹏鼎控股",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600183",
-    "name": "生益科技",
     "repeat": 1
   }
 ]
