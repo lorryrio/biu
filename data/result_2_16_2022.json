@@ -674,7 +674,7 @@
   {
     "symbol": "SH600115",
     "name": "中国东航",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -25.12,
     "currentPercent": 0.7,
     "currentPrice": 5.76
@@ -834,7 +834,7 @@
   {
     "symbol": "SH601111",
     "name": "中国国航",
-    "repeat": 2,
+    "repeat": 3,
     "hotIndex": -34.5,
     "currentPercent": 0.77,
     "currentPrice": 10.43
@@ -954,7 +954,7 @@
   {
     "symbol": "SH688196",
     "name": "卓越新能",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -48.22,
     "currentPercent": 3.47,
     "currentPrice": 73.15
