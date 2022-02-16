@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600115",
+    "name": "中国东航",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH601111",
+    "name": "中国国航",
+    "repeat": 3
+  },
+  {
     "symbol": "SZ300415",
     "name": "伊 之 密",
     "repeat": 1
@@ -297,7 +307,7 @@
   {
     "symbol": "SH688196",
     "name": "卓越新能",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000998",
@@ -550,11 +560,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH601111",
-    "name": "中国国航",
-    "repeat": 2
-  },
-  {
     "symbol": "SZ002153",
     "name": "石基信息",
     "repeat": 1
@@ -617,11 +622,6 @@
   {
     "symbol": "SZ002128",
     "name": "电投能源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600115",
-    "name": "中国东航",
     "repeat": 1
   },
   {
