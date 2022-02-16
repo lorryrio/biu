@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH688033",
+    "name": "天宜上佳",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688559",
+    "name": "海 目 星",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600115",
     "name": "中国东航",
     "repeat": 2
@@ -282,11 +292,6 @@
   {
     "symbol": "SH688158",
     "name": "优 刻 得",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688033",
-    "name": "天宜上佳",
     "repeat": 1
   },
   {
@@ -787,16 +792,6 @@
   {
     "symbol": "SZ002126",
     "name": "银轮股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300512",
-    "name": "中亚股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603901",
-    "name": "永创智能",
     "repeat": 1
   }
 ]
