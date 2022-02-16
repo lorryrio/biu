@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300415",
+    "name": "伊 之 密",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601882",
+    "name": "海天精工",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000429",
     "name": "粤高速Ａ",
     "repeat": 1
@@ -787,16 +797,6 @@
   {
     "symbol": "SH603901",
     "name": "永创智能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300760",
-    "name": "迈瑞医疗",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688677",
-    "name": "海泰新光",
     "repeat": 1
   }
 ]
