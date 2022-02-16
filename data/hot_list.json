@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002074",
+    "name": "国轩高科",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300769",
+    "name": "德方纳米",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000519",
     "name": "中兵红箭",
     "repeat": 1
@@ -727,7 +737,7 @@
   {
     "symbol": "SZ002594",
     "name": "比 亚 迪",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH601633",
@@ -777,11 +787,6 @@
   {
     "symbol": "SH603518",
     "name": "锦泓集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002472",
-    "name": "双环传动",
     "repeat": 1
   }
 ]
