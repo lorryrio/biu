@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000429",
+    "name": "粤高速Ａ",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601006",
+    "name": "大秦铁路",
+    "repeat": 1
+  },
+  {
     "symbol": "SH601117",
     "name": "中国化学",
     "repeat": 1
