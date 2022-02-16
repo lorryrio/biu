@@ -18,7 +18,7 @@
   {
     "symbol": "SH688033",
     "name": "天宜上佳",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": 38.72,
     "currentPercent": 0.05,
     "currentPrice": 22.11
@@ -1128,6 +1128,14 @@
     "currentPrice": 12.05
   },
   {
+    "symbol": "SH688559",
+    "name": "海 目 星",
+    "repeat": 1,
+    "hotIndex": -93.99,
+    "currentPercent": 3.89,
+    "currentPrice": 44.89
+  },
+  {
     "symbol": "SH603008",
     "name": "喜 临 门",
     "repeat": 1,
@@ -1150,14 +1158,6 @@
     "hotIndex": -106.11,
     "currentPercent": 0.04,
     "currentPrice": 27.2
-  },
-  {
-    "symbol": "SH603901",
-    "name": "永创智能",
-    "repeat": 1,
-    "hotIndex": -106.29,
-    "currentPercent": 0.21,
-    "currentPrice": 14.11
   },
   {
     "symbol": "SH688167",
@@ -1222,14 +1222,6 @@
     "hotIndex": -133.33,
     "currentPercent": -1.45,
     "currentPrice": 44.06
-  },
-  {
-    "symbol": "SZ300512",
-    "name": "中亚股份",
-    "repeat": 1,
-    "hotIndex": -151.06,
-    "currentPercent": 0.74,
-    "currentPrice": 15
   },
   {
     "symbol": "SH688296",
