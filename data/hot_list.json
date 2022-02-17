@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002120",
+    "name": "韵达股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600233",
+    "name": "圆通速递",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002196",
+    "name": "方正电机",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600741",
+    "name": "华域汽车",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600096",
     "name": "云 天 化",
     "repeat": 1
@@ -767,26 +787,6 @@
   {
     "symbol": "SH600690",
     "name": "海尔智家",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300957",
-    "name": "贝 泰 妮",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688363",
-    "name": "华熙生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002594",
-    "name": "比 亚 迪",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601633",
-    "name": "长城汽车",
     "repeat": 1
   }
 ]
