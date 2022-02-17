@@ -18,7 +18,7 @@
   {
     "symbol": "SH688033",
     "name": "天宜上佳",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": 38.72,
     "currentPercent": 0.05,
     "currentPrice": 22.11
@@ -118,6 +118,14 @@
     "hotIndex": 11.11,
     "currentPercent": 1.03,
     "currentPrice": 40.29
+  },
+  {
+    "symbol": "SH603589",
+    "name": "口 子 窖",
+    "repeat": 1,
+    "hotIndex": 10.35,
+    "currentPercent": -0.99,
+    "currentPrice": 76.24
   },
   {
     "symbol": "SH601890",
@@ -674,7 +682,7 @@
   {
     "symbol": "SH600115",
     "name": "中国东航",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -25.12,
     "currentPercent": 0.7,
     "currentPrice": 5.76
@@ -834,7 +842,7 @@
   {
     "symbol": "SH601111",
     "name": "中国国航",
-    "repeat": 2,
+    "repeat": 3,
     "hotIndex": -34.5,
     "currentPercent": 0.77,
     "currentPrice": 10.43
@@ -954,7 +962,7 @@
   {
     "symbol": "SH688196",
     "name": "卓越新能",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -48.22,
     "currentPercent": 3.47,
     "currentPrice": 73.15
@@ -1128,6 +1136,14 @@
     "currentPrice": 12.05
   },
   {
+    "symbol": "SH688559",
+    "name": "海 目 星",
+    "repeat": 1,
+    "hotIndex": -93.99,
+    "currentPercent": 3.89,
+    "currentPrice": 44.89
+  },
+  {
     "symbol": "SH603008",
     "name": "喜 临 门",
     "repeat": 1,
@@ -1152,14 +1168,6 @@
     "currentPrice": 27.2
   },
   {
-    "symbol": "SH603901",
-    "name": "永创智能",
-    "repeat": 1,
-    "hotIndex": -106.29,
-    "currentPercent": 0.21,
-    "currentPrice": 14.11
-  },
-  {
     "symbol": "SH688167",
     "name": "炬光科技",
     "repeat": 1,
@@ -1174,14 +1182,6 @@
     "hotIndex": -112.25,
     "currentPercent": -2.85,
     "currentPrice": 41.99
-  },
-  {
-    "symbol": "SZ002126",
-    "name": "银轮股份",
-    "repeat": 1,
-    "hotIndex": -115.26,
-    "currentPercent": -1.17,
-    "currentPrice": 10.16
   },
   {
     "symbol": "SH600219",
@@ -1222,14 +1222,6 @@
     "hotIndex": -133.33,
     "currentPercent": -1.45,
     "currentPrice": 44.06
-  },
-  {
-    "symbol": "SZ300512",
-    "name": "中亚股份",
-    "repeat": 1,
-    "hotIndex": -151.06,
-    "currentPercent": 0.74,
-    "currentPrice": 15
   },
   {
     "symbol": "SH688296",
