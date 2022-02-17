@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600096",
+    "name": "云 天 化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600141",
+    "name": "兴发集团",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ000596",
     "name": "古井贡酒",
     "repeat": 1
@@ -97,11 +107,6 @@
   {
     "symbol": "SZ300773",
     "name": "拉 卡 拉",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600141",
-    "name": "兴发集团",
     "repeat": 1
   },
   {
@@ -782,16 +787,6 @@
   {
     "symbol": "SH601633",
     "name": "长城汽车",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300075",
-    "name": "数字政通",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688232",
-    "name": "新点软件",
     "repeat": 1
   }
 ]
