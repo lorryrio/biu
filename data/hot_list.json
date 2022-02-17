@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ300986",
+    "name": "志特新材",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603300",
+    "name": "华铁应急",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600019",
+    "name": "宝钢股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600581",
+    "name": "八一钢铁",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002120",
     "name": "韵达股份",
     "repeat": 1
@@ -767,26 +787,6 @@
   {
     "symbol": "SZ300593",
     "name": "新 雷 能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002385",
-    "name": "大 北 农",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601952",
-    "name": "苏垦农发",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002508",
-    "name": "老板电器",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600690",
-    "name": "海尔智家",
     "repeat": 1
   }
 ]
