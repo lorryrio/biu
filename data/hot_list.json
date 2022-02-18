@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300337",
+    "name": "银邦股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300731",
+    "name": "科创新源",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300682",
     "name": "朗新科技",
     "repeat": 1
@@ -622,7 +632,7 @@
   {
     "symbol": "SZ002049",
     "name": "紫光国微",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600009",
@@ -792,11 +802,6 @@
   {
     "symbol": "SZ300275",
     "name": "梅 安 森",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300593",
-    "name": "新 雷 能",
     "repeat": 1
   }
 ]
