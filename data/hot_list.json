@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002454",
+    "name": "松芝股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603960",
+    "name": "克来机电",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300648",
+    "name": "星云股份",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ300693",
+    "name": "盛弘股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300337",
     "name": "银邦股份",
     "repeat": 1
@@ -177,11 +197,6 @@
   {
     "symbol": "SZ300014",
     "name": "亿纬锂能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300648",
-    "name": "星云股份",
     "repeat": 1
   },
   {
@@ -632,7 +647,7 @@
   {
     "symbol": "SZ002049",
     "name": "紫光国微",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH600009",
@@ -802,6 +817,71 @@
   {
     "symbol": "SZ300275",
     "name": "梅 安 森",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300593",
+    "name": "新 雷 能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002385",
+    "name": "大 北 农",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601952",
+    "name": "苏垦农发",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002508",
+    "name": "老板电器",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600690",
+    "name": "海尔智家",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300957",
+    "name": "贝 泰 妮",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688363",
+    "name": "华熙生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002594",
+    "name": "比 亚 迪",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601633",
+    "name": "长城汽车",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300075",
+    "name": "数字政通",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688232",
+    "name": "新点软件",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002050",
+    "name": "三花智控",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002126",
+    "name": "银轮股份",
     "repeat": 1
   }
 ]
