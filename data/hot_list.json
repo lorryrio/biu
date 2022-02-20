@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000672",
+    "name": "上峰水泥",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600801",
+    "name": "华新水泥",
+    "repeat": 1
+  },
+  {
     "symbol": "SH688580",
     "name": "伟思医疗",
     "repeat": 1
@@ -372,11 +382,6 @@
   {
     "symbol": "SZ000933",
     "name": "神火股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000672",
-    "name": "上峰水泥",
     "repeat": 1
   },
   {
@@ -782,16 +787,6 @@
   {
     "symbol": "SH600600",
     "name": "青岛啤酒",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603806",
-    "name": "福 斯 特",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688680",
-    "name": "海优新材",
     "repeat": 1
   }
 ]
