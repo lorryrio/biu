@@ -160,6 +160,14 @@
     "currentPrice": 41.16
   },
   {
+    "symbol": "SZ002738",
+    "name": "中矿资源",
+    "repeat": 1,
+    "hotIndex": 6.74,
+    "currentPercent": 8.49,
+    "currentPrice": 88.3
+  },
+  {
     "symbol": "SZ000933",
     "name": "神火股份",
     "repeat": 1,
@@ -254,14 +262,6 @@
     "hotIndex": -1.71,
     "currentPercent": 0.11,
     "currentPrice": 9.17
-  },
-  {
-    "symbol": "SH600600",
-    "name": "青岛啤酒",
-    "repeat": 1,
-    "hotIndex": -1.77,
-    "currentPercent": -0.09,
-    "currentPrice": 96.3
   },
   {
     "symbol": "SH600389",
@@ -366,6 +366,14 @@
     "hotIndex": -8.59,
     "currentPercent": 2.27,
     "currentPrice": 10.38
+  },
+  {
+    "symbol": "SZ002466",
+    "name": "天齐锂业",
+    "repeat": 1,
+    "hotIndex": -8.7,
+    "currentPercent": -0.25,
+    "currentPrice": 95.68
   },
   {
     "symbol": "SZ000983",
@@ -706,7 +714,7 @@
   {
     "symbol": "SH600132",
     "name": "重庆啤酒",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -29.11,
     "currentPercent": 0.13,
     "currentPrice": 142.21
