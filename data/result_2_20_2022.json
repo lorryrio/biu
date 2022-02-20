@@ -122,7 +122,7 @@
   {
     "symbol": "SZ000672",
     "name": "上峰水泥",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": 10.66,
     "currentPercent": 1.15,
     "currentPrice": 22.9
@@ -422,14 +422,6 @@
     "hotIndex": -10.37,
     "currentPercent": 1.35,
     "currentPrice": 8.23
-  },
-  {
-    "symbol": "SH603806",
-    "name": "福 斯 特",
-    "repeat": 1,
-    "hotIndex": -10.5,
-    "currentPercent": -1.47,
-    "currentPrice": 105.62
   },
   {
     "symbol": "SH600230",
@@ -750,6 +742,14 @@
     "hotIndex": -31.84,
     "currentPercent": 0.17,
     "currentPrice": 5.8
+  },
+  {
+    "symbol": "SH600801",
+    "name": "华新水泥",
+    "repeat": 1,
+    "hotIndex": -32.08,
+    "currentPercent": 2.07,
+    "currentPrice": 22.2
   },
   {
     "symbol": "SZ002153",
@@ -1214,14 +1214,6 @@
     "hotIndex": -135.59,
     "currentPercent": 0.69,
     "currentPrice": 4.38
-  },
-  {
-    "symbol": "SH688680",
-    "name": "海优新材",
-    "repeat": 1,
-    "hotIndex": -144.41,
-    "currentPercent": -2.14,
-    "currentPrice": 214.68
   },
   {
     "symbol": "SH603960",
