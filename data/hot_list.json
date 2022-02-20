@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002466",
+    "name": "天齐锂业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002738",
+    "name": "中矿资源",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000672",
     "name": "上峰水泥",
     "repeat": 2
@@ -7,6 +17,11 @@
   {
     "symbol": "SH600801",
     "name": "华新水泥",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI994512",
+    "name": "休闲食品",
     "repeat": 1
   },
   {
@@ -652,7 +667,7 @@
   {
     "symbol": "SH600132",
     "name": "重庆啤酒",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600887",
@@ -782,11 +797,6 @@
   {
     "symbol": "SZ002438",
     "name": "江苏神通",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600600",
-    "name": "青岛啤酒",
     "repeat": 1
   }
 ]
