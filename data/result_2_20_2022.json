@@ -248,6 +248,14 @@
     "currentPrice": 46.17
   },
   {
+    "symbol": "SH688626",
+    "name": "翔宇医疗",
+    "repeat": 1,
+    "hotIndex": -2.5,
+    "currentPercent": 2.77,
+    "currentPrice": 44.47
+  },
+  {
     "symbol": "SH600036",
     "name": "招商银行",
     "repeat": 1,
@@ -286,14 +294,6 @@
     "hotIndex": -5.62,
     "currentPercent": 1.83,
     "currentPrice": 33.88
-  },
-  {
-    "symbol": "SZ000552",
-    "name": "靖远煤电",
-    "repeat": 1,
-    "hotIndex": -5.99,
-    "currentPercent": 5.65,
-    "currentPrice": 3.93
   },
   {
     "symbol": "SZ003002",
@@ -478,14 +478,6 @@
     "hotIndex": -16.76,
     "currentPercent": -1.44,
     "currentPrice": 17.17
-  },
-  {
-    "symbol": "SZ002128",
-    "name": "电投能源",
-    "repeat": 1,
-    "hotIndex": -16.81,
-    "currentPercent": 2.58,
-    "currentPrice": 16.69
   },
   {
     "symbol": "SH600019",
@@ -742,6 +734,14 @@
     "hotIndex": -38.05,
     "currentPercent": -1.75,
     "currentPrice": 179.7
+  },
+  {
+    "symbol": "SH688580",
+    "name": "伟思医疗",
+    "repeat": 1,
+    "hotIndex": -39.2,
+    "currentPercent": 0.47,
+    "currentPrice": 89.25
   },
   {
     "symbol": "SZ300014",
