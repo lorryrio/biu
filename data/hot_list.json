@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH688580",
+    "name": "伟思医疗",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688626",
+    "name": "翔宇医疗",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002454",
     "name": "松芝股份",
     "repeat": 1
@@ -707,16 +717,6 @@
   {
     "symbol": "SH605155",
     "name": "西 大 门",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000552",
-    "name": "靖远煤电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002128",
-    "name": "电投能源",
     "repeat": 1
   }
 ]
