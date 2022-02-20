@@ -112,12 +112,12 @@
   {
     "symbol": "SH600115",
     "name": "中国东航",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH601111",
     "name": "中国国航",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ300415",
@@ -637,7 +637,7 @@
   {
     "symbol": "SH600132",
     "name": "重庆啤酒",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600887",
@@ -672,7 +672,7 @@
   {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603233",
@@ -717,86 +717,6 @@
   {
     "symbol": "SZ002128",
     "name": "电投能源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600196",
-    "name": "复星医药",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688166",
-    "name": "博瑞医药",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300979",
-    "name": "华利集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603055",
-    "name": "台华新材",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603799",
-    "name": "华友钴业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603993",
-    "name": "洛阳钼业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002268",
-    "name": "卫 士 通",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300212",
-    "name": "易 华 录",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000922",
-    "name": "佳电股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002438",
-    "name": "江苏神通",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600600",
-    "name": "青岛啤酒",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603806",
-    "name": "福 斯 特",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688680",
-    "name": "海优新材",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300355",
-    "name": "蒙草生态",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603359",
-    "name": "东珠生态",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300496",
-    "name": "中科创达",
     "repeat": 1
   }
 ]
