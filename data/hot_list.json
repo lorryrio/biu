@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002493",
+    "name": "荣盛石化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600346",
+    "name": "恒力石化",
+    "repeat": 2
+  },
+  {
     "symbol": "SH603816",
     "name": "顾家家居",
     "repeat": 1
@@ -620,11 +630,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH600346",
-    "name": "恒力石化",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600426",
     "name": "华鲁恒升",
     "repeat": 1
@@ -787,16 +792,6 @@
   {
     "symbol": "SH688166",
     "name": "博瑞医药",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300979",
-    "name": "华利集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603055",
-    "name": "台华新材",
     "repeat": 1
   }
 ]
