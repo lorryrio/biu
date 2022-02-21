@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600110",
+    "name": "诺德股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688388",
+    "name": "嘉元科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600517",
     "name": "国网英大",
     "repeat": 1
@@ -787,16 +797,6 @@
   {
     "symbol": "SH603993",
     "name": "洛阳钼业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002268",
-    "name": "卫 士 通",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300212",
-    "name": "易 华 录",
     "repeat": 1
   }
 ]
