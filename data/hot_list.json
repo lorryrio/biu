@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600517",
+    "name": "国网英大",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688191",
+    "name": "智洋创新",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002466",
     "name": "天齐锂业",
     "repeat": 1
@@ -787,16 +797,6 @@
   {
     "symbol": "SZ300212",
     "name": "易 华 录",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000922",
-    "name": "佳电股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002438",
-    "name": "江苏神通",
     "repeat": 1
   }
 ]
