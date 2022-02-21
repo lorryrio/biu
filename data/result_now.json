@@ -32,6 +32,14 @@
     "currentPrice": 22.89
   },
   {
+    "symbol": "SH688166",
+    "name": "博瑞医药",
+    "repeat": 1,
+    "hotIndex": 26.35,
+    "currentPercent": 3.28,
+    "currentPrice": 29.92
+  },
+  {
     "symbol": "SZ300861",
     "name": "美畅股份",
     "repeat": 1,
@@ -114,7 +122,7 @@
   {
     "symbol": "SZ000672",
     "name": "上峰水泥",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": 10.66,
     "currentPercent": 1.15,
     "currentPrice": 22.9
@@ -126,6 +134,14 @@
     "hotIndex": 10.26,
     "currentPercent": -0.02,
     "currentPrice": 50.84
+  },
+  {
+    "symbol": "SZ002268",
+    "name": "卫 士 通",
+    "repeat": 1,
+    "hotIndex": 9.39,
+    "currentPercent": 0.75,
+    "currentPrice": 40.4
   },
   {
     "symbol": "SH603477",
@@ -142,6 +158,14 @@
     "hotIndex": 7.77,
     "currentPercent": 0.64,
     "currentPrice": 41.16
+  },
+  {
+    "symbol": "SZ002738",
+    "name": "中矿资源",
+    "repeat": 1,
+    "hotIndex": 6.74,
+    "currentPercent": 8.49,
+    "currentPrice": 88.3
   },
   {
     "symbol": "SZ000933",
@@ -248,6 +272,14 @@
     "currentPrice": 46.17
   },
   {
+    "symbol": "SH688626",
+    "name": "翔宇医疗",
+    "repeat": 1,
+    "hotIndex": -2.5,
+    "currentPercent": 2.77,
+    "currentPrice": 44.47
+  },
+  {
     "symbol": "SH600036",
     "name": "招商银行",
     "repeat": 1,
@@ -330,10 +362,18 @@
   {
     "symbol": "SH601111",
     "name": "中国国航",
-    "repeat": 2,
+    "repeat": 3,
     "hotIndex": -8.59,
     "currentPercent": 2.27,
     "currentPrice": 10.38
+  },
+  {
+    "symbol": "SZ002466",
+    "name": "天齐锂业",
+    "repeat": 1,
+    "hotIndex": -8.7,
+    "currentPercent": -0.25,
+    "currentPrice": 95.68
   },
   {
     "symbol": "SZ000983",
@@ -438,6 +478,14 @@
     "hotIndex": -12.27,
     "currentPercent": -2.43,
     "currentPrice": 19.69
+  },
+  {
+    "symbol": "SH603799",
+    "name": "华友钴业",
+    "repeat": 1,
+    "hotIndex": -12.99,
+    "currentPercent": -0.78,
+    "currentPrice": 111.6
   },
   {
     "symbol": "SZ002709",
@@ -552,6 +600,14 @@
     "currentPrice": 38.81
   },
   {
+    "symbol": "SH600196",
+    "name": "复星医药",
+    "repeat": 1,
+    "hotIndex": -21.51,
+    "currentPercent": 2.98,
+    "currentPrice": 43.15
+  },
+  {
     "symbol": "SH600941",
     "name": "中国移动",
     "repeat": 1,
@@ -640,6 +696,14 @@
     "currentPrice": 63.62
   },
   {
+    "symbol": "SH688191",
+    "name": "智洋创新",
+    "repeat": 1,
+    "hotIndex": -28.55,
+    "currentPercent": 0.58,
+    "currentPrice": 19.12
+  },
+  {
     "symbol": "SH603236",
     "name": "移远通信",
     "repeat": 1,
@@ -686,6 +750,22 @@
     "hotIndex": -30.53,
     "currentPercent": 0,
     "currentPrice": 18.51
+  },
+  {
+    "symbol": "SH603993",
+    "name": "洛阳钼业",
+    "repeat": 1,
+    "hotIndex": -31.84,
+    "currentPercent": 0.17,
+    "currentPrice": 5.8
+  },
+  {
+    "symbol": "SH600801",
+    "name": "华新水泥",
+    "repeat": 1,
+    "hotIndex": -32.08,
+    "currentPercent": 2.07,
+    "currentPrice": 22.2
   },
   {
     "symbol": "SZ002153",
@@ -742,6 +822,14 @@
     "hotIndex": -38.05,
     "currentPercent": -1.75,
     "currentPrice": 179.7
+  },
+  {
+    "symbol": "SH688580",
+    "name": "伟思医疗",
+    "repeat": 1,
+    "hotIndex": -39.2,
+    "currentPercent": 0.47,
+    "currentPrice": 89.25
   },
   {
     "symbol": "SZ300014",
@@ -896,6 +984,14 @@
     "currentPrice": 49.39
   },
   {
+    "symbol": "SH603055",
+    "name": "台华新材",
+    "repeat": 1,
+    "hotIndex": -56.42,
+    "currentPercent": -1.27,
+    "currentPrice": 14.8
+  },
+  {
     "symbol": "SH605155",
     "name": "西 大 门",
     "repeat": 1,
@@ -938,7 +1034,7 @@
   {
     "symbol": "SH600115",
     "name": "中国东航",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -64.38,
     "currentPercent": 3.7,
     "currentPrice": 5.88
@@ -974,6 +1070,14 @@
     "hotIndex": -68.85,
     "currentPercent": 2.04,
     "currentPrice": 33.48
+  },
+  {
+    "symbol": "SH600517",
+    "name": "国网英大",
+    "repeat": 1,
+    "hotIndex": -70.59,
+    "currentPercent": 0.3,
+    "currentPrice": 6.63
   },
   {
     "symbol": "SZ000429",
@@ -1014,6 +1118,14 @@
     "hotIndex": -86.6,
     "currentPercent": -0.85,
     "currentPrice": 46.54
+  },
+  {
+    "symbol": "SZ300979",
+    "name": "华利集团",
+    "repeat": 1,
+    "hotIndex": -88.92,
+    "currentPercent": -0.01,
+    "currentPrice": 81.29
   },
   {
     "symbol": "SZ301062",
