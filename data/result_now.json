@@ -250,7 +250,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -5.46,
     "currentPercent": 2.46,
     "currentPrice": 26.62
@@ -536,6 +536,14 @@
     "currentPrice": 28.61
   },
   {
+    "symbol": "SZ002493",
+    "name": "荣盛石化",
+    "repeat": 1,
+    "hotIndex": -21.06,
+    "currentPercent": 0.36,
+    "currentPrice": 19.73
+  },
+  {
     "symbol": "SH600230",
     "name": "沧州大化",
     "repeat": 1,
@@ -784,28 +792,12 @@
     "currentPrice": 20.1
   },
   {
-    "symbol": "SH603055",
-    "name": "台华新材",
-    "repeat": 1,
-    "hotIndex": -43.91,
-    "currentPercent": 0.61,
-    "currentPrice": 14.89
-  },
-  {
     "symbol": "SZ300731",
     "name": "科创新源",
     "repeat": 1,
     "hotIndex": -44.86,
     "currentPercent": 0.63,
     "currentPrice": 24.1
-  },
-  {
-    "symbol": "SZ300979",
-    "name": "华利集团",
-    "repeat": 1,
-    "hotIndex": -45.05,
-    "currentPercent": 2.01,
-    "currentPrice": 82.92
   },
   {
     "symbol": "SZ000768",
