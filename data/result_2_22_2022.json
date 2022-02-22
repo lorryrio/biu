@@ -16,6 +16,14 @@
     "currentPrice": 10.15
   },
   {
+    "symbol": "SH600989",
+    "name": "宝丰能源",
+    "repeat": 1,
+    "hotIndex": 18.89,
+    "currentPercent": 0.94,
+    "currentPrice": 17.1
+  },
+  {
     "symbol": "SH601677",
     "name": "明泰铝业",
     "repeat": 1,
@@ -58,7 +66,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": 14.84,
     "currentPercent": 3.3,
     "currentPrice": 36.31
@@ -366,14 +374,6 @@
     "hotIndex": -8.74,
     "currentPercent": -1.98,
     "currentPrice": 144.39
-  },
-  {
-    "symbol": "SH601899",
-    "name": "紫金矿业",
-    "repeat": 1,
-    "hotIndex": -8.75,
-    "currentPercent": 0.72,
-    "currentPrice": 11.2
   },
   {
     "symbol": "SH600585",
@@ -1062,14 +1062,6 @@
     "hotIndex": -69.2,
     "currentPercent": -1.35,
     "currentPrice": 127.5
-  },
-  {
-    "symbol": "SH600362",
-    "name": "江西铜业",
-    "repeat": 1,
-    "hotIndex": -71.25,
-    "currentPercent": -0.5,
-    "currentPrice": 22.05
   },
   {
     "symbol": "SZ002487",
