@@ -154,7 +154,7 @@
   {
     "symbol": "SH603477",
     "name": "巨星农牧",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": 5.57,
     "currentPercent": 1.61,
     "currentPrice": 23.97
@@ -562,7 +562,7 @@
   {
     "symbol": "SZ002714",
     "name": "牧原股份",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -20.13,
     "currentPercent": -1.66,
     "currentPrice": 58.54
@@ -658,7 +658,7 @@
   {
     "symbol": "SH688598",
     "name": "金博股份",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -25.02,
     "currentPercent": -0.71,
     "currentPrice": 262.61
@@ -1094,14 +1094,6 @@
     "hotIndex": -78.37,
     "currentPercent": 0.92,
     "currentPrice": 4.4
-  },
-  {
-    "symbol": "SZ300861",
-    "name": "美畅股份",
-    "repeat": 1,
-    "hotIndex": -80.37,
-    "currentPercent": -0.62,
-    "currentPrice": 64.07
   },
   {
     "symbol": "SH600150",
