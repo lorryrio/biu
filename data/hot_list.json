@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002714",
+    "name": "牧原股份",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603477",
+    "name": "巨星农牧",
+    "repeat": 2
+  },
+  {
     "symbol": "SH600426",
     "name": "华鲁恒升",
     "repeat": 2
@@ -502,7 +512,7 @@
   {
     "symbol": "SH688598",
     "name": "金博股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ301009",
@@ -552,11 +562,6 @@
   {
     "symbol": "SH600871",
     "name": "石化油服",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002714",
-    "name": "牧原股份",
     "repeat": 1
   },
   {
@@ -647,11 +652,6 @@
   {
     "symbol": "SH603363",
     "name": "傲农生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603477",
-    "name": "巨星农牧",
     "repeat": 1
   },
   {
@@ -777,11 +777,6 @@
   {
     "symbol": "SH603233",
     "name": "大 参 林",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300861",
-    "name": "美畅股份",
     "repeat": 1
   }
 ]
