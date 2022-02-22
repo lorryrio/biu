@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600426",
+    "name": "华鲁恒升",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600989",
+    "name": "宝丰能源",
+    "repeat": 1
+  },
+  {
     "symbol": "SH601598",
     "name": "中国外运",
     "repeat": 1
@@ -665,11 +675,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH600426",
-    "name": "华鲁恒升",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600150",
     "name": "中国船舶",
     "repeat": 1
@@ -777,16 +782,6 @@
   {
     "symbol": "SZ300861",
     "name": "美畅股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600362",
-    "name": "江西铜业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601899",
-    "name": "紫金矿业",
     "repeat": 1
   }
 ]
