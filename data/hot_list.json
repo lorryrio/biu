@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300144",
+    "name": "宋城演艺",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600115",
+    "name": "中国东航",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002714",
     "name": "牧原股份",
     "repeat": 2
@@ -57,7 +67,7 @@
   {
     "symbol": "SH603259",
     "name": "药明康德",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002493",
@@ -237,11 +247,6 @@
   {
     "symbol": "SH688559",
     "name": "海 目 星",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600115",
-    "name": "中国东航",
     "repeat": 1
   },
   {
@@ -772,11 +777,6 @@
   {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603233",
-    "name": "大 参 林",
     "repeat": 1
   }
 ]
