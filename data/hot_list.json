@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600460",
+    "name": "士 兰 微",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688187",
+    "name": "时代电气",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000998",
     "name": "隆平高科",
     "repeat": 2
@@ -762,16 +772,6 @@
   {
     "symbol": "SH600009",
     "name": "上海机场",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002153",
-    "name": "石基信息",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002990",
-    "name": "盛视科技",
     "repeat": 1
   }
 ]
