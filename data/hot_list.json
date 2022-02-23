@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH688083",
+    "name": "中望软件",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688777",
+    "name": "中控技术",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600460",
     "name": "士 兰 微",
     "repeat": 1
@@ -272,7 +282,7 @@
   {
     "symbol": "SH601111",
     "name": "中国国航",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300415",
@@ -767,11 +777,6 @@
   {
     "symbol": "SZ002049",
     "name": "紫光国微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600009",
-    "name": "上海机场",
     "repeat": 1
   }
 ]
