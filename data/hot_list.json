@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600026",
+    "name": "中远海能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601872",
+    "name": "招商轮船",
+    "repeat": 1
+  },
+  {
     "symbol": "SH605007",
     "name": "五洲特纸",
     "repeat": 1
@@ -777,16 +787,6 @@
   {
     "symbol": "SH601677",
     "name": "明泰铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600132",
-    "name": "重庆啤酒",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600887",
-    "name": "伊利股份",
     "repeat": 1
   }
 ]
