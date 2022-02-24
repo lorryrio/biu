@@ -32,6 +32,14 @@
     "currentPrice": 21.45
   },
   {
+    "symbol": "SH688777",
+    "name": "中控技术",
+    "repeat": 1,
+    "hotIndex": 40.24,
+    "currentPercent": 2.82,
+    "currentPrice": 74.85
+  },
+  {
     "symbol": "SZ000768",
     "name": "中航西飞",
     "repeat": 1,
@@ -54,6 +62,14 @@
     "hotIndex": 37.92,
     "currentPercent": 6.21,
     "currentPrice": 116.72
+  },
+  {
+    "symbol": "SH688083",
+    "name": "中望软件",
+    "repeat": 1,
+    "hotIndex": 34.77,
+    "currentPercent": 5.37,
+    "currentPrice": 267.7
   },
   {
     "symbol": "SH600096",
@@ -352,6 +368,14 @@
     "currentPrice": 43
   },
   {
+    "symbol": "SZ300568",
+    "name": "星源材质",
+    "repeat": 1,
+    "hotIndex": 5.2,
+    "currentPercent": 6.77,
+    "currentPrice": 36.41
+  },
+  {
     "symbol": "SZ300614",
     "name": "百川畅银",
     "repeat": 1,
@@ -558,6 +582,14 @@
     "hotIndex": -10.97,
     "currentPercent": 5.25,
     "currentPrice": 55.5
+  },
+  {
+    "symbol": "SZ002812",
+    "name": "恩捷股份",
+    "repeat": 1,
+    "hotIndex": -11,
+    "currentPercent": 3.27,
+    "currentPrice": 253.98
   },
   {
     "symbol": "SZ300986",
@@ -954,18 +986,10 @@
   {
     "symbol": "SH601111",
     "name": "中国国航",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -52.41,
     "currentPercent": -1.77,
     "currentPrice": 9.97
-  },
-  {
-    "symbol": "SH600009",
-    "name": "上海机场",
-    "repeat": 1,
-    "hotIndex": -52.41,
-    "currentPercent": -2.16,
-    "currentPrice": 54.3
   },
   {
     "symbol": "SH603138",
