@@ -362,7 +362,7 @@
   {
     "symbol": "SH601111",
     "name": "中国国航",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300415",
@@ -687,7 +687,7 @@
   {
     "symbol": "SH688533",
     "name": "上声电子",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300327",
@@ -707,7 +707,7 @@
   {
     "symbol": "SH600219",
     "name": "南山铝业",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002009",
@@ -727,7 +727,7 @@
   {
     "symbol": "SZ002475",
     "name": "立讯精密",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603297",
@@ -792,71 +792,6 @@
   {
     "symbol": "SZ003002",
     "name": "壶化股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300450",
-    "name": "先导智能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688006",
-    "name": "杭可科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002487",
-    "name": "大金重工",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002531",
-    "name": "天顺风能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002138",
-    "name": "顺络电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603893",
-    "name": "瑞 芯 微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601677",
-    "name": "明泰铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600132",
-    "name": "重庆啤酒",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600887",
-    "name": "伊利股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002049",
-    "name": "紫光国微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600009",
-    "name": "上海机场",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002153",
-    "name": "石基信息",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002990",
-    "name": "盛视科技",
     "repeat": 1
   }
 ]
