@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ000893",
+    "name": "亚钾国际",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002545",
+    "name": "东方铁塔",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002353",
+    "name": "杰瑞股份",
+    "repeat": 3
+  },
+  {
+    "symbol": "SZ300191",
+    "name": "潜能恒信",
+    "repeat": 1
+  },
+  {
     "symbol": "SH601186",
     "name": "中国铁建",
     "repeat": 1
@@ -147,7 +167,7 @@
   {
     "symbol": "SH603259",
     "name": "药明康德",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002493",
@@ -460,11 +480,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002353",
-    "name": "杰瑞股份",
-    "repeat": 2
-  },
-  {
     "symbol": "SH600028",
     "name": "中国石化",
     "repeat": 1
@@ -597,7 +612,7 @@
   {
     "symbol": "SH688598",
     "name": "金博股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ301009",
@@ -842,16 +857,6 @@
   {
     "symbol": "SZ002920",
     "name": "德赛西威",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603233",
-    "name": "大 参 林",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300861",
-    "name": "美畅股份",
     "repeat": 1
   }
 ]
