@@ -152,9 +152,17 @@
     "currentPrice": 278.47
   },
   {
+    "symbol": "SH600483",
+    "name": "福能股份",
+    "repeat": 1,
+    "hotIndex": 7.11,
+    "currentPercent": 8.15,
+    "currentPrice": 14.07
+  },
+  {
     "symbol": "SH600905",
     "name": "三峡能源",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": 6.82,
     "currentPercent": 2.51,
     "currentPrice": 6.94
@@ -286,14 +294,6 @@
     "hotIndex": -1.41,
     "currentPercent": 3.98,
     "currentPrice": 655.09
-  },
-  {
-    "symbol": "SZ002009",
-    "name": "天奇股份",
-    "repeat": 1,
-    "hotIndex": -1.89,
-    "currentPercent": 1.05,
-    "currentPrice": 19.16
   },
   {
     "symbol": "SZ002368",
@@ -934,14 +934,6 @@
     "hotIndex": -56.06,
     "currentPercent": 2.93,
     "currentPrice": 23.16
-  },
-  {
-    "symbol": "SZ300614",
-    "name": "百川畅银",
-    "repeat": 1,
-    "hotIndex": -56.52,
-    "currentPercent": 1.34,
-    "currentPrice": 40.73
   },
   {
     "symbol": "SZ000933",
