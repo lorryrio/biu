@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002459",
+    "name": "晶澳科技",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH605117",
+    "name": "德业股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300379",
     "name": "东 方 通",
     "repeat": 1
@@ -162,7 +172,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600989",
@@ -217,7 +227,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603816",
@@ -782,11 +792,6 @@
   {
     "symbol": "SH603733",
     "name": "仙鹤股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002459",
-    "name": "晶澳科技",
     "repeat": 1
   },
   {
