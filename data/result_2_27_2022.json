@@ -176,14 +176,6 @@
     "currentPrice": 33.6
   },
   {
-    "symbol": "SZ002532",
-    "name": "天山铝业",
-    "repeat": 1,
-    "hotIndex": 6.02,
-    "currentPercent": 1.63,
-    "currentPrice": 9.33
-  },
-  {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
     "repeat": 3,
@@ -480,6 +472,14 @@
     "currentPrice": 12.32
   },
   {
+    "symbol": "SZ300504",
+    "name": "天邑股份",
+    "repeat": 1,
+    "hotIndex": -12.52,
+    "currentPercent": 2.16,
+    "currentPrice": 21.24
+  },
+  {
     "symbol": "SZ002120",
     "name": "韵达股份",
     "repeat": 1,
@@ -526,6 +526,14 @@
     "hotIndex": -14.93,
     "currentPercent": 2.05,
     "currentPrice": 15.44
+  },
+  {
+    "symbol": "SH688313",
+    "name": "仕佳光子",
+    "repeat": 1,
+    "hotIndex": -15.03,
+    "currentPercent": -0.53,
+    "currentPrice": 13.05
   },
   {
     "symbol": "SZ300693",
@@ -894,14 +902,6 @@
     "hotIndex": -46.79,
     "currentPercent": 1.19,
     "currentPrice": 4.24
-  },
-  {
-    "symbol": "SH600219",
-    "name": "南山铝业",
-    "repeat": 1,
-    "hotIndex": -48.86,
-    "currentPercent": -0.83,
-    "currentPrice": 4.8
   },
   {
     "symbol": "SH601158",
