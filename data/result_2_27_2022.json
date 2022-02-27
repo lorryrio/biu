@@ -386,7 +386,7 @@
   {
     "symbol": "SZ002459",
     "name": "晶澳科技",
-    "repeat": 1,
+    "repeat": 2,
     "hotIndex": -3.76,
     "currentPercent": 1.08,
     "currentPrice": 88.95
@@ -402,7 +402,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -5.5,
     "currentPercent": -0.16,
     "currentPrice": 25.23
@@ -578,7 +578,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -13.4,
     "currentPercent": -1.1,
     "currentPrice": 35.16
@@ -774,6 +774,14 @@
     "hotIndex": -25.11,
     "currentPercent": 0.57,
     "currentPrice": 7.04
+  },
+  {
+    "symbol": "SH605117",
+    "name": "德业股份",
+    "repeat": 1,
+    "hotIndex": -26.41,
+    "currentPercent": 2.15,
+    "currentPrice": 272.95
   },
   {
     "symbol": "SH688065",
