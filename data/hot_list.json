@@ -67,7 +67,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002812",
@@ -127,12 +127,12 @@
   {
     "symbol": "SH603477",
     "name": "巨星农牧",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600989",
@@ -157,7 +157,7 @@
   {
     "symbol": "SZ002709",
     "name": "天赐材料",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002271",
@@ -187,7 +187,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603816",
@@ -717,81 +717,6 @@
   {
     "symbol": "SZ300614",
     "name": "百川畅银",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002241",
-    "name": "歌尔股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002475",
-    "name": "立讯精密",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603297",
-    "name": "永新光学",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688167",
-    "name": "炬光科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300576",
-    "name": "容大感光",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603306",
-    "name": "华懋科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603363",
-    "name": "傲农生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603733",
-    "name": "仙鹤股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002459",
-    "name": "晶澳科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688599",
-    "name": "天合光能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600150",
-    "name": "中国船舶",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601890",
-    "name": "亚星锚链",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603026",
-    "name": "石大胜华",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002037",
-    "name": "保利联合",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ003002",
-    "name": "壶化股份",
     "repeat": 1
   }
 ]
