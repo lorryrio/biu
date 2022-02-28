@@ -138,7 +138,7 @@
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 13.91,
     "currentPercent": 2.23,
     "currentPrice": 150.3
@@ -594,7 +594,7 @@
   {
     "symbol": "SH603297",
     "name": "永新光学",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -11.7,
     "currentPercent": 7.42,
     "currentPrice": 122
@@ -1222,6 +1222,14 @@
     "hotIndex": -130.75,
     "currentPercent": 0.13,
     "currentPrice": 7.48
+  },
+  {
+    "symbol": "SZ002790",
+    "name": "瑞 尔 特",
+    "repeat": 1,
+    "hotIndex": -134.43,
+    "currentPercent": -2.83,
+    "currentPrice": 7.9
   },
   {
     "symbol": "SH600461",
