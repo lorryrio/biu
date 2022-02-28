@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603297",
+    "name": "永新光学",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688167",
+    "name": "炬光科技",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002487",
     "name": "大金重工",
     "repeat": 1
@@ -787,26 +797,6 @@
   {
     "symbol": "SZ002475",
     "name": "立讯精密",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603297",
-    "name": "永新光学",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688167",
-    "name": "炬光科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300576",
-    "name": "容大感光",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603306",
-    "name": "华懋科技",
     "repeat": 1
   }
 ]
