@@ -1,13 +1,23 @@
 [
   {
+    "symbol": "SZ002790",
+    "name": "瑞 尔 特",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI991024",
+    "name": "建材家具",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603297",
     "name": "永新光学",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002487",
