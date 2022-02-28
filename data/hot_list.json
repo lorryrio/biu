@@ -1,8 +1,28 @@
 [
   {
+    "symbol": "SH603816",
+    "name": "顾家家居",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603818",
+    "name": "曲美家居",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000997",
+    "name": "新 大 陆",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688201",
+    "name": "信安世纪",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002459",
     "name": "晶澳科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH605117",
@@ -107,7 +127,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002812",
@@ -227,11 +247,6 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603816",
-    "name": "顾家家居",
     "repeat": 1
   },
   {
@@ -787,16 +802,6 @@
   {
     "symbol": "SH603363",
     "name": "傲农生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603733",
-    "name": "仙鹤股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688599",
-    "name": "天合光能",
     "repeat": 1
   }
 ]
