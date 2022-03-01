@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300294",
+    "name": "博雅生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600161",
+    "name": "天坛生物",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002790",
     "name": "瑞 尔 特",
     "repeat": 1
@@ -797,16 +807,6 @@
   {
     "symbol": "SZ300614",
     "name": "百川畅银",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002241",
-    "name": "歌尔股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002475",
-    "name": "立讯精密",
     "repeat": 1
   }
 ]
