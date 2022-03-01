@@ -106,7 +106,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 6.71,
     "currentPercent": -0.63,
     "currentPrice": 34.95
@@ -190,6 +190,14 @@
     "hotIndex": 0.63,
     "currentPercent": 2,
     "currentPrice": 12.77
+  },
+  {
+    "symbol": "SZ002824",
+    "name": "和胜股份",
+    "repeat": 1,
+    "hotIndex": -0.11,
+    "currentPercent": 1.3,
+    "currentPrice": 41.18
   },
   {
     "symbol": "SZ000998",
@@ -962,7 +970,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -56.64,
     "currentPercent": -0.4,
     "currentPrice": 24.79
@@ -974,6 +982,14 @@
     "hotIndex": -56.7,
     "currentPercent": -3.82,
     "currentPrice": 13.86
+  },
+  {
+    "symbol": "SH603348",
+    "name": "文灿股份",
+    "repeat": 1,
+    "hotIndex": -57.48,
+    "currentPercent": -3.28,
+    "currentPrice": 47.17
   },
   {
     "symbol": "SH603818",
