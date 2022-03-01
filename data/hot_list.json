@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002824",
+    "name": "和胜股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603348",
+    "name": "文灿股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300415",
     "name": "伊 之 密",
     "repeat": 2
@@ -262,7 +272,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600989",
@@ -317,7 +327,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603833",
