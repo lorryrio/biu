@@ -8,14 +8,6 @@
     "currentPrice": 7.13
   },
   {
-    "symbol": "SH603306",
-    "name": "华懋科技",
-    "repeat": 1,
-    "hotIndex": 34.49,
-    "currentPercent": 5.08,
-    "currentPrice": 35.35
-  },
-  {
     "symbol": "SH601666",
     "name": "平煤股份",
     "repeat": 1,
@@ -142,6 +134,14 @@
     "hotIndex": 15.46,
     "currentPercent": 2.07,
     "currentPrice": 118.92
+  },
+  {
+    "symbol": "SZ300294",
+    "name": "博雅生物",
+    "repeat": 1,
+    "hotIndex": 14.91,
+    "currentPercent": 1.82,
+    "currentPrice": 34.71
   },
   {
     "symbol": "SH688167",
@@ -432,14 +432,6 @@
     "currentPrice": 7.22
   },
   {
-    "symbol": "SZ002475",
-    "name": "立讯精密",
-    "repeat": 1,
-    "hotIndex": -1.04,
-    "currentPercent": 0.37,
-    "currentPrice": 43.43
-  },
-  {
     "symbol": "SZ002532",
     "name": "天山铝业",
     "repeat": 1,
@@ -470,6 +462,14 @@
     "hotIndex": -3.26,
     "currentPercent": 0.12,
     "currentPrice": 8.13
+  },
+  {
+    "symbol": "SH600161",
+    "name": "天坛生物",
+    "repeat": 1,
+    "hotIndex": -4.3,
+    "currentPercent": 0.96,
+    "currentPrice": 27.33
   },
   {
     "symbol": "SH688981",
@@ -944,14 +944,6 @@
     "currentPrice": 4.29
   },
   {
-    "symbol": "SZ300576",
-    "name": "容大感光",
-    "repeat": 1,
-    "hotIndex": -35.07,
-    "currentPercent": -1.48,
-    "currentPrice": 31.38
-  },
-  {
     "symbol": "SZ000725",
     "name": "京东方Ａ",
     "repeat": 1,
@@ -998,14 +990,6 @@
     "hotIndex": -41.37,
     "currentPercent": 0.5,
     "currentPrice": 23.95
-  },
-  {
-    "symbol": "SZ002241",
-    "name": "歌尔股份",
-    "repeat": 1,
-    "hotIndex": -43.98,
-    "currentPercent": -2.19,
-    "currentPrice": 43.78
   },
   {
     "symbol": "SH600389",
@@ -1238,6 +1222,14 @@
     "hotIndex": -130.75,
     "currentPercent": 0.13,
     "currentPrice": 7.48
+  },
+  {
+    "symbol": "SZ002790",
+    "name": "瑞 尔 特",
+    "repeat": 1,
+    "hotIndex": -134.43,
+    "currentPercent": -2.83,
+    "currentPrice": 7.9
   },
   {
     "symbol": "SH600461",
