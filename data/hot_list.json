@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300850",
+    "name": "新 强 联",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603667",
+    "name": "五洲新春",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002549",
     "name": "凯美特气",
     "repeat": 1
@@ -797,16 +807,6 @@
   {
     "symbol": "SH688981",
     "name": "中芯国际",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002532",
-    "name": "天山铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600219",
-    "name": "南山铝业",
     "repeat": 1
   }
 ]
