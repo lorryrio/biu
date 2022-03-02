@@ -648,6 +648,14 @@
     "currentPrice": 21.31
   },
   {
+    "symbol": "SZ300621",
+    "name": "维业股份",
+    "repeat": 1,
+    "hotIndex": -21.13,
+    "currentPercent": 0.31,
+    "currentPrice": 9.83
+  },
+  {
     "symbol": "SH688126",
     "name": "沪硅产业",
     "repeat": 1,
@@ -824,14 +832,6 @@
     "currentPrice": 20.51
   },
   {
-    "symbol": "SH603306",
-    "name": "华懋科技",
-    "repeat": 1,
-    "hotIndex": -33.25,
-    "currentPercent": 3.01,
-    "currentPrice": 36.58
-  },
-  {
     "symbol": "SZ300568",
     "name": "星源材质",
     "repeat": 1,
@@ -942,14 +942,6 @@
     "hotIndex": -42.4,
     "currentPercent": -0.32,
     "currentPrice": 36.83
-  },
-  {
-    "symbol": "SZ300576",
-    "name": "容大感光",
-    "repeat": 1,
-    "hotIndex": -44.29,
-    "currentPercent": -0.26,
-    "currentPrice": 31.23
   },
   {
     "symbol": "SZ300731",
@@ -1334,6 +1326,14 @@
     "hotIndex": -114.08,
     "currentPercent": 1.34,
     "currentPrice": 7.56
+  },
+  {
+    "symbol": "SZ002226",
+    "name": "江南化工",
+    "repeat": 1,
+    "hotIndex": -115.58,
+    "currentPercent": -0.52,
+    "currentPrice": 5.7
   },
   {
     "symbol": "SH600483",
