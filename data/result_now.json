@@ -106,7 +106,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 6.71,
     "currentPercent": -0.63,
     "currentPrice": 34.95
@@ -146,7 +146,7 @@
   {
     "symbol": "SZ002459",
     "name": "晶澳科技",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": 3.08,
     "currentPercent": -2.67,
     "currentPrice": 92.42
@@ -190,6 +190,14 @@
     "hotIndex": 0.63,
     "currentPercent": 2,
     "currentPrice": 12.77
+  },
+  {
+    "symbol": "SZ002824",
+    "name": "和胜股份",
+    "repeat": 1,
+    "hotIndex": -0.11,
+    "currentPercent": 1.3,
+    "currentPrice": 41.18
   },
   {
     "symbol": "SZ000998",
@@ -920,6 +928,14 @@
     "currentPrice": 94.08
   },
   {
+    "symbol": "SH600210",
+    "name": "紫江企业",
+    "repeat": 1,
+    "hotIndex": -52.26,
+    "currentPercent": 1.44,
+    "currentPrice": 7.05
+  },
+  {
     "symbol": "SZ002233",
     "name": "塔牌集团",
     "repeat": 1,
@@ -962,7 +978,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2,
+    "repeat": 1,
     "hotIndex": -56.64,
     "currentPercent": -0.4,
     "currentPrice": 24.79
@@ -974,6 +990,14 @@
     "hotIndex": -56.7,
     "currentPercent": -3.82,
     "currentPrice": 13.86
+  },
+  {
+    "symbol": "SH603348",
+    "name": "文灿股份",
+    "repeat": 1,
+    "hotIndex": -57.48,
+    "currentPercent": -3.28,
+    "currentPrice": 47.17
   },
   {
     "symbol": "SH603818",
@@ -1278,6 +1302,14 @@
     "hotIndex": -149.88,
     "currentPercent": 0.05,
     "currentPrice": 86.18
+  },
+  {
+    "symbol": "SH688560",
+    "name": "明冠新材",
+    "repeat": 1,
+    "hotIndex": -182.39,
+    "currentPercent": 0.52,
+    "currentPrice": 34.97
   },
   {
     "symbol": "SH688296",
