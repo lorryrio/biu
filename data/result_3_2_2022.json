@@ -160,6 +160,14 @@
     "currentPrice": 35.08
   },
   {
+    "symbol": "SH688075",
+    "name": "安旭生物",
+    "repeat": 1,
+    "hotIndex": 11.26,
+    "currentPercent": 8.06,
+    "currentPrice": 286
+  },
+  {
     "symbol": "SH688533",
     "name": "上声电子",
     "repeat": 1,
@@ -334,6 +342,14 @@
     "hotIndex": -0.8,
     "currentPercent": 4.06,
     "currentPrice": 26.16
+  },
+  {
+    "symbol": "SZ300482",
+    "name": "万孚生物",
+    "repeat": 1,
+    "hotIndex": -1.74,
+    "currentPercent": 5.58,
+    "currentPrice": 46.38
   },
   {
     "symbol": "SH601666",
@@ -542,14 +558,6 @@
     "hotIndex": -13.67,
     "currentPercent": -0.12,
     "currentPrice": 25.55
-  },
-  {
-    "symbol": "SH603363",
-    "name": "傲农生物",
-    "repeat": 1,
-    "hotIndex": -14.18,
-    "currentPercent": -1.52,
-    "currentPrice": 18.85
   },
   {
     "symbol": "SZ002466",
