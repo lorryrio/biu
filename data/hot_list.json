@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300482",
+    "name": "万孚生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688075",
+    "name": "安旭生物",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000519",
     "name": "中兵红箭",
     "repeat": 2
@@ -287,7 +297,7 @@
   {
     "symbol": "SH603477",
     "name": "巨星农牧",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600426",
@@ -877,11 +887,6 @@
   {
     "symbol": "SH603306",
     "name": "华懋科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603363",
-    "name": "傲农生物",
     "repeat": 1
   }
 ]
