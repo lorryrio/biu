@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH601899",
+    "name": "紫金矿业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603993",
+    "name": "洛阳钼业",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300395",
     "name": "菲 利 华",
     "repeat": 1
@@ -102,11 +112,6 @@
   {
     "symbol": "SZ002790",
     "name": "瑞 尔 特",
-    "repeat": 1
-  },
-  {
-    "symbol": "BI991024",
-    "name": "建材家具",
     "repeat": 1
   },
   {
@@ -887,16 +892,6 @@
   {
     "symbol": "SZ300614",
     "name": "百川畅银",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002241",
-    "name": "歌尔股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002475",
-    "name": "立讯精密",
     "repeat": 1
   }
 ]
