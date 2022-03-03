@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300395",
+    "name": "菲 利 华",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603688",
+    "name": "石英股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002226",
     "name": "江南化工",
     "repeat": 1
@@ -102,12 +112,12 @@
   {
     "symbol": "SH603297",
     "name": "永新光学",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002487",
