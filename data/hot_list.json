@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000902",
+    "name": "新 洋 丰",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300505",
+    "name": "川 金 诺",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600884",
     "name": "杉杉股份",
     "repeat": 1
@@ -882,16 +892,6 @@
   {
     "symbol": "SH688981",
     "name": "中芯国际",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002532",
-    "name": "天山铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600219",
-    "name": "南山铝业",
     "repeat": 1
   }
 ]
