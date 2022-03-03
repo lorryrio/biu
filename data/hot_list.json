@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000778",
+    "name": "新兴铸管",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603856",
+    "name": "东宏股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000902",
     "name": "新 洋 丰",
     "repeat": 1
@@ -137,12 +147,12 @@
   {
     "symbol": "SH603297",
     "name": "永新光学",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SZ002487",
@@ -177,7 +187,7 @@
   {
     "symbol": "SZ002459",
     "name": "晶澳科技",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH605117",
@@ -282,7 +292,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SZ002812",
@@ -342,12 +352,12 @@
   {
     "symbol": "SH603477",
     "name": "巨星农牧",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH600989",
@@ -402,7 +412,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH603833",
@@ -892,6 +902,61 @@
   {
     "symbol": "SH688981",
     "name": "中芯国际",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002532",
+    "name": "天山铝业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600219",
+    "name": "南山铝业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002009",
+    "name": "天奇股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300614",
+    "name": "百川畅银",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002241",
+    "name": "歌尔股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002475",
+    "name": "立讯精密",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300576",
+    "name": "容大感光",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603306",
+    "name": "华懋科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603363",
+    "name": "傲农生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603733",
+    "name": "仙鹤股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688599",
+    "name": "天合光能",
     "repeat": 1
   }
 ]
