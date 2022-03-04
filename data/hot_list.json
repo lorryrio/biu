@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300894",
+    "name": "火 星 人",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300911",
+    "name": "亿田智能",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000778",
     "name": "新兴铸管",
     "repeat": 1
@@ -357,7 +367,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600989",
@@ -412,7 +422,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603833",
