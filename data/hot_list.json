@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ000803",
+    "name": "北清环能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688196",
+    "name": "卓越新能",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ000422",
+    "name": "湖北宜化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600426",
+    "name": "华鲁恒升",
+    "repeat": 2
+  },
+  {
     "symbol": "SH603167",
     "name": "渤海轮渡",
     "repeat": 1
@@ -312,7 +332,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002812",
@@ -372,11 +392,6 @@
   {
     "symbol": "SH603477",
     "name": "巨星农牧",
-    "repeat": 2
-  },
-  {
-    "symbol": "SH600426",
-    "name": "华鲁恒升",
     "repeat": 1
   },
   {
@@ -865,11 +880,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH688196",
-    "name": "卓越新能",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ002041",
     "name": "登海种业",
     "repeat": 1
@@ -962,16 +972,6 @@
   {
     "symbol": "SH603306",
     "name": "华懋科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603363",
-    "name": "傲农生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603733",
-    "name": "仙鹤股份",
     "repeat": 1
   }
 ]
