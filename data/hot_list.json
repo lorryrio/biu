@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603167",
+    "name": "渤海轮渡",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603871",
+    "name": "嘉友国际",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300894",
     "name": "火 星 人",
     "repeat": 1
@@ -197,7 +207,7 @@
   {
     "symbol": "SZ002459",
     "name": "晶澳科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH605117",
@@ -962,11 +972,6 @@
   {
     "symbol": "SH603733",
     "name": "仙鹤股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688599",
-    "name": "天合光能",
     "repeat": 1
   }
 ]
