@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SH600582",
+    "name": "天地科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601717",
+    "name": "郑 煤 机",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000999",
+    "name": "华润三九",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600976",
+    "name": "健民集团",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600845",
     "name": "宝信软件",
     "repeat": 1
@@ -947,26 +967,6 @@
   {
     "symbol": "SH600219",
     "name": "南山铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002009",
-    "name": "天奇股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300614",
-    "name": "百川畅银",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002241",
-    "name": "歌尔股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002475",
-    "name": "立讯精密",
     "repeat": 1
   }
 ]
