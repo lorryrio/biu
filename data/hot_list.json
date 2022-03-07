@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ300223",
+    "name": "北京君正",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603986",
+    "name": "兆易创新",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002034",
+    "name": "旺能环境",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ300867",
+    "name": "圣元环保",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600887",
     "name": "伊利股份",
     "repeat": 1
@@ -72,7 +92,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SH603167",
@@ -282,7 +302,7 @@
   {
     "symbol": "SZ002459",
     "name": "晶澳科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH605117",
@@ -465,11 +485,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002034",
-    "name": "旺能环境",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ002709",
     "name": "天赐材料",
     "repeat": 1
@@ -502,7 +517,7 @@
   {
     "symbol": "SH600346",
     "name": "恒力石化",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603833",
@@ -1032,11 +1047,6 @@
   {
     "symbol": "SH603733",
     "name": "仙鹤股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688599",
-    "name": "天合光能",
     "repeat": 1
   }
 ]
