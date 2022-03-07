@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300661",
+    "name": "圣邦股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300671",
+    "name": "富 满 微",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002026",
     "name": "山东威达",
     "repeat": 1
@@ -482,7 +492,7 @@
   {
     "symbol": "SH603477",
     "name": "巨星农牧",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600989",
@@ -1052,11 +1062,6 @@
   {
     "symbol": "SH603306",
     "name": "华懋科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603363",
-    "name": "傲农生物",
     "repeat": 1
   }
 ]
