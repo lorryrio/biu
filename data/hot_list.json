@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002026",
+    "name": "山东威达",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688097",
+    "name": "博众精工",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300223",
     "name": "北京君正",
     "repeat": 1
@@ -412,7 +422,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002812",
@@ -1047,11 +1057,6 @@
   {
     "symbol": "SH603363",
     "name": "傲农生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603733",
-    "name": "仙鹤股份",
     "repeat": 1
   }
 ]
