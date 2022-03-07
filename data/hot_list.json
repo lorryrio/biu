@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002013",
+    "name": "中航机电",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603678",
+    "name": "火炬电子",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600582",
     "name": "天地科技",
     "repeat": 1
@@ -967,16 +977,6 @@
   {
     "symbol": "SH688981",
     "name": "中芯国际",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002532",
-    "name": "天山铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600219",
-    "name": "南山铝业",
     "repeat": 1
   }
 ]
