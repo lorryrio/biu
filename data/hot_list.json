@@ -1,5 +1,10 @@
 [
   {
+    "symbol": "SH603612",
+    "name": "索通发展",
+    "repeat": 1
+  },
+  {
     "symbol": "BI991039",
     "name": "专用设备",
     "repeat": 1
@@ -1057,16 +1062,6 @@
   {
     "symbol": "SH600219",
     "name": "南山铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002009",
-    "name": "天奇股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300614",
-    "name": "百川畅银",
     "repeat": 1
   }
 ]
