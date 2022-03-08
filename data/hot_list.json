@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ300482",
+    "name": "万孚生物",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688298",
+    "name": "东方生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002371",
+    "name": "北方华创",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603501",
+    "name": "韦尔股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300661",
     "name": "圣邦股份",
     "repeat": 1
@@ -200,11 +220,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ300482",
-    "name": "万孚生物",
-    "repeat": 1
-  },
-  {
     "symbol": "SH688075",
     "name": "安旭生物",
     "repeat": 1
@@ -287,12 +302,12 @@
   {
     "symbol": "SH603297",
     "name": "永新光学",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002487",
@@ -1052,16 +1067,6 @@
   {
     "symbol": "SZ002475",
     "name": "立讯精密",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300576",
-    "name": "容大感光",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603306",
-    "name": "华懋科技",
     "repeat": 1
   }
 ]
