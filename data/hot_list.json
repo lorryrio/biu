@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300579",
+    "name": "数字认证",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688201",
+    "name": "信安世纪",
+    "repeat": 2
+  },
+  {
     "symbol": "SH603612",
     "name": "索通发展",
     "repeat": 1
@@ -82,11 +92,6 @@
   {
     "symbol": "SH600887",
     "name": "伊利股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "BI991013",
-    "name": "农副食品",
     "repeat": 1
   },
   {
@@ -342,11 +347,6 @@
   {
     "symbol": "SZ000997",
     "name": "新 大 陆",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688201",
-    "name": "信安世纪",
     "repeat": 1
   },
   {
@@ -1047,16 +1047,6 @@
   {
     "symbol": "SH688981",
     "name": "中芯国际",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002532",
-    "name": "天山铝业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600219",
-    "name": "南山铝业",
     "repeat": 1
   }
 ]
