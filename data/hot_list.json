@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000552",
+    "name": "靖远煤电",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600123",
+    "name": "兰花科创",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300579",
     "name": "数字认证",
     "repeat": 1
@@ -1037,16 +1047,6 @@
   {
     "symbol": "SH688533",
     "name": "上声电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300327",
-    "name": "中颖电子",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688981",
-    "name": "中芯国际",
     "repeat": 1
   }
 ]
