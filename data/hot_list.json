@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002080",
+    "name": "中材科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300699",
+    "name": "光威复材",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002459",
     "name": "晶澳科技",
     "repeat": 2
@@ -1042,16 +1052,6 @@
   {
     "symbol": "SZ300232",
     "name": "洲明科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002906",
-    "name": "华阳集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688533",
-    "name": "上声电子",
     "repeat": 1
   }
 ]
