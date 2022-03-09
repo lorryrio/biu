@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002078",
+    "name": "太阳纸业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605377",
+    "name": "华旺科技",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002617",
     "name": "露笑科技",
     "repeat": 1
@@ -480,11 +490,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH605377",
-    "name": "华旺科技",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ002812",
     "name": "恩捷股份",
     "repeat": 1
@@ -537,7 +542,7 @@
   {
     "symbol": "SZ002714",
     "name": "牧原股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603477",
@@ -1037,11 +1042,6 @@
   {
     "symbol": "SH600871",
     "name": "石化油服",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300498",
-    "name": "温氏股份",
     "repeat": 1
   }
 ]
