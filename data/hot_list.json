@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002617",
+    "name": "露笑科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688234",
+    "name": "天岳先进",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002080",
     "name": "中材科技",
     "repeat": 1
@@ -1032,16 +1042,6 @@
   {
     "symbol": "SZ300498",
     "name": "温氏股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000725",
-    "name": "京东方Ａ",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300232",
-    "name": "洲明科技",
     "repeat": 1
   }
 ]
