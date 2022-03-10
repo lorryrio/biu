@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300274",
+    "name": "阳光电源",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601877",
+    "name": "正泰电器",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300428",
     "name": "立中集团",
     "repeat": 2
@@ -537,7 +547,7 @@
   {
     "symbol": "SZ000998",
     "name": "隆平高科",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH601952",
@@ -1032,11 +1042,6 @@
   {
     "symbol": "SH605009",
     "name": "豪悦护理",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002041",
-    "name": "登海种业",
     "repeat": 1
   }
 ]
