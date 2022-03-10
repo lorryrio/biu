@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300428",
+    "name": "立中集团",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603348",
+    "name": "文灿股份",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002140",
     "name": "东华科技",
     "repeat": 1
@@ -320,19 +330,9 @@
     "repeat": 1
   },
   {
-    "symbol": "SH603348",
-    "name": "文灿股份",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ300415",
     "name": "伊 之 密",
     "repeat": 2
-  },
-  {
-    "symbol": "SZ300428",
-    "name": "立中集团",
-    "repeat": 1
   },
   {
     "symbol": "SZ300850",
@@ -437,7 +437,7 @@
   {
     "symbol": "SH600905",
     "name": "三峡能源",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002233",
@@ -1037,11 +1037,6 @@
   {
     "symbol": "SZ002041",
     "name": "登海种业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000591",
-    "name": "太 阳 能",
     "repeat": 1
   }
 ]
