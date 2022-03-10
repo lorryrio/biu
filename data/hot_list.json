@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000591",
+    "name": "太 阳 能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601985",
+    "name": "中国核电",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300274",
     "name": "阳光电源",
     "repeat": 1
@@ -217,7 +227,7 @@
   {
     "symbol": "SH688196",
     "name": "卓越新能",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000422",
