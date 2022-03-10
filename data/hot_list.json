@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002472",
+    "name": "双环传动",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603076",
+    "name": "乐惠国际",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002078",
     "name": "太阳纸业",
     "repeat": 1
@@ -447,7 +457,7 @@
   {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SZ300191",
@@ -1037,11 +1047,6 @@
   {
     "symbol": "SH603018",
     "name": "华设集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600871",
-    "name": "石化油服",
     "repeat": 1
   }
 ]
