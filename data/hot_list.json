@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002140",
+    "name": "东华科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601117",
+    "name": "中国化学",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002472",
     "name": "双环传动",
     "repeat": 1
@@ -472,7 +482,7 @@
   {
     "symbol": "SH601669",
     "name": "中国电建",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000426",
@@ -795,11 +805,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH601117",
-    "name": "中国化学",
-    "repeat": 1
-  },
-  {
     "symbol": "SH605399",
     "name": "晨光新材",
     "repeat": 1
@@ -1042,11 +1047,6 @@
   {
     "symbol": "SZ000591",
     "name": "太 阳 能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603018",
-    "name": "华设集团",
     "repeat": 1
   }
 ]
