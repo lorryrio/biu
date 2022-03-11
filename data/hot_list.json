@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603806",
+    "name": "福 斯 特",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688680",
+    "name": "海优新材",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000591",
     "name": "太 阳 能",
     "repeat": 1
@@ -1042,16 +1052,6 @@
   {
     "symbol": "SH688598",
     "name": "金博股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ301009",
-    "name": "可靠股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605009",
-    "name": "豪悦护理",
     "repeat": 1
   }
 ]
