@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002036",
+    "name": "联创电子",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603501",
+    "name": "韦尔股份",
+    "repeat": 2
+  },
+  {
     "symbol": "SH603806",
     "name": "福 斯 特",
     "repeat": 1
@@ -137,11 +147,6 @@
   {
     "symbol": "SZ002371",
     "name": "北方华创",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603501",
-    "name": "韦尔股份",
     "repeat": 1
   },
   {
@@ -802,7 +807,7 @@
   {
     "symbol": "SH688033",
     "name": "天宜上佳",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688559",
@@ -1047,11 +1052,6 @@
   {
     "symbol": "SH688158",
     "name": "优 刻 得",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688598",
-    "name": "金博股份",
     "repeat": 1
   }
 ]
