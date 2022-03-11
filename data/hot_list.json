@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300171",
+    "name": "东 富 龙",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300358",
+    "name": "楚天科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002036",
     "name": "联创电子",
     "repeat": 1
@@ -1042,16 +1052,6 @@
   {
     "symbol": "SH600585",
     "name": "海螺水泥",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600941",
-    "name": "中国移动",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688158",
-    "name": "优 刻 得",
     "repeat": 1
   }
 ]
