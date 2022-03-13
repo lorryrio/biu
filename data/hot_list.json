@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002191",
+    "name": "劲嘉股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI991021",
+    "name": "农林牧渔",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300482",
     "name": "万孚生物",
     "repeat": 3
@@ -952,6 +962,96 @@
   {
     "symbol": "SH601166",
     "name": "兴业银行",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601225",
+    "name": "陕西煤业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601668",
+    "name": "中国建筑",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ301062",
+    "name": "上海艾录",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603008",
+    "name": "喜 临 门",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600461",
+    "name": "洪城环境",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601158",
+    "name": "重庆水务",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002368",
+    "name": "太极股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300663",
+    "name": "科蓝软件",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002603",
+    "name": "以岭药业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300026",
+    "name": "红日药业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000768",
+    "name": "中航西飞",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600893",
+    "name": "航发动力",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605358",
+    "name": "立 昂 微",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688126",
+    "name": "沪硅产业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603956",
+    "name": "威 派 格",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688296",
+    "name": "和达科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000983",
+    "name": "山西焦煤",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601666",
+    "name": "平煤股份",
     "repeat": 1
   }
 ]
