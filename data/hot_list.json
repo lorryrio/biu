@@ -1,5 +1,10 @@
 [
   {
+    "symbol": "SH603351",
+    "name": "威尔药业",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000997",
     "name": "新 大 陆",
     "repeat": 2
@@ -1032,16 +1037,6 @@
   {
     "symbol": "SH601158",
     "name": "重庆水务",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002368",
-    "name": "太极股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300663",
-    "name": "科蓝软件",
     "repeat": 1
   }
 ]
