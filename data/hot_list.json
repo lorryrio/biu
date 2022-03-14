@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002837",
+    "name": "英 维 克",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300499",
+    "name": "高澜股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000858",
     "name": "五 粮 液",
     "repeat": 1
@@ -1042,16 +1052,6 @@
   {
     "symbol": "SH688126",
     "name": "沪硅产业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603956",
-    "name": "威 派 格",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688296",
-    "name": "和达科技",
     "repeat": 1
   }
 ]
