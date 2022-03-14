@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000997",
+    "name": "新 大 陆",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ300579",
+    "name": "数字认证",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002009",
     "name": "天奇股份",
     "repeat": 1
@@ -187,11 +197,6 @@
   {
     "symbol": "SH600123",
     "name": "兰花科创",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300579",
-    "name": "数字认证",
     "repeat": 1
   },
   {
@@ -497,11 +502,6 @@
   {
     "symbol": "SH603818",
     "name": "曲美家居",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000997",
-    "name": "新 大 陆",
     "repeat": 1
   },
   {
@@ -1042,16 +1042,6 @@
   {
     "symbol": "SZ300663",
     "name": "科蓝软件",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002603",
-    "name": "以岭药业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300026",
-    "name": "红日药业",
     "repeat": 1
   }
 ]
