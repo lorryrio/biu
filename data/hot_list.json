@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603098",
+    "name": "森特股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688408",
+    "name": "中 信 博",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002837",
     "name": "英 维 克",
     "repeat": 1
@@ -1042,16 +1052,6 @@
   {
     "symbol": "SH600893",
     "name": "航发动力",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605358",
-    "name": "立 昂 微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688126",
-    "name": "沪硅产业",
     "repeat": 1
   }
 ]
