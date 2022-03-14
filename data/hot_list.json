@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002009",
+    "name": "天奇股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002340",
+    "name": "格 林 美",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603098",
     "name": "森特股份",
     "repeat": 1
@@ -1042,16 +1052,6 @@
   {
     "symbol": "SZ300026",
     "name": "红日药业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000768",
-    "name": "中航西飞",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600893",
-    "name": "航发动力",
     "repeat": 1
   }
 ]
