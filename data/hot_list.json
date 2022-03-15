@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000921",
+    "name": "海信家电",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002508",
+    "name": "老板电器",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002074",
     "name": "国轩高科",
     "repeat": 2
@@ -42,6 +52,11 @@
   {
     "symbol": "SH603351",
     "name": "威尔药业",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI991028",
+    "name": "医疗卫生",
     "repeat": 1
   },
   {
@@ -602,7 +617,7 @@
   {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300191",
@@ -1017,11 +1032,6 @@
   {
     "symbol": "SH688065",
     "name": "凯赛生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600028",
-    "name": "中国石化",
     "repeat": 1
   }
 ]
