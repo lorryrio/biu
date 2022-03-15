@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000768",
+    "name": "中航西飞",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002190",
+    "name": "成飞集成",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000598",
     "name": "兴蓉环境",
     "repeat": 1
@@ -1022,16 +1032,6 @@
   {
     "symbol": "SH601166",
     "name": "兴业银行",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601225",
-    "name": "陕西煤业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601668",
-    "name": "中国建筑",
     "repeat": 1
   }
 ]
