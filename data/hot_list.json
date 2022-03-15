@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600718",
+    "name": "东软集团",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688188",
+    "name": "柏楚电子",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603351",
     "name": "威尔药业",
     "repeat": 1
@@ -1022,16 +1032,6 @@
   {
     "symbol": "SH603008",
     "name": "喜 临 门",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600461",
-    "name": "洪城环境",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601158",
-    "name": "重庆水务",
     "repeat": 1
   }
 ]
