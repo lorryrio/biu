@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300911",
+    "name": "亿田智能",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603486",
+    "name": "科 沃 斯",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000921",
     "name": "海信家电",
     "repeat": 1
@@ -392,11 +402,6 @@
   {
     "symbol": "SZ300894",
     "name": "火 星 人",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300911",
-    "name": "亿田智能",
     "repeat": 1
   },
   {
@@ -1012,26 +1017,6 @@
   {
     "symbol": "SZ002916",
     "name": "深南电路",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600230",
-    "name": "沧州大化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600309",
-    "name": "万华化学",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ003022",
-    "name": "联泓新科",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688065",
-    "name": "凯赛生物",
     "repeat": 1
   }
 ]
