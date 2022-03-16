@@ -77,7 +77,7 @@
   {
     "symbol": "SH601158",
     "name": "重庆水务",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH600718",
@@ -642,7 +642,7 @@
   {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300191",
@@ -1012,91 +1012,6 @@
   {
     "symbol": "SZ300014",
     "name": "亿纬锂能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600486",
-    "name": "扬农化工",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600596",
-    "name": "新安股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600660",
-    "name": "福耀玻璃",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002436",
-    "name": "兴森科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002916",
-    "name": "深南电路",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600230",
-    "name": "沧州大化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600309",
-    "name": "万华化学",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ003022",
-    "name": "联泓新科",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688065",
-    "name": "凯赛生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600028",
-    "name": "中国石化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600036",
-    "name": "招商银行",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601166",
-    "name": "兴业银行",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601225",
-    "name": "陕西煤业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601668",
-    "name": "中国建筑",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ301062",
-    "name": "上海艾录",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603008",
-    "name": "喜 临 门",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600461",
-    "name": "洪城环境",
     "repeat": 1
   }
 ]
