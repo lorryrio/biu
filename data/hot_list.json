@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300438",
+    "name": "鹏辉能源",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688063",
+    "name": "派能科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600011",
     "name": "华能国际",
     "repeat": 1
@@ -1087,16 +1097,6 @@
   {
     "symbol": "SH600461",
     "name": "洪城环境",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002368",
-    "name": "太极股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300663",
-    "name": "科蓝软件",
     "repeat": 1
   }
 ]
