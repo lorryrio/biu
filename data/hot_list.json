@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002409",
+    "name": "雅克科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603650",
+    "name": "彤程新材",
+    "repeat": 1
+  },
+  {
     "symbol": "SH601689",
     "name": "拓普集团",
     "repeat": 1
@@ -667,7 +677,7 @@
   {
     "symbol": "SZ002353",
     "name": "杰瑞股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300191",
@@ -1082,11 +1092,6 @@
   {
     "symbol": "SH688065",
     "name": "凯赛生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600028",
-    "name": "中国石化",
     "repeat": 1
   }
 ]
