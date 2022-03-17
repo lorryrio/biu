@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH601689",
+    "name": "拓普集团",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603197",
+    "name": "保隆科技",
+    "repeat": 1
+  },
+  {
     "symbol": "BI993933",
     "name": "疫苗",
     "repeat": 1
@@ -1077,16 +1087,6 @@
   {
     "symbol": "SH600028",
     "name": "中国石化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600036",
-    "name": "招商银行",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601166",
-    "name": "兴业银行",
     "repeat": 1
   }
 ]
