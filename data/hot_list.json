@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000723",
+    "name": "美锦能源",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605090",
+    "name": "九丰能源",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300438",
     "name": "鹏辉能源",
     "repeat": 1
@@ -857,7 +867,7 @@
   {
     "symbol": "SZ300648",
     "name": "星云股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300693",
@@ -1002,11 +1012,6 @@
   {
     "symbol": "SH600389",
     "name": "江山股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300014",
-    "name": "亿纬锂能",
     "repeat": 1
   }
 ]
