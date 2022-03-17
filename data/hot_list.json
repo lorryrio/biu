@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002729",
+    "name": "好利科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ301031",
+    "name": "中熔电气",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002409",
     "name": "雅克科技",
     "repeat": 1
@@ -1082,16 +1092,6 @@
   {
     "symbol": "SH600309",
     "name": "万华化学",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ003022",
-    "name": "联泓新科",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688065",
-    "name": "凯赛生物",
     "repeat": 1
   }
 ]
