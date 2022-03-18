@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000739",
+    "name": "普洛药业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600196",
+    "name": "复星医药",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002729",
     "name": "好利科技",
     "repeat": 1
@@ -1082,16 +1092,6 @@
   {
     "symbol": "SZ002916",
     "name": "深南电路",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600230",
-    "name": "沧州大化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600309",
-    "name": "万华化学",
     "repeat": 1
   }
 ]
