@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000651",
+    "name": "格力电器",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600217",
+    "name": "中再资环",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600188",
     "name": "兖矿能源",
     "repeat": 1
@@ -1077,11 +1087,6 @@
   {
     "symbol": "SH600596",
     "name": "新安股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600660",
-    "name": "福耀玻璃",
     "repeat": 1
   }
 ]
