@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600188",
+    "name": "兖矿能源",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601666",
+    "name": "平煤股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000739",
     "name": "普洛药业",
     "repeat": 1
@@ -1082,16 +1092,6 @@
   {
     "symbol": "SH600660",
     "name": "福耀玻璃",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002436",
-    "name": "兴森科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002916",
-    "name": "深南电路",
     "repeat": 1
   }
 ]
