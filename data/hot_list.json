@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002398",
+    "name": "垒知集团",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603916",
+    "name": "苏 博 特",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000651",
     "name": "格力电器",
     "repeat": 1
@@ -1077,16 +1087,6 @@
   {
     "symbol": "SZ300014",
     "name": "亿纬锂能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600486",
-    "name": "扬农化工",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600596",
-    "name": "新安股份",
     "repeat": 1
   }
 ]
