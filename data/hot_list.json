@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ000739",
+    "name": "普洛药业",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ300702",
+    "name": "天宇股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300982",
+    "name": "苏文电能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603098",
+    "name": "森特股份",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002026",
     "name": "山东威达",
     "repeat": 2
@@ -37,11 +57,6 @@
   {
     "symbol": "SH601666",
     "name": "平煤股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000739",
-    "name": "普洛药业",
     "repeat": 1
   },
   {
@@ -202,11 +217,6 @@
   {
     "symbol": "SZ002340",
     "name": "格 林 美",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603098",
-    "name": "森特股份",
     "repeat": 1
   },
   {
@@ -1007,26 +1017,6 @@
   {
     "symbol": "SH600741",
     "name": "华域汽车",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600096",
-    "name": "云 天 化",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600141",
-    "name": "兴发集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000596",
-    "name": "古井贡酒",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603589",
-    "name": "口 子 窖",
     "repeat": 1
   }
 ]
