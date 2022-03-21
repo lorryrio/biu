@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300661",
+    "name": "圣邦股份",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688595",
+    "name": "芯海科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002001",
     "name": "新 和 成",
     "repeat": 1
@@ -447,11 +457,6 @@
   {
     "symbol": "SZ002371",
     "name": "北方华创",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300661",
-    "name": "圣邦股份",
     "repeat": 1
   },
   {
@@ -1002,16 +1007,6 @@
   {
     "symbol": "SZ300693",
     "name": "盛弘股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300337",
-    "name": "银邦股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300731",
-    "name": "科创新源",
     "repeat": 1
   }
 ]
