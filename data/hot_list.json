@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002182",
+    "name": "云海金属",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603663",
+    "name": "三祥新材",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002125",
     "name": "湘潭电化",
     "repeat": 1
@@ -1002,16 +1012,6 @@
   {
     "symbol": "SH603138",
     "name": "海量数据",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300986",
-    "name": "志特新材",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603300",
-    "name": "华铁应急",
     "repeat": 1
   }
 ]
