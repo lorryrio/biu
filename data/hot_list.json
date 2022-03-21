@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300122",
+    "name": "智飞生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603392",
+    "name": "万泰生物",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000739",
     "name": "普洛药业",
     "repeat": 2
@@ -1007,16 +1017,6 @@
   {
     "symbol": "SH600233",
     "name": "圆通速递",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002196",
-    "name": "方正电机",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600741",
-    "name": "华域汽车",
     "repeat": 1
   }
 ]
