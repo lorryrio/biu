@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002001",
+    "name": "新 和 成",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600299",
+    "name": "安 迪 苏",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002182",
     "name": "云海金属",
     "repeat": 1
@@ -1002,16 +1012,6 @@
   {
     "symbol": "SZ300731",
     "name": "科创新源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300682",
-    "name": "朗新科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603138",
-    "name": "海量数据",
     "repeat": 1
   }
 ]
