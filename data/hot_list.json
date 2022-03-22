@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH688065",
+    "name": "凯赛生物",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688639",
+    "name": "华恒生物",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ003043",
     "name": "华亚智能",
     "repeat": 1
@@ -1087,16 +1097,6 @@
   {
     "symbol": "SH600141",
     "name": "兴发集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000596",
-    "name": "古井贡酒",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603589",
-    "name": "口 子 窖",
     "repeat": 1
   }
 ]
