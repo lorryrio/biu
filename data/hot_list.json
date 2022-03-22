@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ003043",
+    "name": "华亚智能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600641",
+    "name": "万业企业",
+    "repeat": 1
+  },
+  {
     "symbol": "SH601012",
     "name": "隆基股份",
     "repeat": 3
@@ -997,6 +1007,96 @@
   {
     "symbol": "SH603960",
     "name": "克来机电",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300648",
+    "name": "星云股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300693",
+    "name": "盛弘股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300337",
+    "name": "银邦股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300731",
+    "name": "科创新源",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300682",
+    "name": "朗新科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603138",
+    "name": "海量数据",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300986",
+    "name": "志特新材",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603300",
+    "name": "华铁应急",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600019",
+    "name": "宝钢股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600581",
+    "name": "八一钢铁",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002120",
+    "name": "韵达股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600233",
+    "name": "圆通速递",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002196",
+    "name": "方正电机",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600741",
+    "name": "华域汽车",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600096",
+    "name": "云 天 化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600141",
+    "name": "兴发集团",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000596",
+    "name": "古井贡酒",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603589",
+    "name": "口 子 窖",
     "repeat": 1
   }
 ]
