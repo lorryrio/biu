@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000893",
+    "name": "亚钾国际",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ002545",
+    "name": "东方铁塔",
+    "repeat": 2
+  },
+  {
     "symbol": "SH688065",
     "name": "凯赛生物",
     "repeat": 1
@@ -787,16 +797,6 @@
   {
     "symbol": "SH600720",
     "name": "祁 连 山",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000893",
-    "name": "亚钾国际",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002545",
-    "name": "东方铁塔",
     "repeat": 1
   },
   {
