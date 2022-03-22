@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH601012",
+    "name": "隆基股份",
+    "repeat": 3
+  },
+  {
+    "symbol": "SH603098",
+    "name": "森特股份",
+    "repeat": 3
+  },
+  {
     "symbol": "SZ300661",
     "name": "圣邦股份",
     "repeat": 2
@@ -73,11 +83,6 @@
     "symbol": "SZ300982",
     "name": "苏文电能",
     "repeat": 1
-  },
-  {
-    "symbol": "SH603098",
-    "name": "森特股份",
-    "repeat": 2
   },
   {
     "symbol": "SZ002026",
@@ -182,11 +187,6 @@
   {
     "symbol": "SH601985",
     "name": "中国核电",
-    "repeat": 2
-  },
-  {
-    "symbol": "SH601012",
-    "name": "隆基股份",
     "repeat": 2
   },
   {
@@ -997,16 +997,6 @@
   {
     "symbol": "SH603960",
     "name": "克来机电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300648",
-    "name": "星云股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300693",
-    "name": "盛弘股份",
     "repeat": 1
   }
 ]
