@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002487",
+    "name": "大金重工",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH603606",
+    "name": "东方电缆",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ000893",
     "name": "亚钾国际",
     "repeat": 2
@@ -735,16 +745,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ002487",
-    "name": "大金重工",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603606",
-    "name": "东方电缆",
-    "repeat": 1
-  },
-  {
     "symbol": "SH603816",
     "name": "顾家家居",
     "repeat": 2
@@ -987,16 +987,6 @@
   {
     "symbol": "SZ002738",
     "name": "中矿资源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000672",
-    "name": "上峰水泥",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600801",
-    "name": "华新水泥",
     "repeat": 1
   }
 ]
