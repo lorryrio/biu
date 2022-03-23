@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH605186",
+    "name": "健麾信息",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688329",
+    "name": "艾隆科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002129",
     "name": "中环股份",
     "repeat": 1
@@ -1057,16 +1067,6 @@
   {
     "symbol": "SH603960",
     "name": "克来机电",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300648",
-    "name": "星云股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300693",
-    "name": "盛弘股份",
     "repeat": 1
   }
 ]
