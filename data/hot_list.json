@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000983",
+    "name": "山西焦煤",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601666",
+    "name": "平煤股份",
+    "repeat": 2
+  },
+  {
     "symbol": "SH600900",
     "name": "长江电力",
     "repeat": 1
@@ -167,11 +177,6 @@
   {
     "symbol": "SH600188",
     "name": "兖矿能源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601666",
-    "name": "平煤股份",
     "repeat": 1
   },
   {
@@ -972,16 +977,6 @@
   {
     "symbol": "SH688388",
     "name": "嘉元科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600517",
-    "name": "国网英大",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688191",
-    "name": "智洋创新",
     "repeat": 1
   }
 ]
