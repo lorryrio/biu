@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002129",
+    "name": "中环股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601865",
+    "name": "福 莱 特",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002850",
     "name": "科 达 利",
     "repeat": 1
@@ -1057,16 +1067,6 @@
   {
     "symbol": "SZ300693",
     "name": "盛弘股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300337",
-    "name": "银邦股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300731",
-    "name": "科创新源",
     "repeat": 1
   }
 ]
