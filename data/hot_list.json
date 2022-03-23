@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600900",
+    "name": "长江电力",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600905",
+    "name": "三峡能源",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ002487",
     "name": "大金重工",
     "repeat": 2
@@ -785,11 +795,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH600905",
-    "name": "三峡能源",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ002233",
     "name": "塔牌集团",
     "repeat": 1
@@ -977,16 +982,6 @@
   {
     "symbol": "SH688191",
     "name": "智洋创新",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002466",
-    "name": "天齐锂业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002738",
-    "name": "中矿资源",
     "repeat": 1
   }
 ]
