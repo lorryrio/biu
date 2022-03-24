@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002196",
+    "name": "方正电机",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688280",
+    "name": "精进电动",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300850",
     "name": "新 强 联",
     "repeat": 2
@@ -1052,16 +1062,6 @@
   {
     "symbol": "SH600801",
     "name": "华新水泥",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688580",
-    "name": "伟思医疗",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688626",
-    "name": "翔宇医疗",
     "repeat": 1
   }
 ]
