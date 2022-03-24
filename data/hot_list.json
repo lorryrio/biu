@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300850",
+    "name": "新 强 联",
+    "repeat": 2
+  },
+  {
+    "symbol": "BI991014",
+    "name": "电器机械",
+    "repeat": 1
+  },
+  {
     "symbol": "SH605186",
     "name": "健麾信息",
     "repeat": 1
@@ -755,11 +765,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ300850",
-    "name": "新 强 联",
-    "repeat": 1
-  },
-  {
     "symbol": "SH603667",
     "name": "五洲新春",
     "repeat": 1
@@ -1057,16 +1062,6 @@
   {
     "symbol": "SH688626",
     "name": "翔宇医疗",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002454",
-    "name": "松芝股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603960",
-    "name": "克来机电",
     "repeat": 1
   }
 ]
