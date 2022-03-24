@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002041",
+    "name": "登海种业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601952",
+    "name": "苏垦农发",
+    "repeat": 2
+  },
+  {
+    "symbol": "BI991014",
+    "name": "电器机械",
+    "repeat": 2
+  },
+  {
+    "symbol": "BI993758",
+    "name": "锂电池",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002196",
     "name": "方正电机",
     "repeat": 1
@@ -13,11 +33,6 @@
     "symbol": "SZ300850",
     "name": "新 强 联",
     "repeat": 2
-  },
-  {
-    "symbol": "BI991014",
-    "name": "电器机械",
-    "repeat": 1
   },
   {
     "symbol": "SH605186",
@@ -945,11 +960,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH601952",
-    "name": "苏垦农发",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ300144",
     "name": "宋城演艺",
     "repeat": 1
@@ -1052,16 +1062,6 @@
   {
     "symbol": "SZ002738",
     "name": "中矿资源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000672",
-    "name": "上峰水泥",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600801",
-    "name": "华新水泥",
     "repeat": 1
   }
 ]
