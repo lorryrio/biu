@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ301099",
+    "name": "雅创电子",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603290",
+    "name": "斯达半导",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002041",
     "name": "登海种业",
     "repeat": 1
@@ -1052,16 +1062,6 @@
   {
     "symbol": "SH688191",
     "name": "智洋创新",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002466",
-    "name": "天齐锂业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002738",
-    "name": "中矿资源",
     "repeat": 1
   }
 ]
