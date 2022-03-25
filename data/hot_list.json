@@ -65,16 +65,6 @@
     "repeat": 2
   },
   {
-    "symbol": "BI991014",
-    "name": "电器机械",
-    "repeat": 2
-  },
-  {
-    "symbol": "BI993758",
-    "name": "锂电池",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ002196",
     "name": "方正电机",
     "repeat": 1
@@ -88,6 +78,11 @@
     "symbol": "SZ300850",
     "name": "新 强 联",
     "repeat": 2
+  },
+  {
+    "symbol": "BI991014",
+    "name": "电器机械",
+    "repeat": 1
   },
   {
     "symbol": "SH605186",
