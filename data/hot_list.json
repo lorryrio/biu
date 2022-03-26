@@ -7,7 +7,7 @@
   {
     "symbol": "SH688187",
     "name": "时代电气",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000825",
@@ -62,7 +62,7 @@
   {
     "symbol": "SH601952",
     "name": "苏垦农发",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002196",
@@ -78,11 +78,6 @@
     "symbol": "SZ300850",
     "name": "新 强 联",
     "repeat": 2
-  },
-  {
-    "symbol": "BI991014",
-    "name": "电器机械",
-    "repeat": 1
   },
   {
     "symbol": "SH605186",
@@ -647,7 +642,7 @@
   {
     "symbol": "SZ002034",
     "name": "旺能环境",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300867",
@@ -717,7 +712,7 @@
   {
     "symbol": "SH600426",
     "name": "华鲁恒升",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603167",
@@ -957,86 +952,6 @@
   {
     "symbol": "SH605007",
     "name": "五洲特纸",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002812",
-    "name": "恩捷股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300568",
-    "name": "星源材质",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688083",
-    "name": "中望软件",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688777",
-    "name": "中控技术",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600460",
-    "name": "士 兰 微",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000998",
-    "name": "隆平高科",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300144",
-    "name": "宋城演艺",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600115",
-    "name": "中国东航",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002714",
-    "name": "牧原股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603477",
-    "name": "巨星农牧",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600989",
-    "name": "宝丰能源",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601598",
-    "name": "中国外运",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603128",
-    "name": "华贸物流",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002709",
-    "name": "天赐材料",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002271",
-    "name": "东方雨虹",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002572",
-    "name": "索 菲 亚",
     "repeat": 1
   }
 ]
