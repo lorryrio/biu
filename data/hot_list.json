@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000591",
+    "name": "太 阳 能",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ001289",
+    "name": "龙源电力",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603290",
     "name": "斯达半导",
     "repeat": 2
@@ -510,11 +520,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ000591",
-    "name": "太 阳 能",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ300274",
     "name": "阳光电源",
     "repeat": 1
@@ -562,7 +567,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002617",
@@ -947,11 +952,6 @@
   {
     "symbol": "SH601872",
     "name": "招商轮船",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605007",
-    "name": "五洲特纸",
     "repeat": 1
   }
 ]
