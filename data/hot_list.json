@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300482",
+    "name": "万孚生物",
+    "repeat": 4
+  },
+  {
+    "symbol": "SH688105",
+    "name": "诺 唯 赞",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300424",
     "name": "航新科技",
     "repeat": 1
@@ -490,11 +500,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ300482",
-    "name": "万孚生物",
-    "repeat": 3
-  },
-  {
     "symbol": "SZ300676",
     "name": "华大基因",
     "repeat": 1
@@ -942,16 +947,6 @@
   {
     "symbol": "SH601669",
     "name": "中国电建",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000426",
-    "name": "兴业矿业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000960",
-    "name": "锡业股份",
     "repeat": 1
   }
 ]
