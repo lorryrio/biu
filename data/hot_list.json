@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000736",
+    "name": "中交地产",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600153",
+    "name": "建发股份",
+    "repeat": 1
+  },
+  {
     "symbol": "SH603215",
     "name": "比依股份",
     "repeat": 1
@@ -197,12 +207,12 @@
   {
     "symbol": "SZ000893",
     "name": "亚钾国际",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002545",
     "name": "东方铁塔",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688065",
