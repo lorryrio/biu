@@ -1,5 +1,10 @@
 [
   {
+    "symbol": "BI993798",
+    "name": "煤化工",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000736",
     "name": "中交地产",
     "repeat": 1
@@ -67,7 +72,7 @@
   {
     "symbol": "SH688187",
     "name": "时代电气",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SZ000825",
@@ -207,12 +212,12 @@
   {
     "symbol": "SZ000893",
     "name": "亚钾国际",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SZ002545",
     "name": "东方铁塔",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SH688065",
@@ -612,7 +617,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 1
+    "repeat": 2
   },
   {
     "symbol": "SZ002617",
@@ -957,6 +962,76 @@
   {
     "symbol": "SH600720",
     "name": "祁 连 山",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002353",
+    "name": "杰瑞股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300191",
+    "name": "潜能恒信",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601186",
+    "name": "中国铁建",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601669",
+    "name": "中国电建",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000426",
+    "name": "兴业矿业",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ000960",
+    "name": "锡业股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600026",
+    "name": "中远海能",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601872",
+    "name": "招商轮船",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605007",
+    "name": "五洲特纸",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ002812",
+    "name": "恩捷股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SZ300568",
+    "name": "星源材质",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688083",
+    "name": "中望软件",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688777",
+    "name": "中控技术",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600460",
+    "name": "士 兰 微",
     "repeat": 1
   }
 ]
