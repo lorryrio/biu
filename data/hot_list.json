@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ001215",
+    "name": "千味央厨",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603345",
+    "name": "安井食品",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300482",
     "name": "万孚生物",
     "repeat": 4
@@ -937,16 +947,6 @@
   {
     "symbol": "SZ300191",
     "name": "潜能恒信",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601186",
-    "name": "中国铁建",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601669",
-    "name": "中国电建",
     "repeat": 1
   }
 ]
