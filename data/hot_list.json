@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH603215",
+    "name": "比依股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688169",
+    "name": "石头科技",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ001215",
     "name": "千味央厨",
     "repeat": 1
@@ -937,16 +947,6 @@
   {
     "symbol": "SH600720",
     "name": "祁 连 山",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002353",
-    "name": "杰瑞股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300191",
-    "name": "潜能恒信",
     "repeat": 1
   }
 ]
