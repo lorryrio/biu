@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000422",
+    "name": "湖北宜化",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600096",
+    "name": "云 天 化",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002555",
     "name": "三七互娱",
     "repeat": 1
@@ -805,11 +815,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ000422",
-    "name": "湖北宜化",
-    "repeat": 1
-  },
-  {
     "symbol": "SH603167",
     "name": "渤海轮渡",
     "repeat": 1
@@ -1022,16 +1027,6 @@
   {
     "symbol": "SH601669",
     "name": "中国电建",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000426",
-    "name": "兴业矿业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000960",
-    "name": "锡业股份",
     "repeat": 1
   }
 ]
