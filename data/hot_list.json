@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600760",
+    "name": "中航沈飞",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600893",
+    "name": "航发动力",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300769",
     "name": "德方纳米",
     "repeat": 2
@@ -642,7 +652,7 @@
   {
     "symbol": "SH605377",
     "name": "华旺科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002617",
@@ -1022,11 +1032,6 @@
   {
     "symbol": "SH601872",
     "name": "招商轮船",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605007",
-    "name": "五洲特纸",
     "repeat": 1
   }
 ]
