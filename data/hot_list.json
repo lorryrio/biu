@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000830",
+    "name": "鲁西化工",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600426",
+    "name": "华鲁恒升",
+    "repeat": 2
+  },
+  {
     "symbol": "BI993798",
     "name": "煤化工",
     "repeat": 1
@@ -72,7 +82,7 @@
   {
     "symbol": "SH688187",
     "name": "时代电气",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000825",
@@ -765,11 +775,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH600426",
-    "name": "华鲁恒升",
-    "repeat": 1
-  },
-  {
     "symbol": "SH603167",
     "name": "渤海轮渡",
     "repeat": 1
@@ -1027,11 +1032,6 @@
   {
     "symbol": "SH688777",
     "name": "中控技术",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600460",
-    "name": "士 兰 微",
     "repeat": 1
   }
 ]
