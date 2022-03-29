@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300769",
+    "name": "德方纳米",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600367",
+    "name": "红星发展",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ002352",
     "name": "顺丰控股",
     "repeat": 1
@@ -472,11 +482,6 @@
   {
     "symbol": "SZ002074",
     "name": "国轩高科",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300769",
-    "name": "德方纳米",
     "repeat": 1
   },
   {
@@ -1022,16 +1027,6 @@
   {
     "symbol": "SH605007",
     "name": "五洲特纸",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002812",
-    "name": "恩捷股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300568",
-    "name": "星源材质",
     "repeat": 1
   }
 ]
