@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ002555",
+    "name": "三七互娱",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI991043",
+    "name": "互联网",
+    "repeat": 1
+  },
+  {
     "symbol": "SH600760",
     "name": "中航沈飞",
     "repeat": 1
@@ -1022,16 +1032,6 @@
   {
     "symbol": "SZ000960",
     "name": "锡业股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600026",
-    "name": "中远海能",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601872",
-    "name": "招商轮船",
     "repeat": 1
   }
 ]
