@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000999",
+    "name": "华润三九",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600436",
+    "name": "片 仔 癀",
+    "repeat": 1
+  },
+  {
     "symbol": "SH601012",
     "name": "隆基股份",
     "repeat": 4
@@ -790,11 +800,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ000999",
-    "name": "华润三九",
-    "repeat": 1
-  },
-  {
     "symbol": "SH600976",
     "name": "健民集团",
     "repeat": 1
@@ -1012,16 +1017,6 @@
   {
     "symbol": "SH600720",
     "name": "祁 连 山",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002353",
-    "name": "杰瑞股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300191",
-    "name": "潜能恒信",
     "repeat": 1
   }
 ]
