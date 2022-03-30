@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "SZ002125",
+    "name": "湘潭电化",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH600367",
+    "name": "红星发展",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ002837",
+    "name": "英 维 克",
+    "repeat": 2
+  },
+  {
+    "symbol": "SZ301018",
+    "name": "申菱环境",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000999",
     "name": "华润三九",
     "repeat": 2
@@ -53,11 +73,6 @@
     "symbol": "SZ300769",
     "name": "德方纳米",
     "repeat": 2
-  },
-  {
-    "symbol": "SH600367",
-    "name": "红星发展",
-    "repeat": 1
   },
   {
     "symbol": "SZ002352",
@@ -292,12 +307,12 @@
   {
     "symbol": "SZ000893",
     "name": "亚钾国际",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002545",
     "name": "东方铁塔",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH688065",
@@ -352,11 +367,6 @@
   {
     "symbol": "SH603663",
     "name": "三祥新材",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002125",
-    "name": "湘潭电化",
     "repeat": 1
   },
   {
@@ -577,11 +587,6 @@
   {
     "symbol": "SH688408",
     "name": "中 信 博",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002837",
-    "name": "英 维 克",
     "repeat": 1
   },
   {
@@ -1007,16 +1012,6 @@
   {
     "symbol": "SH600483",
     "name": "福能股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002233",
-    "name": "塔牌集团",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600720",
-    "name": "祁 连 山",
     "repeat": 1
   }
 ]
