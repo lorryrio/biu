@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600690",
+    "name": "海尔智家",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603355",
+    "name": "莱克电气",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000422",
     "name": "湖北宜化",
     "repeat": 3
@@ -987,16 +997,6 @@
   {
     "symbol": "SH688058",
     "name": "宝 兰 德",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300504",
-    "name": "天邑股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688313",
-    "name": "仕佳光子",
     "repeat": 1
   }
 ]
