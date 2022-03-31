@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000400",
+    "name": "许继电气",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600089",
+    "name": "特变电工",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000933",
     "name": "神火股份",
     "repeat": 1
@@ -337,12 +347,12 @@
   {
     "symbol": "SZ002487",
     "name": "大金重工",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603606",
     "name": "东方电缆",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000893",
