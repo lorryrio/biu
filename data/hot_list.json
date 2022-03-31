@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300428",
+    "name": "立中集团",
+    "repeat": 3
+  },
+  {
+    "symbol": "SH601689",
+    "name": "拓普集团",
+    "repeat": 2
+  },
+  {
     "symbol": "SH600690",
     "name": "海尔智家",
     "repeat": 1
@@ -62,6 +72,11 @@
   {
     "symbol": "SZ002555",
     "name": "三七互娱",
+    "repeat": 1
+  },
+  {
+    "symbol": "BI991043",
+    "name": "互联网",
     "repeat": 1
   },
   {
@@ -470,11 +485,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH601689",
-    "name": "拓普集团",
-    "repeat": 1
-  },
-  {
     "symbol": "SH603197",
     "name": "保隆科技",
     "repeat": 1
@@ -653,11 +663,6 @@
     "symbol": "SH601877",
     "name": "正泰电器",
     "repeat": 1
-  },
-  {
-    "symbol": "SZ300428",
-    "name": "立中集团",
-    "repeat": 2
   },
   {
     "symbol": "SH603348",
@@ -987,16 +992,6 @@
   {
     "symbol": "SH605117",
     "name": "德业股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300379",
-    "name": "东 方 通",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688058",
-    "name": "宝 兰 德",
     "repeat": 1
   }
 ]
