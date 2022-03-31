@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300769",
+    "name": "德方纳米",
+    "repeat": 3
+  },
+  {
+    "symbol": "SH688116",
+    "name": "天奈科技",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ300428",
     "name": "立中集团",
     "repeat": 3
@@ -88,11 +98,6 @@
     "symbol": "SH600893",
     "name": "航发动力",
     "repeat": 1
-  },
-  {
-    "symbol": "SZ300769",
-    "name": "德方纳米",
-    "repeat": 2
   },
   {
     "symbol": "SZ002352",
@@ -722,7 +727,7 @@
   {
     "symbol": "SZ002459",
     "name": "晶澳科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ000552",
@@ -875,11 +880,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH688116",
-    "name": "天奈科技",
-    "repeat": 1
-  },
-  {
     "symbol": "SH601899",
     "name": "紫金矿业",
     "repeat": 1
@@ -987,11 +987,6 @@
   {
     "symbol": "SH603818",
     "name": "曲美家居",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH605117",
-    "name": "德业股份",
     "repeat": 1
   }
 ]
