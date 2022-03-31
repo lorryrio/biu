@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000933",
+    "name": "神火股份",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH601600",
+    "name": "中国铝业",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000822",
     "name": "山东海化",
     "repeat": 1
@@ -987,16 +997,6 @@
   {
     "symbol": "SH688167",
     "name": "炬光科技",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603816",
-    "name": "顾家家居",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603818",
-    "name": "曲美家居",
     "repeat": 1
   }
 ]
