@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000822",
+    "name": "山东海化",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH600409",
+    "name": "三友化工",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300769",
     "name": "德方纳米",
     "repeat": 3
@@ -592,7 +602,7 @@
   {
     "symbol": "SZ000997",
     "name": "新 大 陆",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300579",
@@ -742,7 +752,7 @@
   {
     "symbol": "SH688201",
     "name": "信安世纪",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH603612",
