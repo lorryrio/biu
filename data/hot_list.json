@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ000657",
+    "name": "中钨高新",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH688308",
+    "name": "欧 科 亿",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000400",
     "name": "许继电气",
     "repeat": 1
@@ -997,16 +1007,6 @@
   {
     "symbol": "SZ002790",
     "name": "瑞 尔 特",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603297",
-    "name": "永新光学",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688167",
-    "name": "炬光科技",
     "repeat": 1
   }
 ]
