@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300438",
+    "name": "鹏辉能源",
+    "repeat": 2
+  },
+  {
+    "symbol": "SH688345",
+    "name": "博 力 威",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ000657",
     "name": "中钨高新",
     "repeat": 1
@@ -545,11 +555,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SZ300438",
-    "name": "鹏辉能源",
-    "repeat": 1
-  },
-  {
     "symbol": "SH688063",
     "name": "派能科技",
     "repeat": 1
@@ -1002,11 +1007,6 @@
   {
     "symbol": "SH600161",
     "name": "天坛生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002790",
-    "name": "瑞 尔 特",
     "repeat": 1
   }
 ]
