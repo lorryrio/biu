@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SH600765",
+    "name": "中航重机",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH605123",
+    "name": "派克新材",
+    "repeat": 2
+  },
+  {
     "symbol": "SZ300384",
     "name": "三联虹普",
     "repeat": 1
@@ -230,11 +240,6 @@
     "repeat": 1
   },
   {
-    "symbol": "SH605123",
-    "name": "派克新材",
-    "repeat": 1
-  },
-  {
     "symbol": "SZ000591",
     "name": "太 阳 能",
     "repeat": 2
@@ -322,7 +327,7 @@
   {
     "symbol": "SZ300850",
     "name": "新 强 联",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SH605186",
@@ -997,11 +1002,6 @@
   {
     "symbol": "SZ300415",
     "name": "伊 之 密",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603667",
-    "name": "五洲新春",
     "repeat": 1
   }
 ]
