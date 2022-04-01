@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "SZ300476",
+    "name": "胜宏科技",
+    "repeat": 1
+  },
+  {
+    "symbol": "SH603920",
+    "name": "世运电路",
+    "repeat": 1
+  },
+  {
     "symbol": "SZ300438",
     "name": "鹏辉能源",
     "repeat": 2
@@ -132,11 +142,6 @@
   {
     "symbol": "SZ002555",
     "name": "三七互娱",
-    "repeat": 1
-  },
-  {
-    "symbol": "BI991043",
-    "name": "互联网",
     "repeat": 1
   },
   {
@@ -997,16 +1002,6 @@
   {
     "symbol": "SH688268",
     "name": "华特气体",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300294",
-    "name": "博雅生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600161",
-    "name": "天坛生物",
     "repeat": 1
   }
 ]
