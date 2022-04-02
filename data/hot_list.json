@@ -87,12 +87,12 @@
   {
     "symbol": "SH688116",
     "name": "天奈科技",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300428",
     "name": "立中集团",
-    "repeat": 3
+    "repeat": 2
   },
   {
     "symbol": "SH601689",
@@ -227,7 +227,7 @@
   {
     "symbol": "SZ300482",
     "name": "万孚生物",
-    "repeat": 4
+    "repeat": 3
   },
   {
     "symbol": "SH688105",
@@ -467,7 +467,7 @@
   {
     "symbol": "SZ300395",
     "name": "菲 利 华",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ300855",
@@ -737,7 +737,7 @@
   {
     "symbol": "SH603348",
     "name": "文灿股份",
-    "repeat": 2
+    "repeat": 1
   },
   {
     "symbol": "SZ002140",
@@ -927,81 +927,6 @@
   {
     "symbol": "SH603856",
     "name": "东宏股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000902",
-    "name": "新 洋 丰",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300505",
-    "name": "川 金 诺",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600884",
-    "name": "杉杉股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH601899",
-    "name": "紫金矿业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603993",
-    "name": "洛阳钼业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH603688",
-    "name": "石英股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002226",
-    "name": "江南化工",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300621",
-    "name": "维业股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688075",
-    "name": "安旭生物",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ000519",
-    "name": "中兵红箭",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ301071",
-    "name": "力量钻石",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH600210",
-    "name": "紫江企业",
-    "repeat": 1
-  },
-  {
-    "symbol": "SH688560",
-    "name": "明冠新材",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ002824",
-    "name": "和胜股份",
-    "repeat": 1
-  },
-  {
-    "symbol": "SZ300415",
-    "name": "伊 之 密",
     "repeat": 1
   }
 ]
